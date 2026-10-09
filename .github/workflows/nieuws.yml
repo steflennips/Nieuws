@@ -1,0 +1,60 @@
+name: Nieuws verversen en publiceren
+
+on:
+  schedule:
+    # Dagelijks om 04:00 UTC = 06:00 Nederlandse zomertijd (05:00 in de winter).
+    # GitHub kan geplande jobs enkele minuten tot uren uitstellen.
+    - cron: "0 4 * * *"
+  workflow_dispatch:   # handmatig starten: tabblad Actions > "Nieuws verversen en publiceren" > Run workflow
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  bouwen:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # nodig om data/nieuws.json terug te committen (standaard GITHUB_TOKEN, geen eigen sleutel)
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Nieuws ophalen
+        run: python src/ophalen.py
+
+      - name: Site bouwen
+        run: python src/bouw.py
+
+      - name: Nieuwe data bewaren in de repository
+        run: |
+          if [ -n "$(git status --porcelain data/nieuws.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/nieuws.json
+            git commit -m "Nieuws bijgewerkt"
+            git pull --rebase
+            git push
+          else
+            echo "Geen wijzigingen in data/nieuws.json"
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  publiceren:
+    needs: bouwen
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

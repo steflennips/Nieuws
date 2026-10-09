@@ -1,0 +1,957 @@
+{
+ "bijgewerkt": "2026-10-09T05:33:07+00:00",
+ "feeds": [
+  {
+   "feed": "Power BI Blog (Microsoft)",
+   "status": "OK",
+   "items": 20,
+   "bewaard": 13,
+   "verouderd": 7,
+   "geweigerd": 0
+  },
+  {
+   "feed": "Microsoft Fabric Blog",
+   "status": "OK",
+   "items": 20,
+   "bewaard": 20,
+   "verouderd": 0,
+   "geweigerd": 0
+  },
+  {
+   "feed": "SQLBI",
+   "status": "OK",
+   "items": 30,
+   "bewaard": 2,
+   "verouderd": 24,
+   "geweigerd": 0
+  },
+  {
+   "feed": "Microsoft Power Platform Blog (Power Automate)",
+   "status": "OK",
+   "items": 10,
+   "bewaard": 6,
+   "verouderd": 0,
+   "geweigerd": 0
+  },
+  {
+   "feed": "Camunda Blog (procesautomatisering)",
+   "status": "OK",
+   "items": 50,
+   "bewaard": 13,
+   "verouderd": 9,
+   "geweigerd": 2
+  },
+  {
+   "feed": "n8n Blog (workflow-automatisering)",
+   "status": "OK",
+   "items": 15,
+   "bewaard": 12,
+   "verouderd": 0,
+   "geweigerd": 1
+  },
+  {
+   "feed": "Computable",
+   "status": "OK",
+   "items": 10,
+   "bewaard": 4,
+   "verouderd": 0,
+   "geweigerd": 0
+  },
+  {
+   "feed": "Emerce",
+   "status": "OK",
+   "items": 10,
+   "bewaard": 2,
+   "verouderd": 0,
+   "geweigerd": 1
+  },
+  {
+   "feed": "Techzine",
+   "status": "OK",
+   "items": 10,
+   "bewaard": 4,
+   "verouderd": 0,
+   "geweigerd": 0
+  },
+  {
+   "feed": "NOS Tech",
+   "status": "OK",
+   "items": 20,
+   "bewaard": 10,
+   "verouderd": 0,
+   "geweigerd": 0
+  }
+ ],
+ "items": [
+  {
+   "id": "fff2b666a8db",
+   "titel": "Kort: Google-detector voor ‘ai-watermerk’, datacenter Russisch Yandex geraakt door drone-aanval",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-08",
+   "samenvatting": "Google lanceert detector voor ai-content, datacenter Russische internetgigant Yandex getroffen door drone-aanval, Apollo-pionier en bedenker term ‘software engineering’ overleden, 50 miljoen voor aanbieder digitale obesitas-zorg Yazen en Techone-onderdeel SolidQ neemt Trots IT over.",
+   "url": "https://www.computable.nl/2026/10/08/kort-google-detector-voor-ai-watermerk-datacenter-russisch-yandex-geraakt-door-drone-aanval/"
+  },
+  {
+   "id": "e06de586c04d",
+   "titel": "IT Automation Software: 6 Tools for Different IT Jobs",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-10-08",
+   "samenvatting": "The best IT automation software depends on what you’re automating. Here’s where six popular tools fit and what each brings to your IT stack.",
+   "url": "https://blog.n8n.io/it-automation-software/"
+  },
+  {
+   "id": "d44341b334c5",
+   "titel": "Ai jaagt cyberdreigingen aan, organisaties moeten veerkrachtig worden",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-08",
+   "samenvatting": "Ai versnelt cyberdreigingen dramatisch. Daardoor wordt cyberweerbaarheid een zakelijk en leiderschapsvraagstuk in plaats van slechts een technisch beveiligingsprobleem. Dat is de kernboodschap van het Microsoft Digital Defense Rapport 2026.",
+   "url": "https://www.computable.nl/2026/10/08/ai-jaagt-cyberdreigingen-aan-organisaties-moeten-veerkrachtig-worden/"
+  },
+  {
+   "id": "8f6eec551104",
+   "titel": "Kleine groepje klanten levert AI-reuzen meeste omzet",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-08",
+   "samenvatting": "De top 1 procent abonnees bij AI’s neemt bijna een vijfde van alle consumentenuitgaven voor zijn rekening, meer dan de onderste helft van alle betalers samen.",
+   "url": "https://www.emerce.nl/nieuws/kleine-groepje-klanten-levert-aireuzen-meeste-omzet"
+  },
+  {
+   "id": "8ee1a94ef044",
+   "titel": "Power BI September 2026 Feature Summary",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-10-08",
+   "samenvatting": "As the Power BI, Microsoft Fabric, data, and analytics community gathers in Barcelona for the European Microsoft Fabric + SQL Community Conference, this month is packed with news. From new Copilot and AI experiences to reporting, modeling, data connectivity, developer enhancements, and mobile upd...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-September-2026-Feature-Summary/ba-p/5325831"
+  },
+  {
+   "id": "8ed94b54f3a0",
+   "titel": "Begin bij het einde: zo maak je agentic remediation mogelijk",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-08",
+   "samenvatting": "Op woensdag 28 oktober staat tijdens ServiceNow World Forum in de RAI Amsterdam alles in het teken van succesvolle enterprise AI. Als voorproefje delen we in deze blog alvast een invalshoek: wat als we exposure management niet bij het begin, maar bij het einde aanpakken? Veel organisaties hebben...",
+   "url": "https://www.techzine.nl/experts/security/582599/begin-bij-het-einde-zo-maak-je-agentic-remediation-mogelijk/"
+  },
+  {
+   "id": "888e7aedee3a",
+   "titel": "Microsoft Power Pages is now available in Sweden Central and Italy North",
+   "categorie": "Automatisering",
+   "bron": "Microsoft Power Platform Blog (Power Automate)",
+   "taal": "en",
+   "datum": "2026-10-08",
+   "samenvatting": "We’re excited to announce the general availability of Microsoft Power Pages in the Sweden Central and Italy North regions. Whether you’re a no-code, low-code, or code-first developer, Power Pages empowers you to build scalable, secure, and business-centric websites. The post Microsoft Power Pages...",
+   "url": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/microsoft-power-pages-is-now-available-in-sweden-central-and-italy-north/"
+  },
+  {
+   "id": "52fe36fc0c94",
+   "titel": "Compacte en snelle Claude Haiku 5.5 vervangt eindelijk 4.5",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-08",
+   "samenvatting": "Op een week na een jaar geleden bracht Anthropic Claude Haiku 4.5 uit, een compact, goedkoop en snel alternatief voor Sonnet en Opus. Nu is er eindelijk weer een volledig geüpdatete optelsom in de Claude-reeks: Opus 5.5 voor ambitieuze taken, Sonnet 5.5 voor net wat minder complex werk en Haiku 5...",
+   "url": "https://www.techzine.nl/nieuws/applications/582583/compacte-en-snelle-claude-haiku-5-5-vervangt-eindelijk-4-5/"
+  },
+  {
+   "id": "4ba1655216c0",
+   "titel": "Ai in het soc: humans in de lead en in de loop",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-08",
+   "samenvatting": "Ai in het soc lijkt op een blaffende Rottweiler die misschien ook de baas gaat bijten. Soc-teamleads zien de enorme potentie, ook voor aanvallers, en zijn voorzichtig. 'We zetten bewust geen hele grote stappen', zegt een van hen. Hoe verandert ai hun werk? Is ai echt zo goed als vendoren beloven?",
+   "url": "https://www.computable.nl/2026/10/08/ai-in-het-soc-humans-in-de-lead-en-in-de-loop/"
+  },
+  {
+   "id": "2e359dcdbb03",
+   "titel": "AMD pakt de hele AI-stack, maar belooft keuzevrijheid",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-08",
+   "samenvatting": "AMD is in korte tijd opgeschoven van chipleverancier naar leverancier van complete AI-systemen, en wil met een modelbouwer nu ook de laag erboven in huis halen. Tegelijk positioneert het bedrijf zich in Europa als het open alternatief waarmee klanten nergens aan vast komen te zitten. CTO Mark Pap...",
+   "url": "https://www.techzine.nl/blogs/infrastructure/582589/amd-pakt-de-hele-ai-stack-maar-belooft-keuzevrijheid/"
+  },
+  {
+   "id": "1fa4db34bae3",
+   "titel": "Microsoft introduceert hybride ai voor Windows 11: slimmer en goedkoper",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-08",
+   "samenvatting": "Microsoft introduceert hybride intelligentie binnen het Windows-platform. Deze innovatieve architectuur voert ai-processen deels lokaal op de computer en deels via de cloud uit. Door taken slim te verdelen vermindert de kans op onverwacht hoge facturen van cloud providers.",
+   "url": "https://www.computable.nl/2026/10/08/microsoft-introduceert-hybride-ai-voor-windows-11-slimmer-en-goedkoper/"
+  },
+  {
+   "id": "147014871b60",
+   "titel": "OutSystems Agent Experience opent platform voor Claude Code en Cursor",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-08",
+   "samenvatting": "OutSystems maakt Agent Experience algemeen beschikbaar. Ontwikkelaars kunnen daarmee externe AI-codingagents als Claude Code, Cursor, Codex en Kiro inzetten op het low-codeplatform. De agent bepaalt de architectuur, OutSystems genereert de code. Governance en security zijn standaard ingebouwd. Ou...",
+   "url": "https://www.techzine.nl/nieuws/devops/582603/outsystems-agent-experience-opent-platform-voor-claude-code-en-cursor/"
+  },
+  {
+   "id": "e6ecdb48b291",
+   "titel": "Planning in Microsoft Fabric: From insight to action",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-07",
+   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. Planning in Microsoft Fabric IQ is redefining what modern enter...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Planning-in-Microsoft-Fabric-From-insight-to-action/ba-p/5369552"
+  },
+  {
+   "id": "9ecfdb8311ae",
+   "titel": "Kort: Agents vergroten risico sw-kwetsbaarheden, SAS lanceert platform ai-toezicht (en meer)",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-07",
+   "samenvatting": "IBM en Red Hat dichten vierhonderd softwarelekken die ai-aanvallen kunnen versterken, SAS brengt ai-governance voor modellen en agents naar de markt, Unit4 lijft Frans ai-softwarebedrijf Napta in, Your.Cloud breidt onderwijs-it uit met Speyk, en nieuwe topmannen voor Accenture en ARP.",
+   "url": "https://www.computable.nl/2026/10/07/kort-agents-vergroten-risico-sw-kwetsbaarheden-sas-lanceert-platform-ai-toezicht-en-meer/"
+  },
+  {
+   "id": "869863b174f5",
+   "titel": "Fabric September 2026 Feature Summary",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-07",
+   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. Welcome to the September 2026 Fabric Feature Summary! As the Mi...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825"
+  },
+  {
+   "id": "59f2cb2c8d0b",
+   "titel": "AI helpt verpleegkundigen wonden sneller vast te leggen bij LUMC",
+   "categorie": "Automatisering",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-07",
+   "samenvatting": "Een nieuwe AI-assistent van het Leids Universitair Medisch Centrum (LUMC) en KickstartAI kan inmiddels verschillende onderdelen van een wondverslag automatisch voorbereiden op basis van een foto. Uit een eerste pilot blijkt onder meer dat de technologie grotere wonden al relatief nauwkeurig kan o...",
+   "url": "https://www.emerce.nl/nieuws/ai-helpt-verpleegkundigen-wonden-sneller-vast-leggen-lumc"
+  },
+  {
+   "id": "89e79816dce9",
+   "titel": "Ook ChatGPT-teksten krijgen onzichtbaar 'watermerk'",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-10-06",
+   "samenvatting": "Teksten van ChatGPT-gebruikers worden voorzien van een onzichtbaar 'watermerk'. Hiermee moet duidelijker worden of een tekst authentiek is of gegenereerd is door kunstmatige intelligentie, aldus OpenAI. Het watermerk, genaamd textGrain, wordt komende tijd verwerkt in AI-teksten van gebruikers in...",
+   "url": "https://nos.nl/l/2633893"
+  },
+  {
+   "id": "cd527351ce27",
+   "titel": "Tijdelijk verbod op AI-brillen in Noorwegen, regering stelt onderzoek in",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-10-05",
+   "samenvatting": "De Noorse regering wil een tijdelijk verbod op AI-brillen op een aantal plekken in de openbare ruimte. De regering zegt zich zorgen te maken dat mensen zonder hun medeweten kunnen worden gefilmd of gefotografeerd. Zo'n AI-bril lijkt op een gewone bril maar heeft een ingebouwde camera en microfoon...",
+   "url": "https://nos.nl/l/2633750"
+  },
+  {
+   "id": "c58caf398265",
+   "titel": "Fabric Influencers Spotlight: September 2026",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-05",
+   "samenvatting": "See what the people who implement Fabric are working on, learning, and sharing this month!",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Influencers-Spotlight-September-2026/ba-p/5372276"
+  },
+  {
+   "id": "e796f5e65453",
+   "titel": "When to Use an LLM Knowledge Graph or a Vector RAG",
+   "categorie": "AI",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-10-01",
+   "samenvatting": "An LLM knowledge graph and vector RAG ground models differently. See when to use each, how to build a knowledge graph from text, and how to run both smoothly.",
+   "url": "https://blog.n8n.io/llm-knowledge-graph/"
+  },
+  {
+   "id": "c3e7335cb8f5",
+   "titel": "iPaaS vs. API Management: What Engineers Choose When Both Fall Short",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-10-01",
+   "samenvatting": "Compare iPaaS versus API management tools. See why engineering teams that need execution control, self-hosting, and code-level extensibility reach for n8n.",
+   "url": "https://blog.n8n.io/ipaas-vs-api-management/"
+  },
+  {
+   "id": "57c79bad39b1",
+   "titel": "Your AI transformation starts with what you’ve already built",
+   "categorie": "AI",
+   "bron": "Microsoft Power Platform Blog (Power Automate)",
+   "taal": "en",
+   "datum": "2026-10-01",
+   "samenvatting": "See how Power Apps, Power Platform, and Copilot Studio are helping teams transform ideas into AI-powered business solutions at PPCC 2026. The post Your AI transformation starts with what you’ve already built appeared first on Microsoft Power Platform Blog.",
+   "url": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/your-ai-transformation-starts-with-what-youve-already-built/"
+  },
+  {
+   "id": "10d65f76e074",
+   "titel": "How API Contract Testing Prevents Production Failures",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-10-01",
+   "samenvatting": "API contract testing helps you catch breaking changes before they disrupt your workflows. See how n8n validates API responses while your automations run.",
+   "url": "https://blog.n8n.io/how-api-contract-testing-prevents-production-failures/"
+  },
+  {
+   "id": "d8725372cba4",
+   "titel": "Microsoft & Snowflake’s Commitment to Apache Ossie",
+   "categorie": "Data",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-09-30",
+   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. Advancing an open, interoperable semantic foundation for AI-pow...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Snowflake-s-Commitment-to-Apache-Ossie/ba-p/5369534"
+  },
+  {
+   "id": "c1d388349c38",
+   "titel": "Build, deploy, and govern Microsoft Fabric at scale",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-30",
+   "samenvatting": "If you haven’t already, check out Arun Ulag’s hero blog “FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents” for a complete look at all of our FabCon and SQLCon announcements across both Fabric and our database offerings. Getting a data project work...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-deploy-and-govern-Microsoft-Fabric-at-scale/ba-p/5369145"
+  },
+  {
+   "id": "aa5c4589454b",
+   "titel": "Bringing governed analytics into the flow of work: Fabric Analytics at FabCon Europe 2026",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-30",
+   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. An end-to-end look at what's new in Fabric Analytics and how go...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-governed-analytics-into-the-flow-of-work-Fabric/ba-p/5368918"
+  },
+  {
+   "id": "a7e9daebfcad",
+   "titel": "Britse supermarkten zetten AI in om stijgend aantal winkeldiefstallen te stoppen",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-09-30",
+   "samenvatting": "Een sterke stijging in winkeldiefstal maakt dat steeds meer Britse supermarkten en winkels beveiligingscamera's met AI-technologie en gezichtsherkenning installeren. \"Als we dat niet doen, gaan we failliet\", zegt Nathan Walmsley, de manager van supermarktketen Filco in Wales. \"Zo extreem is het\",...",
+   "url": "https://nos.nl/l/2633181"
+  },
+  {
+   "id": "8b50552abc3b",
+   "titel": "FabCon and SQLCon Barcelona 2026: What’s new in Microsoft OneLake and its rapidly growing ecosystem",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-29",
+   "samenvatting": "If you haven’t already, check out Arun Ulag’s hero blog “FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents” for a complete look at all our FabCon and SQLCon announcements across both Fabric and our database offerings. Organizations are moving quick...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146"
+  },
+  {
+   "id": "796600bacc61",
+   "titel": "FabCon/SQLCon Barcelona 2026: What’s new in Fabric Data Factory",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-29",
+   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. Almost every conversation I have with customers comes back to t...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-SQLCon-Barcelona-2026-What-s-new-in-Fabric-Data-Factory/ba-p/5369551"
+  },
+  {
+   "id": "52701d7d8b2b",
+   "titel": "Power BI’s next chapter: The evolution of business intelligence",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-09-29",
+   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. More than a decade ago, I watched Power BI change the way users...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-s-next-chapter-The-evolution-of-business-intelligence/ba-p/5369131"
+  },
+  {
+   "id": "36df02f7be51",
+   "titel": "Modernize your Azure Data Estate with Microsoft Fabric: A guided path from Azure Data Factory and Azure Synapse",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-29",
+   "samenvatting": "Authors: Faisal Mohamood and Bogdan Crivat If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. Most enterprise anal...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Modernize-your-Azure-Data-Estate-with-Microsoft-Fabric-A-guided/ba-p/5369129"
+  },
+  {
+   "id": "1d154616a3df",
+   "titel": "Trusted AI starts with Microsoft Fabric, Real-Time Intelligence, and IQ",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-29",
+   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. Microsoft IQ: One enterprise, acting on one live picture Organi...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Trusted-AI-starts-with-Microsoft-Fabric-Real-Time-Intelligence/ba-p/5369528"
+  },
+  {
+   "id": "1c8b159a7e88",
+   "titel": "From prompt to production: What's new in Fabric Apps",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-29",
+   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. Fabric Apps is the application layer built on Microsoft Fabric....",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-prompt-to-production-What-s-new-in-Fabric-Apps/ba-p/5369134"
+  },
+  {
+   "id": "0d1fcab20ea2",
+   "titel": "Connecting apps, databases, and AI on one foundation: new innovations at SQLCon and FabCon EU 2026",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-29",
+   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. AI is changing what organizations need from their databases. Th...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Connecting-apps-databases-and-AI-on-one-foundation-new/ba-p/5369538"
+  },
+  {
+   "id": "76fe4526c657",
+   "titel": "Increase AI Agent Trust: Stop Stitching Logs to Explain an AI Agent's Decision",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-09-28",
+   "samenvatting": "Explain any AI agent's decision without stitching logs. Camunda 8.10 shows agent state, reasoning, and tool calls in Operate, for every agent.",
+   "url": "https://camunda.com/blog/2026/09/stop-stitching-logs-to-explain-an-ai-agents-decision/"
+  },
+  {
+   "id": "ac9819999974",
+   "titel": "OpenAI pauzeert training modellen na aanval op overheidswebsites",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-09-27",
+   "samenvatting": "Het Amerikaanse bedrijf OpenAI heeft de training van zijn AI-modellen tijdelijk stopgezet. Aanleiding zijn de aanvallen van Open AI-agents afgelopen zomer op websites van onder meer de Amerikaanse overheid. AI-agents zijn AI-programma's die bepaalde opdrachten kunnen uitvoeren. De agents van Open...",
+   "url": "https://nos.nl/l/2632698"
+  },
+  {
+   "id": "7ad81d4b4a34",
+   "titel": "On-premises data gateway September 2026 release",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-25",
+   "samenvatting": "The September 2026 release of the on-premises data gateway (version 3000.334) continues our commitment to delivering secure, reliable, and manageable connectivity between on-premises data sources and Microsoft Fabric services. This release includes improvements focused on gateway manageability, o...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-September-2026-release/ba-p/5368525"
+  },
+  {
+   "id": "32d3b4c11c1c",
+   "titel": "Introducing n8n Agents",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-09-25",
+   "samenvatting": "n8n now has a new type of Agent. Describe what an agent should do, choose a model, the tools and workflows it can use, and it's ready to go!",
+   "url": "https://blog.n8n.io/introducing-n8n-agents/"
+  },
+  {
+   "id": "d7592511b946",
+   "titel": "China en VS beide op zoek naar de heilige graal van AI-heerschappij",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-09-24",
+   "samenvatting": "Bij de top vandaag in Washington tussen de Chinese president Xi Jiping en zijn Amerikaanse gastheer Trump zal ook de ontwikkeling van AI ter tafel komen. Zowel China als de VS is er veel aan gelegen de onbetwiste leider te worden in het toepassen van kunstmatige intelligentie. Een dergelijke posi...",
+   "url": "https://nos.nl/l/2632294"
+  },
+  {
+   "id": "88cdeae290e7",
+   "titel": "Modern List in Power Pages is now generally available",
+   "categorie": "Automatisering",
+   "bron": "Microsoft Power Platform Blog (Power Automate)",
+   "taal": "en",
+   "datum": "2026-09-23",
+   "samenvatting": "Today, we’re announcing the general availability of Modern List in Power Pages, a refreshed data presentation experience that helps makers showcase Dataverse data with modern Fluent UI components, seamless infinite scrolling, inline filtering, shimmer loading, flexible low-code customization and...",
+   "url": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/modern-list-in-power-pages-is-now-generally-available/"
+  },
+  {
+   "id": "3f9d6de4fb36",
+   "titel": "The Orchestrators: Inside the Build with Joyce Johnson",
+   "categorie": "Automatisering",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-09-23",
+   "samenvatting": "Every Camundi has a before and an after with AI. Discover how Joyce Johnson uses AI-first ways of working to build richer demos, streamline technical storytelling, and work faster at Camunda.",
+   "url": "https://camunda.com/blog/2026/09/the-orchestrators-inside-the-build-with-joyce-johnson/"
+  },
+  {
+   "id": "be7478f941e6",
+   "titel": "Where we stand on AI and DAX in 2026",
+   "categorie": "BI",
+   "bron": "SQLBI",
+   "taal": "en",
+   "datum": "2026-09-22",
+   "samenvatting": "The time has come: in 2026, using AI to write DAX has started to be effective. Let me recap what has changed between 2023 and 2026, and what we are doing with our three new courses to best assist you…",
+   "url": "https://www.sqlbi.com/blog/marco/2026/09/22/where-we-stand-on-ai-and-dax-in-2026/"
+  },
+  {
+   "id": "257f8621f3cc",
+   "titel": "Prompt Testing Frameworks for Production AI Workflows",
+   "categorie": "AI",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-09-21",
+   "samenvatting": "Still guessing if your prompts work? Learn how to build a systematic prompt testing framework that catches regressions before they reach production.",
+   "url": "https://blog.n8n.io/prompt-testing-frameworks/"
+  },
+  {
+   "id": "46e387671e19",
+   "titel": "Reducing AI Workflow Latency: Patterns That Actually Work",
+   "categorie": "AI",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-09-19",
+   "samenvatting": "Learn how to reduce AI workflow latency with production patterns for latency optimization: model routing, caching, parallel execution, timeouts, and budgets.",
+   "url": "https://blog.n8n.io/reducing-ai-workflow-latency/"
+  },
+  {
+   "id": "c28cbe2e76d3",
+   "titel": "Extend Server Logic with Power Automate Cloud Flows in Power Pages",
+   "categorie": "Automatisering",
+   "bron": "Microsoft Power Platform Blog (Power Automate)",
+   "taal": "en",
+   "datum": "2026-09-18",
+   "samenvatting": "Server Logic enables makers and developers to execute business logic securely on the server. However, connected business applications often need website experiences to participate in processes that extend beyond the site. We are introducing support for invoking Power Automate cloud flows from Ser...",
+   "url": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/extend-server-logic-with-power-automate-cloud-flows-in-power-pages/"
+  },
+  {
+   "id": "f214740198d9",
+   "titel": "Mirroring for Google BigQuery in Microsoft Fabric (Generally Available)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-17",
+   "samenvatting": "Mirroring for Google BigQuery in Microsoft Fabric is now generally available. For organizations running critical workloads on BigQuery, this means a simpler, faster, and lower-cost path to bringing your data into the rest of your analytics estate — with production support, an enterprise SLA, and...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Mirroring-for-Google-BigQuery-in-Microsoft-Fabric-Generally/ba-p/5364851"
+  },
+  {
+   "id": "bd2bb5525ad4",
+   "titel": "Soft delete for On-premises data gateways in Microsoft Fabric (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-17",
+   "samenvatting": "Deleting a gateway is currently permanent, so administrators must recreate it if it is removed accidentally. With soft delete, supported gateways are retained for 30 days after deletion, giving authorized administrators time to restore them before permanent deletion. Soft delete feature currently...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Soft-delete-for-On-premises-data-gateways-in-Microsoft-Fabric/ba-p/5365712"
+  },
+  {
+   "id": "604150cc8b51",
+   "titel": "Manage semantic model settings in context with the default settings pane (Preview)",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-09-17",
+   "samenvatting": "The semantic model settings pane is becoming the default way to configure semantic models in the Power BI service. The pane opens alongside your workspace, so you can review and change settings without leaving the current page. It provides the same settings as the full semantic model settings pag...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Manage-semantic-model-settings-in-context-with-the-default/ba-p/5366792"
+  },
+  {
+   "id": "089089781a94",
+   "titel": "Upcoming changes to legacy Teams and Outlook activities in Fabric Data Factory pipelines",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-17",
+   "samenvatting": "Beginning October 30, 2026, users will no longer be able to add new legacy Teams or legacy Outlook activities to pipelines. These legacy activities will no longer appear as options when users add new activities to a pipeline. Existing legacy activity instances can still be edited and used in exis...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Upcoming-changes-to-legacy-Teams-and-Outlook-activities-in/ba-p/5314499"
+  },
+  {
+   "id": "daeecff65d6f",
+   "titel": "Kritiek op AI-bedrijven die oproepen tot vertraging vanwege gevaar: 'Doe het dan'",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-09-16",
+   "samenvatting": "De oproep van de topman van AI-bedrijf Anthropic om op een lager tempo nieuwe krachtige AI-modellen uit te brengen, leidt tot kritiek van binnen en buiten de AI-sector. Als je het echt zo belangrijk vindt om te vertragen, dóe het dan, zegt onder meer een invloedrijke adviseur van de Amerikaanse p...",
+   "url": "https://nos.nl/l/2631270"
+  },
+  {
+   "id": "d7c16defa7f7",
+   "titel": "Try new models and services, skip the account setup",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-09-16",
+   "samenvatting": "Starting with n8n v2.36, you can now use supported AI models and tool services on select n8n Cloud plans without creating a provider account or generating an API key. Choose Gateway credits instead of adding a credential. Six model providers and five tool services work right out of the box.",
+   "url": "https://blog.n8n.io/gateway-credits/"
+  },
+  {
+   "id": "6ef8f601434c",
+   "titel": "Why Bolting AI Onto Legacy Workflows Fails (and What NYC Enterprise Leaders Are Doing About It)",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-09-16",
+   "samenvatting": "Enterprise leaders met at Camunda’s NYC Roadshow to discuss the AI Process Gap—and why real transformation requires re-engineering processes from the ground up on open standards.",
+   "url": "https://camunda.com/blog/2026/09/why-bolting-ai-onto-legacy-workflows-fails-and-what-nyc-enterprise-leaders-are-doing-about-it/"
+  },
+  {
+   "id": "d5059d4ded2e",
+   "titel": "Moving off ODBC — A self-serve scanner for your ADBC migration",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-15",
+   "samenvatting": "If your Fabric workspace connects to an ODBC driver, and you haven’t already moved to the ADBC driver, you’re on the ODBC → ADBC migration path. The migration window is already open — the sooner you start, the more room you have to validate.What’s happening Power Query is transitioning from legac...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Moving-off-ODBC-A-self-serve-scanner-for-your-ADBC-migration/ba-p/5365622"
+  },
+  {
+   "id": "d2072226347f",
+   "titel": "From Business Events, Fabric Events, and Azure Events to Real-Time Hub",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-14",
+   "samenvatting": "Welcome to the eighth and final post in our Business Events, Fabric Events, and Azure Events series for Microsoft Fabric. This series takes you from foundational event-driven concepts to practical implementation patterns that help teams turn meaningful business moments into trusted signals, decis...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-Business-Events-Fabric-Events-and-Azure-Events-to-Real-Time/ba-p/5365864"
+  },
+  {
+   "id": "b191d37dcc93",
+   "titel": "Designing scalable Business Events in Microsoft Fabric",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-14",
+   "samenvatting": "Welcome to the seventh post in our Business Events, Fabric Events, and Azure Events series for Microsoft Fabric. This series takes you from foundational event-driven concepts to practical implementation patterns that help teams turn meaningful business moments into trusted signals, decisions, and...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Designing-scalable-Business-Events-in-Microsoft-Fabric/ba-p/5365863"
+  },
+  {
+   "id": "753021598549",
+   "titel": "Diagnose Fabric Data Warehouse workloads with the SQL DW operations skill (Generally Available)",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-14",
+   "samenvatting": "When a warehouse slows down, the investigation usually starts with more questions than answers. Was there a capacity spike? Did a specific query suddenly become expensive? Are requests failing, being canceled, or simply taking longer than usual? Answering those questions often requires switching...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Diagnose-Fabric-Data-Warehouse-workloads-with-the-SQL-DW/ba-p/5366102"
+  },
+  {
+   "id": "0f0a8ac9bed0",
+   "titel": "Kwart Kamervragen met behulp van AI geschreven, aantal neemt toe",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-09-14",
+   "samenvatting": "Een kwart van de ingediende documenten met Kamervragen is in ieder geval deels geschreven door AI. Dat blijkt uit onderzoek van de NOS naar 2500 documenten met daarin ruim 28.000 individuele Kamervragen. Dat betekent dat de teksten zijn geschreven door een AI-tool als ChatGPT of Claude. De inzet...",
+   "url": "https://nos.nl/l/2630963"
+  },
+  {
+   "id": "66c97aa28a4d",
+   "titel": "AI-topmannen waarschuwen: AI dreigt ons de baas te worden",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-09-13",
+   "samenvatting": "De topmannen van grote westerse AI-bedrijven zeggen dat hun sector dusdanig snel groeit dat het lastig wordt om de veiligheid te waarborgen. De ontwikkeling van nieuwe AI-modellen moet vertraagd worden, omdat AI-agents binnen zes tot twaalf maanden het hele internet zouden kunnen overnemen. Met d...",
+   "url": "https://nos.nl/l/2630799"
+  },
+  {
+   "id": "a288b4e3c0cf",
+   "titel": "Reflection Pattern: AI Agents Self-Correct in Production",
+   "categorie": "AI",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-09-11",
+   "samenvatting": "Reflection pattern for LLMs: a self-critique loop that improves correctness, clarity, and reliability with measurable quality gates, ROI, and safety controls",
+   "url": "https://blog.n8n.io/reflection-pattern-ai-agents-self-correct-in-production/"
+  },
+  {
+   "id": "8b766eb904c5",
+   "titel": "Process Orchestration: Execution Models, Observability, and Production Challenges",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-09-11",
+   "samenvatting": "Compare deterministic, dynamic, and agentic process orchestration models to build reliable, scalable workflows with visibility across enterprise systems.",
+   "url": "https://blog.n8n.io/process-orchestration/"
+  },
+  {
+   "id": "bebd783f2a41",
+   "titel": "Autonomous AI Agents: Architecture and Risk Mitigation",
+   "categorie": "AI",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-09-10",
+   "samenvatting": "Discover what autonomous AI agents are and how they work. Learn different levels of autonomy, common use cases, and ways to mitigate risks.",
+   "url": "https://blog.n8n.io/autonomous-ai-agents/"
+  },
+  {
+   "id": "351bbf24b81c",
+   "titel": "Lineage-aware AI with the Fabric item relations API (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-09-10",
+   "samenvatting": "With two new REST operations, you can retrieve the upstream and downstream relations of any Fabric item directly from your own code — the dependency graph behind the portal's lineage view, now available as a supported, programmable surface. Each response includes related items, the typed relation...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Lineage-aware-AI-with-the-Fabric-item-relations-API-Preview/ba-p/5366064"
+  },
+  {
+   "id": "29dc63abd9c7",
+   "titel": "MCP vs. API: Key Differences and When To Use Each",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-09-10",
+   "samenvatting": "MCP vs. API: Learn how the Model Context Protocol differs from traditional APIs, when to use each, and how to combine both in n8n.",
+   "url": "https://blog.n8n.io/mcp-vs-api/"
+  },
+  {
+   "id": "112abbbf7dab",
+   "titel": "Power BI Q&A retirement reminder: February 2027 timeline update",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-09-10",
+   "samenvatting": "In December, we announced the retirement of Power BI Q&A, our legacy natural-language querying experience, with retirement planned for December 2026. To give current Q&A user's additional time to assess their dependencies and transition to newer Copilot-powered solutions, we’re extending the reti...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Q-A-retirement-reminder-February-2027-timeline-update/ba-p/5365841"
+  },
+  {
+   "id": "e19c28555af6",
+   "titel": "The Data Says It: AI Isn't Failing You. Your Processes Are",
+   "categorie": "Automatisering",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-09-09",
+   "samenvatting": "Legacy business processes are causing AI initiatives to fail at a staggering rate. Let’s talk about process re-engineering.",
+   "url": "https://camunda.com/blog/2026/09/the-data-says-it-ai-isnt-failing-you-your-processes-are/"
+  },
+  {
+   "id": "4210c14c81d7",
+   "titel": "VS beschuldigt Chinese AI-bedrijven van massaal kopiëren van technologie",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-09-09",
+   "samenvatting": "Drie grote Amerikaanse veiligheidsdiensten beschuldigen Chinese AI-bedrijven van het op grote schaal kopiëren van AI-modellen van Amerikaanse bedrijven. Deze \"agressieve en kwaadaardige\" praktijken vormen volgens de veiligheidsdiensten \"de kern\" van de ontwikkeling van Chinese AI-technologie. De...",
+   "url": "https://nos.nl/l/2630302"
+  },
+  {
+   "id": "f7ac26701016",
+   "titel": "Where AI Really Creates Value and Where It Doesn't",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-09-08",
+   "samenvatting": "Is the extra complexity of AI worth adding to a process? Here's how to tell where AI creates value and where it doesn’t, with examples, numbers, and one simple checklist.",
+   "url": "https://camunda.com/blog/2026/09/where-ai-really-creates-value-and-where-it-doesnt/"
+  },
+  {
+   "id": "92a3dfbc709b",
+   "titel": "Enhanced Data Model Migration Utility Now Generally Available, with Dynamics 365 Portal Templates Support",
+   "categorie": "Data",
+   "bron": "Microsoft Power Platform Blog (Power Automate)",
+   "taal": "en",
+   "datum": "2026-09-07",
+   "samenvatting": "We’re excited to announce that the Standard Data Model (SDM) to Enhanced Data Model (EDM) migration utility in Microsoft Power Platform CLI is now generally available (GA) and it now also supports four key Dynamics 365 portal templates: New sites using these templates could be provisioned on EDM...",
+   "url": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/enhanced-data-model-migration-utility-now-generally-available-with-dynamics-365-portal-templates-support/"
+  },
+  {
+   "id": "e02f4de57b90",
+   "titel": "Nieuw tijdperk van superintelligente AI aangebroken, zegt OpenAI",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-09-04",
+   "samenvatting": "Er is een nieuw tijdperk aangebroken in de wereld van kunstmatige intelligentie (AI), zegt topman Greg Brockman van OpenAI, het bedrijf achter ChatGPT. Hij heeft het over 'AGI', de afkorting van artificial general intelligence: kunstmatige algemene intelligentie. Daarvan is volgens het bedrijf sp...",
+   "url": "https://nos.nl/l/2629704"
+  },
+  {
+   "id": "668369d70af6",
+   "titel": "Optimizing a Process for Target KPIs with AI: A Job Analysts Used to Do by Hand",
+   "categorie": "BI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-09-03",
+   "samenvatting": "Two processes. Clear KPIs. An honest look at the results, with real prompts, diagrams, and the AI's own reasoning.",
+   "url": "https://camunda.com/blog/2026/09/optimizing-a-process-for-target-kpis-with-ai-a-job-analysts-used-to-do-by-hand/"
+  },
+  {
+   "id": "3e1818ad92ea",
+   "titel": "Modern Power BI architecture choices for reporting on Azure Databricks: A performance benchmark for Power BI storage modes",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-09-03",
+   "samenvatting": "Many enterprise Power BI semantic models use Azure Databricks as a data source. When building these models, developers and architects face an early and consequential decision: which storage mode to use. Cost, security, and ease of development and tuning all factor in — but report performance is p...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Modern-Power-BI-architecture-choices-for-reporting-on-Azure/ba-p/5364286"
+  },
+  {
+   "id": "1c67067b85ff",
+   "titel": "PPCC 2026: Bringing AI and your business processes together",
+   "categorie": "Automatisering",
+   "bron": "Microsoft Power Platform Blog (Power Automate)",
+   "taal": "en",
+   "datum": "2026-09-03",
+   "samenvatting": "Every enterprise runs on business processes, but it’s the people that provide judgment, manage exceptions, and often connect systems that were never designed to work together. The post PPCC 2026: Bringing AI and your business processes together appeared first on Microsoft Power Platform Blog.",
+   "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/"
+  },
+  {
+   "id": "0f03d660338f",
+   "titel": "From Legacy BPM Migration to a Foundation for Continuous Re-engineering",
+   "categorie": "Automatisering",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-09-03",
+   "samenvatting": "Traditional migrations require months of disruption and high cost. What if it could move quickly while also building foundations for re-engineering that legacy platforms were never built to support?",
+   "url": "https://camunda.com/blog/2026/09/from-legacy-bpm-migration-to-a-foundation-for-continuous-re-engineering/"
+  },
+  {
+   "id": "60c4b3076cbe",
+   "titel": "Power BI sample reports, refreshed with modern visual defaults",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-09-02",
+   "samenvatting": "Microsoft has refreshed its Power BI sample reports with modern visual defaults, stronger semantic models, mobile-optimized layouts, and newer authoring features to help creators build clearer, more effective reports.",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-sample-reports-refreshed-with-modern-visual-defaults/ba-p/5363807"
+  },
+  {
+   "id": "dd2a5a35c881",
+   "titel": "How to Test an AI Agent That Never Does the Same Thing Twice",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-08-27",
+   "samenvatting": "Testing an AI agent means testing the process around it, which is deterministic and free, the model's behavior, which is neither, and whether it stays consistent over time.",
+   "url": "https://camunda.com/blog/2026/08/how-to-test-an-ai-agent-that-never-does-the-same-thing-twice/"
+  },
+  {
+   "id": "7f2ccff12beb",
+   "titel": "From Weeks to Days: What Camunda's AI Skills Actually Saved Me",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-08-26",
+   "samenvatting": "A first-hand account of building a real Camunda 8 process with the official AI Skills, and exactly which skill fixed which problem, from gateway conditions to agent tool wiring.",
+   "url": "https://camunda.com/blog/2026/08/from-weeks-to-days-what-camundas-ai-skills-actually-saved-me/"
+  },
+  {
+   "id": "b180805b2f0a",
+   "titel": "The Orchestrators: Inside the Build with Lana-Sophie Stawowski",
+   "categorie": "Automatisering",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-08-25",
+   "samenvatting": "Every Camundi has a before and an after with AI. Discover how Lana-Sophie Stawowski uses AI-first ways of working to rethink strategic execution.",
+   "url": "https://camunda.com/blog/2026/08/the-orchestrators-inside-the-build-with-lana-sophie-stawowski/"
+  },
+  {
+   "id": "3ae2401ecdf1",
+   "titel": "Direct Lake Calculated Columns (Preview)",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-08-24",
+   "samenvatting": "Calculated columns are now available in preview for Direct Lake on OneLake semantic models. This has been one of the most requested capabilities since Direct Lake launched and closes a long-standing gap with Import and DirectQuery storage modes. You can define calculated columns directly in your...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Direct-Lake-Calculated-Columns-Preview/ba-p/5357159"
+  },
+  {
+   "id": "2d6f7aada9be",
+   "titel": "Upgrade Power BI Dataflows Gen1 to Fabric Dataflows Gen2 with the Upgrade Wizard (Preview)",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-08-24",
+   "samenvatting": "Upgrading Power BI Dataflows Gen1 is now easier with the Dataflows Upgrade Wizard. Now in preview for eligible workspaces assigned to Fabric capacity, the wizard provides a guided experience to upgrade Power BI Dataflows Gen1 items to Fabric Dataflows Gen2 (CI/CD). The wizard preserves key proper...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Upgrade-Power-BI-Dataflows-Gen1-to-Fabric-Dataflows-Gen2-with/ba-p/5360422"
+  },
+  {
+   "id": "e25eb4fe1d25",
+   "titel": "Power BI August 2026 Feature Summary",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-08-21",
+   "samenvatting": "Welcome to the August 2026 Power BI Feature Summary! This month includes updates across reporting, modeling, data connectivity, mobile, embedded analytics, and developer experiences, with a mix of generally available enhancements and new preview capabilities. Let's take a look at what's new. Tabl...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-August-2026-Feature-Summary/ba-p/5348434"
+  },
+  {
+   "id": "b1ff944761c1",
+   "titel": "The AI Semantic Layer You Probably Already Have",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-08-20",
+   "samenvatting": "If your organization uses Power BI, you own something most companies chasing AI are desperately trying to build. You just may not know it by name. Let me explain.The invisible thing behind every report Every Power BI report you have ever opened sits on top of a semantic model. Every single one. N...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/The-AI-Semantic-Layer-You-Probably-Already-Have/ba-p/5360197"
+  },
+  {
+   "id": "63c53226d567",
+   "titel": "Start With These Six Processes to Build Your AI-Native Bank",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-08-20",
+   "samenvatting": "Banks and FIs providers already run AI agents in pilots. Few have them moving the needle on expense ratios and time-to-yes. What separates the two is whether agents operate inside a governed, end-to-end process.",
+   "url": "https://camunda.com/blog/2026/08/6-agentic-use-cases-banking-financial-services/"
+  },
+  {
+   "id": "d52d726112d3",
+   "titel": "Edit your Power BI projects anywhere and reload them instantly in Power BI Desktop (Preview)",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-08-18",
+   "samenvatting": "Power BI Projects (PBIP) make reports and semantic models file-based, enabling source control, automation, and other developer workflows. You can edit those files directly in a code editor or through external tools. Until now, changes made outside of Power BI Desktop wouldn't appear until you res...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Edit-your-Power-BI-projects-anywhere-and-reload-them-instantly/ba-p/5359136"
+  },
+  {
+   "id": "a0fd02d9a23e",
+   "titel": "Three Ways Camunda Speaks MCP (And Why the Direction Matters)",
+   "categorie": "Automatisering",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-08-18",
+   "samenvatting": "Most MCP integrations go one direction. Camunda ships all three. As a client calling tools, as a server for queries, and as a callable process capability. Here's how, with one flight disruption scenario as the thread.",
+   "url": "https://camunda.com/blog/2026/08/three-ways-camunda-speaks-mcp-and-why-the-direction-matters/"
+  },
+  {
+   "id": "bd943760a067",
+   "titel": "TMDL View on the web: Edit semantic models as code in your browser (Preview)",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-08-10",
+   "samenvatting": "TMDL View on the Web is a feature in Power BI that enables developers to view and edit semantic models as code directly in the browser using TMDL. It expands the Power BI web modelling experience by introducing a rich code editor for working with TMDL scripts—giving pro developers full transparen...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/TMDL-View-on-the-web-Edit-semantic-models-as-code-in-your/ba-p/5332653"
+  },
+  {
+   "id": "b1c5cfb2f6cc",
+   "titel": "Restoring alternating rows in Power BI matrices with Fluent 2",
+   "categorie": "BI",
+   "bron": "SQLBI",
+   "taal": "en",
+   "datum": "2026-08-10",
+   "samenvatting": "Microsoft recently introduced a new default visual design style for Power BI named Fluent 2. I personally disagree with a few choices in the new defaults, including the removal of alternating row colors from Table and Matrix visuals. However, the…",
+   "url": "https://www.sqlbi.com/blog/marco/2026/08/10/restoring-alternating-rows-in-power-bi-matrices-with-fluent-2/"
+  },
+  {
+   "id": "44385658863e",
+   "titel": "Can AI Design an Enterprise Process as Well as a Human?",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-08-10",
+   "samenvatting": "The advantage of ProcessOS is the combination of a human who can read what the AI built and knows exactly what to adjust. Human judgment determines whether the result is right for the business. The skill accelerates the work.",
+   "url": "https://camunda.com/blog/2026/08/can-ai-design-an-enterprise-process-as-well-as-a-human/"
+  }
+ ]
+}

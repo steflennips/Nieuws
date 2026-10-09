@@ -1,0 +1,33 @@
+# Gebouwd door de workflow; niet in de repo
+site/
+
+# Python / tools
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+
+# Tijdelijk en lokaal
+data/*.tmp
+*.log
+*.tmp
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Veiligheidsnet: dit hoort nooit in deze repo (staat normaal in je gebruikersmap, niet hier)
+NTUSER*
+ntuser*
+.claude.json*
+.claude/settings.local.json
+.gitconfig
+*.pem
+*.key
+*.pfx
+*.p12
+id_rsa*
+id_ed25519*
+.npmrc
+.netrc
