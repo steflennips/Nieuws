@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-09T05:33:07+00:00",
+ "bijgewerkt": "2026-10-09T18:48:42+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 4,
+   "bewaard": 3,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -63,7 +63,7 @@
    "items": 10,
    "bewaard": 2,
    "verouderd": 0,
-   "geweigerd": 1
+   "geweigerd": 0
   },
   {
    "feed": "Techzine",
@@ -83,6 +83,76 @@
   }
  ],
  "items": [
+  {
+   "id": "cfb8d5aaa934",
+   "titel": "Atlassian AMP slaat brug tussen mens en AI-agent",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "Tijdens Atlassian Team in Amsterdam deze week kondigde het bedrijf het Agentic Multiplayer Protocol (AMP) aan. Ondanks de naam is AMP geen protocol zoals je wellicht zou verwachten. Maar wat is het dan wel? We duiken dieper de materie in met Jamil Valliani, VP Head of Product, AI bij Atlassian. V...",
+   "url": "https://www.techzine.nl/blogs/devops/582612/atlassian-amp-moet-mens-en-ai-agent-optimaal-samen-laten-werken-hoe-werkt-dat/"
+  },
+  {
+   "id": "9912c9bd0df3",
+   "titel": "Amazon vernieuwt advertentieplatform en zet in op agentic advertising",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "Amazon Ads introduceert nieuwe campagnetypen en een vernieuwd platform dat moet aansluiten bij de verschuiving naar zogenoemde agentic advertising. De aankondiging volgt op een initiatief van een jaar om losse advertentietools samen te voegen tot één door kunstmatige intelligentie (AI) aangedreve...",
+   "url": "https://www.emerce.nl/nieuws/amazon-vernieuwt-advertentieplatform-zet-agentic-advertising"
+  },
+  {
+   "id": "7ebbf94a2cc5",
+   "titel": "Oracle overweegt levering gas per truck voor snellere start AI-datacenter",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "De groeisnelheid van de AI-vraag en de beperkingen van bouwwerkzaamheden botsen met elkaar. Oracle had gehoopt dat een gaspijpleiding voor de energie zou zorgen voor een nieuwe 2,45 gigawatt faciliteit in New Mexico. Echter lijken trucks met gecomprimeerd gas aan boord nodig om het AI-datacenter...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/582634/oracle-overweegt-levering-gas-per-truck-voor-snellere-start-ai-datacenter/"
+  },
+  {
+   "id": "4f7ba6a0b61e",
+   "titel": "IMF waarschuwt voor gevaarlijke mix van ai, energie en schuld",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "Het Internationaal Monetair Fonds (IMF) waarschuwt voor een gevaarlijke cocktail van torenhoge ai-investeringen, energie-schokken en schulden.",
+   "url": "https://www.computable.nl/2026/10/09/imf-waarschuwt-voor-gevaarlijke-mix-van-ai-energie-en-schuld/"
+  },
+  {
+   "id": "2d9a86e65578",
+   "titel": "[Column] Wanneer kun je een AI-collega alleen laten?",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "co-Founded by AI richt een speciale werkomgeving in om hun AI-collega Mira zelfstandig en veilig taken te laten uitvoeren. Met een gedeeld geheugen, duidelijke grenzen voor bevoegdheden en vaste werkwijzen via skills zorgen ze dat de AI effectief werkt onder menselijke eindcontrole.",
+   "url": "https://www.emerce.nl/opinie/column-wanneer-kun-aicollega-alleen-laten"
+  },
+  {
+   "id": "253777ae6262",
+   "titel": "Shai-Hulud-worm duikt op in npm-SDK van AI-platform Tensorlake",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "Shai-Hulud, de beruchte malware die al meermaals heeft toegeslagen, is terug. De worm verspreidde zich via een besmettr npm-SDK van AI-platform Tensorlake. Via dit platform kunnen gebruikers agents geïsoleerd draaien. De malware steelt onder meer credentials en cruciale directories verwijderen. D...",
+   "url": "https://www.techzine.nl/nieuws/security/582623/shai-hulud-worm-duikt-op-in-npm-sdk-van-ai-platform-tensorlake/"
+  },
+  {
+   "id": "23d95642fb1e",
+   "titel": "Omzetcijfers OpenAI zorgen voor onrust op beurs",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "Een verschil van bijna 20 miljard dollar tussen twee omzetcijfers van OpenAI heeft geleid tot forse koersdalingen bij Amerikaanse technologiebedrijven. Vooral ondernemingen die nauw betrokken zijn bij de bouw van AI-infrastructuur werden geraakt. De onrust toont aan hoe gevoelig beleggers zijn ge...",
+   "url": "https://www.techzine.nl/nieuws/privacy-compliance/582619/omzetcijfers-openai-zorgen-voor-onrust-op-beurs/"
+  },
   {
    "id": "fff2b666a8db",
    "titel": "Kort: Google-detector voor ‘ai-watermerk’, datacenter Russisch Yandex geraakt door drone-aanval",
