@@ -1,12 +1,12 @@
 {
- "bijgewerkt": "2026-10-09T05:33:07+00:00",
+ "bijgewerkt": "2026-10-10T04:56:45+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
    "status": "OK",
    "items": 20,
-   "bewaard": 13,
-   "verouderd": 7,
+   "bewaard": 12,
+   "verouderd": 8,
    "geweigerd": 0
   },
   {
@@ -21,8 +21,8 @@
    "feed": "SQLBI",
    "status": "OK",
    "items": 30,
-   "bewaard": 2,
-   "verouderd": 24,
+   "bewaard": 1,
+   "verouderd": 25,
    "geweigerd": 0
   },
   {
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 13,
-   "verouderd": 9,
+   "bewaard": 12,
+   "verouderd": 10,
    "geweigerd": 2
   },
   {
@@ -63,7 +63,7 @@
    "items": 10,
    "bewaard": 2,
    "verouderd": 0,
-   "geweigerd": 1
+   "geweigerd": 0
   },
   {
    "feed": "Techzine",
@@ -83,6 +83,86 @@
   }
  ],
  "items": [
+  {
+   "id": "d60c1516f2da",
+   "titel": "Baan en Nederlof botsen over ai: versterkt het werknemers of vervangt het hen?",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "Ai brengt de digitale transformatie van bedrijven in een stroomversnelling. Maar wat betekent dat voor werknemers? It-veteranen Jan Baan en Ad Nederlof komen tot verschillende conclusies: de eerste ziet vooral versterking, de ander grootschalige vervanging van werknemers.",
+   "url": "https://www.computable.nl/2026/10/09/baan-en-nederlof-botsen-over-ai-versterkt-het-werknemers-of-vervangt-het-hen/"
+  },
+  {
+   "id": "cfb8d5aaa934",
+   "titel": "Atlassian AMP slaat brug tussen mens en AI-agent",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "Tijdens Atlassian Team in Amsterdam deze week kondigde het bedrijf het Agentic Multiplayer Protocol (AMP) aan. Ondanks de naam is AMP geen protocol zoals je wellicht zou verwachten. Maar wat is het dan wel? We duiken dieper de materie in met Jamil Valliani, VP Head of Product, AI bij Atlassian. V...",
+   "url": "https://www.techzine.nl/blogs/devops/582612/atlassian-amp-moet-mens-en-ai-agent-optimaal-samen-laten-werken-hoe-werkt-dat/"
+  },
+  {
+   "id": "9912c9bd0df3",
+   "titel": "Amazon vernieuwt advertentieplatform en zet in op agentic advertising",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "Amazon Ads introduceert nieuwe campagnetypen en een vernieuwd platform dat moet aansluiten bij de verschuiving naar zogenoemde agentic advertising. De aankondiging volgt op een initiatief van een jaar om losse advertentietools samen te voegen tot één door kunstmatige intelligentie (AI) aangedreve...",
+   "url": "https://www.emerce.nl/nieuws/amazon-vernieuwt-advertentieplatform-zet-agentic-advertising"
+  },
+  {
+   "id": "7ebbf94a2cc5",
+   "titel": "Oracle overweegt levering gas per truck voor snellere start AI-datacenter",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "De groeisnelheid van de AI-vraag en de beperkingen van bouwwerkzaamheden botsen met elkaar. Oracle had gehoopt dat een gaspijpleiding voor de energie zou zorgen voor een nieuwe 2,45 gigawatt faciliteit in New Mexico. Echter lijken trucks met gecomprimeerd gas aan boord nodig om het AI-datacenter...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/582634/oracle-overweegt-levering-gas-per-truck-voor-snellere-start-ai-datacenter/"
+  },
+  {
+   "id": "4f7ba6a0b61e",
+   "titel": "IMF waarschuwt voor gevaarlijke mix van ai, energie en schuld",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "Het Internationaal Monetair Fonds (IMF) waarschuwt voor een gevaarlijke cocktail van torenhoge ai-investeringen, energie-schokken en schulden.",
+   "url": "https://www.computable.nl/2026/10/09/imf-waarschuwt-voor-gevaarlijke-mix-van-ai-energie-en-schuld/"
+  },
+  {
+   "id": "2d9a86e65578",
+   "titel": "[Column] Wanneer kun je een AI-collega alleen laten?",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "co-Founded by AI richt een speciale werkomgeving in om hun AI-collega Mira zelfstandig en veilig taken te laten uitvoeren. Met een gedeeld geheugen, duidelijke grenzen voor bevoegdheden en vaste werkwijzen via skills zorgen ze dat de AI effectief werkt onder menselijke eindcontrole.",
+   "url": "https://www.emerce.nl/opinie/column-wanneer-kun-aicollega-alleen-laten"
+  },
+  {
+   "id": "253777ae6262",
+   "titel": "Shai-Hulud-worm duikt op in npm-SDK van AI-platform Tensorlake",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "Shai-Hulud, de beruchte malware die al meermaals heeft toegeslagen, is terug. De worm verspreidde zich via een besmettr npm-SDK van AI-platform Tensorlake. Via dit platform kunnen gebruikers agents geïsoleerd draaien. De malware steelt onder meer credentials en cruciale directories verwijderen. D...",
+   "url": "https://www.techzine.nl/nieuws/security/582623/shai-hulud-worm-duikt-op-in-npm-sdk-van-ai-platform-tensorlake/"
+  },
+  {
+   "id": "23d95642fb1e",
+   "titel": "Omzetcijfers OpenAI zorgen voor onrust op beurs",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "Een verschil van bijna 20 miljard dollar tussen twee omzetcijfers van OpenAI heeft geleid tot forse koersdalingen bij Amerikaanse technologiebedrijven. Vooral ondernemingen die nauw betrokken zijn bij de bouw van AI-infrastructuur werden geraakt. De onrust toont aan hoe gevoelig beleggers zijn ge...",
+   "url": "https://www.techzine.nl/nieuws/privacy-compliance/582619/omzetcijfers-openai-zorgen-voor-onrust-op-beurs/"
+  },
   {
    "id": "fff2b666a8db",
    "titel": "Kort: Google-detector voor ‘ai-watermerk’, datacenter Russisch Yandex geraakt door drone-aanval",
@@ -922,36 +1002,6 @@
    "datum": "2026-08-18",
    "samenvatting": "Most MCP integrations go one direction. Camunda ships all three. As a client calling tools, as a server for queries, and as a callable process capability. Here's how, with one flight disruption scenario as the thread.",
    "url": "https://camunda.com/blog/2026/08/three-ways-camunda-speaks-mcp-and-why-the-direction-matters/"
-  },
-  {
-   "id": "bd943760a067",
-   "titel": "TMDL View on the web: Edit semantic models as code in your browser (Preview)",
-   "categorie": "BI",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-08-10",
-   "samenvatting": "TMDL View on the Web is a feature in Power BI that enables developers to view and edit semantic models as code directly in the browser using TMDL. It expands the Power BI web modelling experience by introducing a rich code editor for working with TMDL scripts—giving pro developers full transparen...",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/TMDL-View-on-the-web-Edit-semantic-models-as-code-in-your/ba-p/5332653"
-  },
-  {
-   "id": "b1c5cfb2f6cc",
-   "titel": "Restoring alternating rows in Power BI matrices with Fluent 2",
-   "categorie": "BI",
-   "bron": "SQLBI",
-   "taal": "en",
-   "datum": "2026-08-10",
-   "samenvatting": "Microsoft recently introduced a new default visual design style for Power BI named Fluent 2. I personally disagree with a few choices in the new defaults, including the removal of alternating row colors from Table and Matrix visuals. However, the…",
-   "url": "https://www.sqlbi.com/blog/marco/2026/08/10/restoring-alternating-rows-in-power-bi-matrices-with-fluent-2/"
-  },
-  {
-   "id": "44385658863e",
-   "titel": "Can AI Design an Enterprise Process as Well as a Human?",
-   "categorie": "AI",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-08-10",
-   "samenvatting": "The advantage of ProcessOS is the combination of a human who can read what the AI built and knows exactly what to adjust. Human judgment determines whether the result is right for the business. The skill accelerates the work.",
-   "url": "https://camunda.com/blog/2026/08/can-ai-design-an-enterprise-process-as-well-as-a-human/"
   }
  ]
 }
