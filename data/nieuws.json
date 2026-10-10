@@ -1,12 +1,12 @@
 {
- "bijgewerkt": "2026-10-09T18:48:42+00:00",
+ "bijgewerkt": "2026-10-10T04:56:45+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
    "status": "OK",
    "items": 20,
-   "bewaard": 13,
-   "verouderd": 7,
+   "bewaard": 12,
+   "verouderd": 8,
    "geweigerd": 0
   },
   {
@@ -21,8 +21,8 @@
    "feed": "SQLBI",
    "status": "OK",
    "items": 30,
-   "bewaard": 2,
-   "verouderd": 24,
+   "bewaard": 1,
+   "verouderd": 25,
    "geweigerd": 0
   },
   {
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 13,
-   "verouderd": 9,
+   "bewaard": 12,
+   "verouderd": 10,
    "geweigerd": 2
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 3,
+   "bewaard": 4,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -83,6 +83,16 @@
   }
  ],
  "items": [
+  {
+   "id": "d60c1516f2da",
+   "titel": "Baan en Nederlof botsen over ai: versterkt het werknemers of vervangt het hen?",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-09",
+   "samenvatting": "Ai brengt de digitale transformatie van bedrijven in een stroomversnelling. Maar wat betekent dat voor werknemers? It-veteranen Jan Baan en Ad Nederlof komen tot verschillende conclusies: de eerste ziet vooral versterking, de ander grootschalige vervanging van werknemers.",
+   "url": "https://www.computable.nl/2026/10/09/baan-en-nederlof-botsen-over-ai-versterkt-het-werknemers-of-vervangt-het-hen/"
+  },
   {
    "id": "cfb8d5aaa934",
    "titel": "Atlassian AMP slaat brug tussen mens en AI-agent",
@@ -992,36 +1002,6 @@
    "datum": "2026-08-18",
    "samenvatting": "Most MCP integrations go one direction. Camunda ships all three. As a client calling tools, as a server for queries, and as a callable process capability. Here's how, with one flight disruption scenario as the thread.",
    "url": "https://camunda.com/blog/2026/08/three-ways-camunda-speaks-mcp-and-why-the-direction-matters/"
-  },
-  {
-   "id": "bd943760a067",
-   "titel": "TMDL View on the web: Edit semantic models as code in your browser (Preview)",
-   "categorie": "BI",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-08-10",
-   "samenvatting": "TMDL View on the Web is a feature in Power BI that enables developers to view and edit semantic models as code directly in the browser using TMDL. It expands the Power BI web modelling experience by introducing a rich code editor for working with TMDL scripts—giving pro developers full transparen...",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/TMDL-View-on-the-web-Edit-semantic-models-as-code-in-your/ba-p/5332653"
-  },
-  {
-   "id": "b1c5cfb2f6cc",
-   "titel": "Restoring alternating rows in Power BI matrices with Fluent 2",
-   "categorie": "BI",
-   "bron": "SQLBI",
-   "taal": "en",
-   "datum": "2026-08-10",
-   "samenvatting": "Microsoft recently introduced a new default visual design style for Power BI named Fluent 2. I personally disagree with a few choices in the new defaults, including the removal of alternating row colors from Table and Matrix visuals. However, the…",
-   "url": "https://www.sqlbi.com/blog/marco/2026/08/10/restoring-alternating-rows-in-power-bi-matrices-with-fluent-2/"
-  },
-  {
-   "id": "44385658863e",
-   "titel": "Can AI Design an Enterprise Process as Well as a Human?",
-   "categorie": "AI",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-08-10",
-   "samenvatting": "The advantage of ProcessOS is the combination of a human who can read what the AI built and knows exactly what to adjust. Human judgment determines whether the result is right for the business. The skill accelerates the work.",
-   "url": "https://camunda.com/blog/2026/08/can-ai-design-an-enterprise-process-as-well-as-a-human/"
   }
  ]
 }
