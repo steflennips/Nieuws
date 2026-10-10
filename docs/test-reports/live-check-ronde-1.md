@@ -1,0 +1,28 @@
+ITERATIE: 8 (live-check na publicatie, US-013 c1/c3) | RONDE: 1 | MODUS: SNEL
+RESULTAAT: NIET GESLAAGD (BLOKKEREND: laatste workflow-run mislukt, site niet ververst; c3 niet bevestigd)
+
+PER CRITERIUM:
+- US-013-c1: OK (met KLEIN-punten). Bewijs: https://steflennips.github.io/Nieuws/ 200 (Last-Modified 9 okt 2026 18:49:08 GMT); /nieuws.html 200, /bronnen.html 200, /nieuws 200; onbekend pad 404 met pagina "Pagina niet gevonden" in huisstijl; style.css, app.js, favicon.svg, favicon.ico 200. Alle interne links en assets relatief (geen absolute paden, geen http://). Overzicht: Uitgelicht (4 items), tellers BI 32 / Data 5 / Automatisering 19 / AI 37, link "Alle 93 berichten bekijken" (klopt met Nieuws: 93 items). Voet: bronvermelding en "Laatst bijgewerkt". Headless Chrome in 375 px-iframe en 1280 px-iframe: scrollWidth = clientWidth, 0 elementen over de breedte, 0 consolefouten; 375 px screenshot beoordeeld (header, Uitgelicht, tellers onder elkaar).
+- US-013-c3: FAALT (BLOKKEREND). Bewijs: "Laatst bijgewerkt: 9 okt 2026 20:48" (datetime 18:48:42Z) komt overeen met de geslaagde handmatige run van 9 okt 18:48 UTC (attempt 1: alle stappen success). Daarna is dezelfde run opnieuw gestart (attempt 2, 10 okt 04:49:11 UTC) en mislukt op stap "Nieuwe data bewaren in de repository"; "Site bouwen" slaagde, maar upload en publiceren zijn overgeslagen. Site ongewijzigd (Last-Modified en tijd onveranderd). De geplande run van 10 okt 04:00 UTC staat op 04:56 UTC nog niet in de run-lijst. "Verandert na een nieuwe run" is dus nog niet bevestigd.
+- US-013-c4 (steekproef geheimen/gegevens, publieke repo): OK. Bewijs: 113 tekstbestanden van de publieke repo (raw, main) gescand op sleutel-, token-, wachtwoord- en lokale-padpatronen en op e-mailadressen. Geen echte waarden gevonden; alleen code, regex en uitleggende tekst. Geen README.technisch.md in de repo (404 op raw en op github.com).
+- US-013-c5 (README): OPEN, BELANGRIJK. De publieke README op GitHub (124 regels, oude projectbeschrijving) bevat wel feeds toevoegen met letterlijk voorbeeld en "Job handmatig starten": voldoet nu. De nieuwe korte README (21 regels, alleen lokaal) bevat geen van beide. Bij publiceren van die korte README vervalt c5, tenzij de instructies alsnog in de repo komen.
+- US-013-c2 (configuratie, niet opnieuw getest): de publieke workflow heeft cron "0 4 * * *" en workflow_dispatch. Dat de geplande run daadwerkelijk draait is NIET GETEST (nog geen geplande run zichtbaar).
+
+SUITE: n.v.t. (live-check; geen geautomatiseerde acceptatietests gedraaid of toegevoegd). Alle checks zijn read-only GET/HTTP-, headless-browser- en GitHub-API-lees-acties; zie bewijs hierboven.
+REGRESSIE: n.v.t. in modus SNEL.
+
+BEVINDINGEN:
+1. BLOKKEREND: laatste run "Nieuws verversen en publiceren" (run 37975841502, attempt 2, 10 okt 2026 04:49 UTC) faalt bij stap "Nieuwe data bewaren in de repository". Reproduceren: GitHub, tabblad Actions, laatste run, stap openen. Verwacht: groen zoals attempt 1 (9 okt 18:48). Werkelijk: failure, geen nieuwe site gepubliceerd. Oorzaak niet vast te stellen: de logs vragen inloggen en dat heb ik niet gedaan. Oorzaak-vermoeden: de push/rebase-stap in het publieke workflow-bestand (main) is de oude versie zonder retry. Het lokale nieuws.yml is wel verbeterd (3 pogingen, bij falen een waarschuwing i.p.v. een mislukte job), maar dat staat nog niet op GitHub.
+2. BELANGRIJK: de publieke README is nog de oude interne projectbeschrijving (team van AI-rollen, /iteratie). De nieuwe korte site-tekst staat alleen lokaal, niet op GitHub. Verwacht: korte site-tekst. Werkelijk: oude tekst.
+3. BELANGRIJK: de korte README bevat geen feed-toevoeg-instructie en geen handmatige startinstructie (die staan in README.technisch.md, dat niet in de repo mag). Dat botst met US-013 c5. Verwacht: c5 blijft voldaan. Werkelijk: c5 zou vervallen bij publicatie van de korte README.
+4. KLEIN (bekend, Stef beoordeelt): Uitgelicht toont een vendor-productitem (OutSystems, Techzine) en het LUMC-item staat als Automatisering. Data is 5 van 93 items (5,4%).
+5. KLEIN: https://steflennips.github.io/Nieuws/404 (zonder extensie) geeft HTTP 200 met de 404-tekst (soft 404). Een echt onbekend pad (.../zz-onbekend.html) geeft wel HTTP 404.
+6. KLEIN: docs/test-reports in de publieke repo bevat operationele notities (procesnummers, lokale poort). Geen geheim, wel openbaar.
+
+NIET GETEST: 1280 px alleen gemeten (geen screenshot beoordeeld); 375 px via iframe (de iframe is 375 px, met scrollbar 360 px binnen). Geen echt toestel, geen toetsenbordnavigatie. GitHub Actions-logs (vereist inloggen): niet gelezen. Geplande run van 04:00 UTC: niet gezien. "Laatst bijgewerkt verandert na een nieuwe run": pas te bevestigen na een geslaagde run.
+
+VOORSTEL CONTROLE VOLGENDE RONDE (c3): na de eerstvolgende geplande run (en na het oplossen van de mislukte run): (a) GET https://api.github.com/repos/steflennips/Nieuws/actions/runs?event=schedule en controleer dat er een run met conclusion success is; (b) GET de startpagina en controleer dat "Laatst bijgewerkt" na 9 okt 20:48 ligt en dat de Last-Modified-header is veranderd.
+
+BENODIGD VAN BOUWER: (1) Stef: open de mislukte stap in Actions, stuur de foutregel door; daarna het verbeterde lokale nieuws.yml naar GitHub pushen na jouw review (ik push niets). (2) PO-beslissing: korte README versus README.technisch.md en het c5-conflict. (3) Pas de Bouwer de publieke README en workflow pas aan na akkoord van Stef.
+
+BESTANDEN GEWIJZIGD DOOR MIJ: docs/test-reports/live-check-ronde-1.md (alleen dit rapport). Geen bestanden in tests/acceptance/. Let op: de opdracht noemde de bestandsnaam live-check-ronde-1.md; de standaard is iteratie-<n>-ronde-<m>.md. Ik heb de naam uit de opdracht aangehouden.

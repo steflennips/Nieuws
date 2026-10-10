@@ -31,7 +31,7 @@ import ophalen as o  # noqa: E402
 
 with open(h.PROJECT_CONFIG, encoding="utf-8") as f:
     CFG = json.load(f)
-README = os.path.join(h.ROOT, "README.md")
+README = os.path.join(h.ROOT, "README.technisch.md")  # was README.md; scoreregel staat in de technische README
 TERMEN_VERPLICHT = ["MKB", "ZZP", "Nederland", "Nederlandse", "overheid", "gemeente", "AVG", "NIS2", "AI Act", "Microsoft",
                     "Power BI", "Fabric", "Qlik", "Tableau", "Looker", "dbt", "Snowflake", "n8n", "Zapier"]
 

@@ -11,7 +11,7 @@ import unittest
 import hulp_statisch as h
 
 sys.dont_write_bytecode = True
-README = h.os.path.join(h.ROOT, "README.md")
+README = h.os.path.join(h.ROOT, "README.technisch.md")  # was README.md; nu de lokale technische README (feeds, voorbeeldregel)
 
 
 class TestUS013C5Readme(unittest.TestCase):

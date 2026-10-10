@@ -30,14 +30,40 @@ jobs:
         run: python src/bouw.py
 
       - name: Nieuwe data bewaren in de repository
+        env:
+          BRANCH: ${{ github.ref_name }}
         run: |
+          # data/nieuws.json is een door deze job gegenereerd bestand: de zojuist gebouwde versie wint altijd.
+          # Daarom geen rebase/merge (kan conflicteren als er tussentijds is gepusht), maar: bestand opzij zetten,
+          # naar de actuele remote-stand gaan, het bestand terugzetten, committen en pushen (nooit force).
           if [ -n "$(git status --porcelain data/nieuws.json)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/nieuws.json
-            git commit -m "Nieuws bijgewerkt"
-            git pull --rebase
-            git push
+            cp data/nieuws.json "$RUNNER_TEMP/nieuws.json"
+            gelukt=nee
+            for poging in 1 2 3; do
+              echo "Poging $poging van 3"
+              if git fetch origin "$BRANCH" && git reset --hard "origin/$BRANCH"; then
+                cp "$RUNNER_TEMP/nieuws.json" data/nieuws.json
+                git add data/nieuws.json
+                if git diff --cached --quiet; then
+                  echo "data/nieuws.json is op de remote al gelijk aan de nieuwe versie"
+                  gelukt=ja
+                  break
+                fi
+                git commit -m "Nieuws bijgewerkt"
+                if git push origin "HEAD:$BRANCH"; then
+                  gelukt=ja
+                  break
+                fi
+              fi
+              sleep $((poging * 5))
+            done
+            if [ "$gelukt" != "ja" ]; then
+              # De site is al gebouwd uit de verse data en wordt gewoon gepubliceerd; alleen de opslag in de repo mislukte.
+              echo "::warning title=Nieuws niet teruggezet in de repository::data/nieuws.json kon na 3 pogingen niet worden gepusht. De site wordt wel gepubliceerd; de volgende run probeert het opnieuw."
+              echo "### Waarschuwing: data/nieuws.json niet teruggezet in de repository (3 pogingen mislukt). De site is wel gepubliceerd." >> "$GITHUB_STEP_SUMMARY"
+            fi
           else
             echo "Geen wijzigingen in data/nieuws.json"
           fi

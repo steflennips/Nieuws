@@ -388,3 +388,29 @@ Geen criterium verzwakt. De wijzigingen volgen uit het gewijzigde US-022 c1 (tel
 ### Niet geautomatiseerd / NIET GETEST in iteratie 8
 - US-020 c1 verzonnen bedrijfsnamen uit de oude voorbeelddata: NIET GETEST. De PO-aanname "de lijst staat in git (66e4d21, src/data.py)" klopt niet: commit 66e4d21 bevat geen bestanden en src/data.py is niet in de git-historie te vinden. Nodig: de lijst van de 12 voorbeeldbedrijven (van Stef of een kopie), dan als test toevoegen.
 - Verwijderde bestanden: test_acceptance.py, test_browser_layout.py en test_echte_data_app.py zijn weg; de bijbehorende tests tellen niet meer mee.
+
+## README-splitsing (iteratie 8, ronde 1, verzoek Stef)
+README.md is de korte publieke tekst; de technische README is `README.technisch.md` (lokaal, in `.gitignore`). Criteria komen uit de opdracht van Stef, niet uit `docs/BACKLOG.md`.
+
+| Criterium | Testnaam | Bestand |
+|---|---|---|
+| README-splitsing c1 publieke README: geen lokale paden | `test_README_splitsing_c1_publieke_readme_geen_lokale_paden` | test_README_splitsing.py |
+| README-splitsing c2 publieke README: geen werkafspraken, rollen of testcommando's | `test_README_splitsing_c2_publieke_readme_geen_werkafspraken_of_rollen` | test_README_splitsing.py |
+| README-splitsing c3 publieke README: site-link en Overzicht/Nieuws/Bronnen | `test_README_splitsing_c3_publieke_readme_bevat_site_link_en_onderdelen` | test_README_splitsing.py |
+| README-splitsing c4 publieke README: geen persoonlijk account buiten de exacte site-link en bedrijfsnaam | `test_README_splitsing_c4_geen_persoonlijk_account_buiten_toegestane_tekst` | test_README_splitsing.py |
+| README-splitsing c5 README.technisch.md staat in .gitignore en bestaat lokaal | `test_README_splitsing_c5_technische_readme_staat_in_gitignore`, `test_README_splitsing_c5_technische_readme_bestaat_lokaal` | test_README_splitsing.py |
+| README-splitsing c6 `python src/veilig_check.py` exitcode 0 | `test_README_splitsing_c6_veilig_check_exitcode_0` | test_README_splitsing.py |
+
+### Gewijzigde tests README-splitsing (was -> nu, waarom)
+Geen criterium verzwakt; alleen het bestand dat gelezen wordt verandert, tenzij anders vermeld.
+1. `test_IT5_readme_stappen_A_tot_E_en_commando_s_aanwezig`, `test_IT5_readme_toplevel_controle_met_stopinstructie`, `test_IT5_readme_veilig_check_eindregel_klopt_met_script`, `test_IT5_naam_van_workflow_staat_in_readme` (test_iteratie5_online.py): was `README.md` -> nu `README.technisch.md` (stappen A-E, stopinstructie, workflow-naam staan daar).
+2. `test_IT5_readme_geen_lokaal_pad_of_persoonlijk_account` (test_iteratie5_online.py): blijft op `README.md` (publiek). Nieuw: de exacte site-link `https://steflennips.github.io/Nieuws/` en de bedrijfsnaam in de titel worden eerst uit de tekst gehaald, omdat de site-link die de opdracht vereist het accountdeel bevat. Alle andere treffers van `steflennips`/`deux2qonnect`, lokale paden en `/Users/` blijven verboden.
+3. `test_US013_c5_readme_bevat_letterlijke_feedregel_die_in_config_staat` (test_US013_c5_readme.py): was `README.md` -> nu `README.technisch.md` (voorbeeldregel `{"naam"...}` staat daar).
+4. `TestUS013Readme` (test_US013_workflow.py): was `README.md` -> nu `README.technisch.md` (Feeds beheren, Job handmatig starten, online zetten).
+5. `test_US018_c3_scoreregel_staat_in_readme` (test_US018_uitgelicht.py): was `README.md` -> nu `README.technisch.md` (scoreregel 2 punten/1 punt per staat daar).
+6. `test_US021_c2_readme_beschrijft_headnieuws_en_nl_punt` (test_US021_uitgelicht.py): was `README.md` -> nu `README.technisch.md` (NL-punt en "niet aangevuld" staan daar).
+7. `test_US020_c1_geen_leadwoorden_in_src_config_en_readme` en `test_US020_c1_geen_leadstatussen_in_src_config_en_readme`: lijst was `README.md` -> nu `README.md` EN `README.technisch.md` (leadwoordcheck op beide). Versterkt, niet verzwakt.
+8. `TestUS020C4Readme` (test_US020_lokale_app_weg.py): ophalen/bouwen/bekijken/feeds/publiceren-controle was `README.md` -> nu `README.technisch.md`. De controle op "geen startinstructie voor de lokale app" geldt nu voor beide bestanden. Versterkt, niet verzwakt.
+
+### Bekende beperking (README-splitsing)
+- Technische tests lezen `README.technisch.md`. Dat bestand bestaat alleen lokaal (bewust, in `.gitignore`). In een verse clone zonder dit bestand falen die tests (ze worden niet overgeslagen).

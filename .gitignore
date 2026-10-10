@@ -31,3 +31,6 @@ id_rsa*
 id_ed25519*
 .npmrc
 .netrc
+
+# Lokale technische documentatie: niet naar GitHub
+README.technisch.md

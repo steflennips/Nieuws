@@ -17,7 +17,7 @@ import hulp_statisch as h
 
 sys.dont_write_bytecode = True
 WORKFLOW = os.path.join(h.ROOT, ".github", "workflows", "nieuws.yml")
-README = os.path.join(h.ROOT, "README.md")
+README = os.path.join(h.ROOT, "README.technisch.md")  # was README.md; nu de lokale technische README (feeds, job, online zetten)
 ZELF = os.path.normcase(os.path.abspath(__file__))
 
 # Patronen van echte geheimen. Regex-tekst staat zo opgeschreven dat hij zichzelf niet raakt.

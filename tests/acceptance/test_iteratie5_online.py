@@ -30,7 +30,8 @@ sys.path.insert(0, SRC)
 
 WORKFLOW = os.path.join(h.ROOT, ".github", "workflows", "nieuws.yml")
 GITIGNORE = os.path.join(h.ROOT, ".gitignore")
-README = os.path.join(h.ROOT, "README.md")
+README = os.path.join(h.ROOT, "README.md")  # publiek (naar GitHub): alleen de geen-lokaal-pad-controle leest dit
+README_TECHNISCH = os.path.join(h.ROOT, "README.technisch.md")  # lokaal, in .gitignore: stappen A-E, workflow-naam
 VEILIG = os.path.join(SRC, "veilig_check.py")
 
 
@@ -40,7 +41,8 @@ def lees_tekst(pad):
 
 
 WF = lees_tekst(WORKFLOW) if os.path.exists(WORKFLOW) else ""
-RM = lees_tekst(README)
+RM = lees_tekst(README)  # publieke README (geen lokaal pad / persoonlijk account)
+RT = lees_tekst(README_TECHNISCH)  # technische README (stappen A-E, commando's)
 
 
 class TestIT5Gitignore(unittest.TestCase):
@@ -90,7 +92,7 @@ class TestIT5Workflow(unittest.TestCase):
 
     def test_IT5_naam_van_workflow_staat_in_readme(self):
         self.assertIn("name: Nieuws verversen en publiceren", WF)
-        self.assertIn("Actions > Nieuws verversen en publiceren > Run workflow", RM)
+        self.assertIn("Actions > Nieuws verversen en publiceren > Run workflow", RT)
 
 
 class TestIT5VerseCheckout(unittest.TestCase):
@@ -193,26 +195,33 @@ class TestIT5Subpad(unittest.TestCase):
 class TestIT5Readme(unittest.TestCase):
     def test_IT5_readme_stappen_A_tot_E_en_commando_s_aanwezig(self):
         for stap in ["Stap A", "Stap B", "Stap C", "Stap D", "Stap E"]:
-            self.assertIn(stap, RM, stap)
+            self.assertIn(stap, RT, stap)
         for cmd in ["python src/veilig_check.py", "git rev-parse --show-toplevel", "git remote -v", "git init",
                     "git add .", 'git commit -m "Eerste versie"', "git branch -M main",
                     "git remote add origin https://github.com/<accountnaam>/<repo>.git", "git push -u origin main",
                     "Source: GitHub Actions", "Read and write permissions"]:
-            self.assertIn(cmd, RM, "README mist: %s" % cmd)
+            self.assertIn(cmd, RT, "README.technisch.md mist: %s" % cmd)
 
     def test_IT5_readme_toplevel_controle_met_stopinstructie(self):
-        self.assertIn("eindigt op `POC app`", RM)
-        self.assertIn("stop", RM.lower())
+        self.assertIn("eindigt op `POC app`", RT)
+        self.assertIn("stop", RT.lower())
 
     def test_IT5_readme_veilig_check_eindregel_klopt_met_script(self):
-        self.assertIn("OK: geen geheimen, e-mailadressen, lokale paden of verdachte bestanden gevonden.", RM)
+        self.assertIn("OK: geen geheimen, e-mailadressen, lokale paden of verdachte bestanden gevonden.", RT)
 
     def test_IT5_readme_geen_lokaal_pad_of_persoonlijk_account(self):
+        # Controle op de PUBLIEKE README.md (de technische README blijft lokaal en wordt hier niet gecontroleerd).
         # Een losse letter gevolgd door ":/" of ":\" (niet "https://"); de veiligheidscontrole (veilig_check) doet de rest.
+        # Uitzondering (exact, besluit it. 8 readme-splitsing): de site-link met het accountnaam-deel en de bedrijfsnaam
+        # in de titel. Alles daarbuiten telt nog steeds als persoonlijk account.
+        toegestaan = ["https://steflennips.github.io/Nieuws/", "Deux2qonnect"]
+        rest = RM
+        for tekst in toegestaan:
+            rest = rest.replace(tekst, "")
         verboden = [r"(?<![A-Za-z])[A-Za-z]:\\", r"(?<![A-Za-z])[A-Za-z]:/(?!/)", r"/Users/", r"steflennips",
                     r"deux2qonnect"]
-        gevonden = [v for v in verboden if re.search(v, RM, re.I)]
-        self.assertEqual(gevonden, [], "README bevat een lokaal pad of persoonlijk account")
+        gevonden = [v for v in verboden if re.search(v, rest, re.I)]
+        self.assertEqual(gevonden, [], "publieke README bevat een lokaal pad of persoonlijk account")
 
 
 if __name__ == "__main__":

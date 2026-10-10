@@ -63,14 +63,15 @@ class TestUS020C1Bestanden(unittest.TestCase):
         self.assertFalse(os.path.exists(os.path.join(h.ROOT, "src", "data.py")), "src/data.py bestaat nog")
 
     def test_US020_c1_geen_leadwoorden_in_src_config_en_readme(self):
-        for pad in bestanden_in(["src", "config", "README.md"]):
+        # README.md (publiek) EN README.technisch.md (lokaal) beide controleren (was: alleen README.md)
+        for pad in bestanden_in(["src", "config", "README.md", "README.technisch.md"]):
             for regel_nr, regel in enumerate(lees(pad).splitlines(), 1):
                 self.assertIsNone(LEAD_WOORD.search(regel),
                                   "leadwoord in %s regel %d" % (os.path.relpath(pad, h.ROOT), regel_nr))
 
     def test_US020_c1_geen_leadstatussen_in_src_config_en_readme(self):
         patroon = re.compile(r"in behandeling|niet interessant", re.I)
-        for pad in bestanden_in(["src", "config", "README.md"]):
+        for pad in bestanden_in(["src", "config", "README.md", "README.technisch.md"]):
             self.assertIsNone(patroon.search(lees(pad)), "leadstatus in %s" % os.path.relpath(pad, h.ROOT))
 
     def test_US020_c1_geen_leadwoorden_in_tests(self):
@@ -170,17 +171,21 @@ class TestUS020C3VerseCheckout(unittest.TestCase):
 class TestUS020C4Readme(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.readme = lees(os.path.join(h.ROOT, "README.md"))
+        # was: README.md. Ophalen/bouwen/bekijken/feeds/publiceren staat in de lokale technische README.
+        cls.readme = lees(os.path.join(h.ROOT, "README.technisch.md"))
+        # De publieke README mag ook geen startinstructie voor de lokale app bevatten (extra controle).
+        cls.publiek = lees(os.path.join(h.ROOT, "README.md"))
 
     def test_US020_c4_geen_startinstructie_voor_lokale_app(self):
-        self.assertIsNone(re.search(r"src/app\.py|src\\app\.py", self.readme), "README noemt nog src/app.py")
-        self.assertNotIn("GEEN_BROWSER", self.readme)
-        self.assertIsNone(re.search(r"python\s+src/app", self.readme))
+        for naam, tekst in [("README.technisch.md", self.readme), ("README.md", self.publiek)]:
+            self.assertIsNone(re.search(r"src/app\.py|src\\app\.py", tekst), "%s noemt nog src/app.py" % naam)
+            self.assertNotIn("GEEN_BROWSER", tekst, naam)
+            self.assertIsNone(re.search(r"python\s+src/app", tekst), naam)
 
     def test_US020_c4_readme_beschrijft_ophalen_bouwen_bekijken_feeds_en_publiceren(self):
         for tekst in ["python src/ophalen.py", "python src/bouw.py", "http.server", "config/feeds.json",
                       "Online zetten", "Feeds beheren"]:
-            self.assertIn(tekst, self.readme, "README mist: %s" % tekst)
+            self.assertIn(tekst, self.readme, "README.technisch.md mist: %s" % tekst)
 
 
 if __name__ == "__main__":

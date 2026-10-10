@@ -54,11 +54,33 @@ class TestConfigUS016(unittest.TestCase):
             self.assertIn(f["url"], tekst)
 
     def test_feeds_in_readme_voorbeeldregel(self):
-        readme = (BASIS / "README.md").read_text(encoding="utf-8")
+        readme = (BASIS / "README.technisch.md").read_text(encoding="utf-8")
         m = re.search(r"```\n(\{\"naam\".*?\})\n```", readme, re.S)
         self.assertIsNotNone(m)
         regel = json.loads(m.group(1))
         self.assertIn(regel, CFG["feeds"])
+
+
+class TestPubliekeReadme(unittest.TestCase):
+    """De README.md gaat naar GitHub: alleen bezoekersinformatie, geen lokale paden of werkafspraken."""
+
+    def setUp(self):
+        self.tekst = (BASIS / "README.md").read_text(encoding="utf-8")
+
+    def test_geen_lokale_paden(self):
+        self.assertIsNone(re.search(r"[A-Za-z]:\\|/Users/|One" + "Drive|Desk" + "top", self.tekst))
+
+    def test_geen_werkafspraken(self):
+        for woord in ["/iteratie", "Claude", "Bouwer", "Tester", "Product Owner", "unittest", "CLAUDE.md", "python "]:
+            self.assertNotIn(woord, self.tekst, woord)
+
+    def test_bevat_link_en_onderdelen(self):
+        for tekst in ["https://steflennips.github.io/Nieuws/", "Uitgelicht", "Vaknieuws", "Bronnen", "06:00"]:
+            self.assertIn(tekst, self.tekst)
+
+    def test_technische_readme_niet_in_git(self):
+        gi = (BASIS / ".gitignore").read_text(encoding="utf-8").splitlines()
+        self.assertIn("README.technisch.md", [r.strip() for r in gi])
 
 
 class TestCategorieUS016(unittest.TestCase):

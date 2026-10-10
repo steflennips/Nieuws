@@ -200,7 +200,7 @@ class TestUS021C4VaknieuwsOngewijzigd(unittest.TestCase):
 
 class TestUS021Readme(unittest.TestCase):
     def test_US021_c2_readme_beschrijft_headnieuws_en_nl_punt(self):
-        readme = h.lees(os.path.join(h.ROOT, "README.md"))
+        readme = h.lees(os.path.join(h.ROOT, "README.technisch.md"))  # was README.md; NL-punt staat in de technische README
         self.assertIn("headnieuws", readme)
         self.assertTrue("1 extra punt" in readme or "1 punt" in readme, "README beschrijft het NL-punt niet")
         self.assertIn("niet aangevuld", readme, "README moet zeggen dat Uitgelicht niet met productblogs wordt aangevuld")
