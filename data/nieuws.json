@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-11T10:26:35+00:00",
+ "bijgewerkt": "2026-10-12T11:28:14+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 4,
+   "bewaard": 2,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -61,15 +61,15 @@
    "feed": "Emerce",
    "status": "OK",
    "items": 10,
-   "bewaard": 2,
+   "bewaard": 3,
    "verouderd": 0,
-   "geweigerd": 0
+   "geweigerd": 1
   },
   {
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 4,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -83,6 +83,96 @@
   }
  ],
  "items": [
+  {
+   "id": "f81e5e4b95cb",
+   "titel": "Nebius eerste klant Rotterdams AI-datacenter",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-12",
+   "samenvatting": "Volt Datacenters, dat in Rotterdam Nederlands grootste AI-datacentrum wil bouwen, heeft met Nebius zijn eerste betalende klant getekend. De toezegging maakt het voor oprichter Han de Groot makkelijker om meer financiering los te krijgen.",
+   "url": "https://www.emerce.nl/nieuws/nebius-eerste-klant-rotterdams-aidatacenter"
+  },
+  {
+   "id": "e1cb278070bd",
+   "titel": "Nadella: “Beschouw AI-modellen als interne dreigingen”",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-12",
+   "samenvatting": "Microsoft-CEO Satya Nadella (foto) bepleit een fundamenteel andere aanpak van enterprise AI-security. Nu steeds meer autonome modellen toegang verkrijgen tot gevoelige data en kritische systeem, moeten organisaties die modellen beschouwen al potentiële interne bedreigingen en niet als betrouwbare...",
+   "url": "https://www.techzine.nl/nieuws/security/582681/nadella-beschouw-ai-modellen-als-interne-dreigingen/"
+  },
+  {
+   "id": "d1ade7b1e836",
+   "titel": "Hâck The Hague 2026: Meer ai, maar creativiteit wint",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-12",
+   "samenvatting": "Dit jaar was er tijdens Hâck The Hague veel aandacht voor ai. Maar in de visie van ciso van de gemeente Den Haag, Lilian Knippenberg, blijft de beste verdediging een combinatie van mens en technologie. Dat blijkt uit haar terugblik op het jaarlijkse hackevenement van de hofstad.",
+   "url": "https://www.computable.nl/2026/10/12/hack-the-hague-2026-meer-ai-maar-creativiteit-wint/"
+  },
+  {
+   "id": "cb4c378eb96b",
+   "titel": "DDMO 2026: AI verandert alles, mensen maken (nog) het verschil",
+   "categorie": "Data",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-12",
+   "samenvatting": "Uit het Data-Driven Marketing Onderzoek (DDMO) 2026 blijkt dat 70% van de marketeers AI gebruikt en dat functies ingrijpend veranderen. Managers moeten de randvoorwaarden en ruimte scheppen om te experimenteren, marketeers verschuiven naar een regisserende rol en IT-specialisten verbinden de tech...",
+   "url": "https://www.emerce.nl/achtergrond/ddmo-2026-ai-verandert-alles-mensen-maken-nog-verschil"
+  },
+  {
+   "id": "7a6229f1603d",
+   "titel": "AI noopt organisaties ertoe anders over data security na te denken",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-12",
+   "samenvatting": "De traditionele kijk op data security werkt vandaag de dag niet meer. Voorheen lag gevoelige bedrijfsdata veilig verankerd achter vertrouwde bedrijfsapplicaties en statische firewalls. Met AI-agents zijn er echter stukjes software die onvermoeibaar en pijlsnel door bedrijfsnetwerken struinen op z...",
+   "url": "https://www.techzine.nl/blogs/security/582665/ai-noopt-organisaties-ertoe-anders-over-data-security-na-te-denken/"
+  },
+  {
+   "id": "579d00927ba3",
+   "titel": "Nvidia overweegt mogelijk overname van Reflection AI",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-12",
+   "samenvatting": "Nvidia overweegt zijn investering in AI-ontwikkelaar Reflection AI uit te breiden. Ook de levering van extra rekenkracht of het overnemen van medewerkers en technologie behoort tot de mogelijkheden. Een volledige overname wordt niet uitgesloten. Dat meldt Bloomberg op basis van een ingewijde. De...",
+   "url": "https://www.techzine.nl/nieuws/applications/582655/nvidia-overweegt-mogelijk-overname-van-reflection-ai/"
+  },
+  {
+   "id": "52f054d81cb2",
+   "titel": "‘Drie kwart webwinkels niet klaar voor AI-shopping’",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-12",
+   "samenvatting": "De meeste webwinkels zijn slecht of helemaal niet voorbereid op een wereld waarin de consument via AI shopt. Techbedrijf Channable onderzocht de productfeeds van 10.000 verkopers en geeft drie kwart een cijfer dat lager is dan een zes.",
+   "url": "https://www.emerce.nl/nieuws/drie-kwart-webwinkels-klaar-aishopping"
+  },
+  {
+   "id": "3e2f7a7f1413",
+   "titel": "Nebius eerste klant van AI-gigafabriek in Rotterdamse haven",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-12",
+   "samenvatting": "Een AI-gigafabriek is niets zonder klant. Neocloud Nebius wordt de eerste grote afnemer van de gigafabriek die ontwikkelaar Volt in de Rotterdamse haven wil bouwen. De bouw kan beginnen zodra de financiering rond is. In eerste instantie gaat het om 7 miljard euro. Volt werd in 2025 opgericht door...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/582657/nebius-eerste-klant-van-ai-gigafabriek-in-rotterdamse-haven/"
+  },
+  {
+   "id": "0448c9d14a9d",
+   "titel": "Amazon wil mogelijk 7 miljard betalen voor AI-specialist Decart",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-12",
+   "samenvatting": "Amazon onderhandelt over de overname van AI-bedrijf Decart voor ongeveer 7 miljard dollar. De startup ontwikkelt onder meer software waarmee AI-modellen efficiënter op verschillende processors kunnen draaien. Dat meldt Reuters op basis van berichtgeving van The Wall Street Journal. Volgens bronne...",
+   "url": "https://www.techzine.nl/nieuws/applications/582652/amazon-wil-mogelijk-7-miljard-betalen-voor-ai-specialist-decart/"
+  },
   {
    "id": "d60c1516f2da",
    "titel": "Baan en Nederlof botsen over ai: versterkt het werknemers of vervangt het hen?",
@@ -932,6 +1022,16 @@
    "datum": "2026-08-25",
    "samenvatting": "Every Camundi has a before and an after with AI. Discover how Lana-Sophie Stawowski uses AI-first ways of working to rethink strategic execution.",
    "url": "https://camunda.com/blog/2026/08/the-orchestrators-inside-the-build-with-lana-sophie-stawowski/"
+  },
+  {
+   "id": "9ca3bdc87ccf",
+   "titel": "One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap",
+   "categorie": "AI",
+   "bron": "Microsoft Power Platform Blog (Power Automate)",
+   "taal": "en",
+   "datum": "2026-08-25",
+   "samenvatting": "Learn how the transition from release waves to the AI at Work roadmap creates a single destination to discover, track, and plan your innovations. The post One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap appeared first on Microsoft Power Platform Blog.",
+   "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/08/25/one-always-on-roadmap-dynamics-365-power-platform-and-dataverse-join-the-ai-at-work-roadmap/"
   },
   {
    "id": "3ae2401ecdf1",
