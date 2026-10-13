@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-12T11:28:14+00:00",
+ "bijgewerkt": "2026-10-13T11:17:17+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -13,7 +13,7 @@
    "feed": "Microsoft Fabric Blog",
    "status": "OK",
    "items": 20,
-   "bewaard": 20,
+   "bewaard": 19,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 2,
+   "bewaard": 3,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -69,7 +69,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 4,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -84,6 +84,86 @@
  ],
  "items": [
   {
+   "id": "fbfe1b9719f3",
+   "titel": "Ontwikkelaar bouwt met AI opensource-alternatieven voor Photoshop, Premiere en Lightroom",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-13",
+   "samenvatting": "Software-engineer Brandon Thomas heeft een gratis, opensource-alternatief voor Adobe Creative Cloud ontwikkeld. Het pakket bevat alternatieven voor Photoshop, Illustrator, Premiere, Lightroom, Acrobat, After Effects en InDesign. De apps vallen onder de naam ArtCraft en zijn beschikbaar voor macOS...",
+   "url": "https://www.emerce.nl/nieuws/ontwikkelaar-bouwt-ai-opensourcealternatieven-photoshop-premiere-lightroom"
+  },
+  {
+   "id": "fac19e3ef006",
+   "titel": "Build a morning AI news brief with You.com, Jev, and n8n",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-10-13",
+   "samenvatting": "Every weekday at 8am, this workflow searches the day's AI news, scores every article for materiality at about $0.00004 apiece, and posts one cited brief per topic to Slack. Topics with no real news get no post.",
+   "url": "https://blog.n8n.io/spotlight-you-com/"
+  },
+  {
+   "id": "e0ff99d8faf3",
+   "titel": "Anthropic: “self-replicating AI komt snel”",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-13",
+   "samenvatting": "Kleine AI-modellen zullen op korte termijn in staat zijn zichzelf te verspreiden over consumentenapparaten, zoals smart home devices en goedkopere Android TV-apparatuur. Dit blijkt uit onderzoek van Anthropic. Het bedrijf stelt dat door AI aangestuurde ‘wormen’ al aan het eind van dit jaar realit...",
+   "url": "https://www.techzine.nl/nieuws/security/582721/anthropic-self-replicating-ai-komt-snel/"
+  },
+  {
+   "id": "6ed77de47632",
+   "titel": "CEO Broadcom vergelijkt AI-investeerders met casinospelers",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-13",
+   "samenvatting": "“Veel investeerders in AI begrijpen niet waarin ze hun geld steken.” Dat stelt Hock Tan, CEO van chipfabrikant Broadcom. Volgens hem zijn de verwachtingen rond AI soms zo hooggespannen dat investeren erin meer wegheeft van gokken in een casino. Tijdens een conferentie in Singapore uitte Tan kriti...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/582728/ceo-broadcom-vergelijkt-ai-investeerders-met-casinospelers/"
+  },
+  {
+   "id": "6eaf27e07b38",
+   "titel": "AI heeft al veranderd hoe consumenten zoeken, kopen is de volgende stap",
+   "categorie": "Automatisering",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-13",
+   "samenvatting": "Consumenten gebruiken AI niet langer alleen om te zoeken, maar steeds vaker om aankopen direct te voltooien. AI-platforms, retaileragents en persoonlijke agents veranderen e-commerce razendsnel met nieuwe protocollen voor automatisch afrekenen. Toch blijkt het merendeel van de online retailers hi...",
+   "url": "https://www.emerce.nl/achtergrond/ai-heeft-al-veranderd-hoe-consumenten-zoeken-kopen-volgende-stap"
+  },
+  {
+   "id": "57c050454398",
+   "titel": "AMD Helion: open rackontwerp voor agentic AI-compute",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-13",
+   "samenvatting": "AMD introduceert Helion, een open blueprint voor racks die specifiek bedoeld zijn voor agentic AI. Het ontwerp is gebaseerd op een specificatie van het Open Compute Project en combineert EPYC-CPU’s naar behoefte met Instinct-GPU’s. De eerste configuraties moeten in november beschikbaar komen. Hel...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/582711/amd-helion-open-rackontwerp-voor-agentic-ai-compute/"
+  },
+  {
+   "id": "45f71c551651",
+   "titel": "EDAY: Leiderschapslessen uit de Formule 1",
+   "categorie": "Data",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-13",
+   "samenvatting": "Formule 1-teams en techbedrijven worstelen met dezelfde uitdaging: gigantische hoeveelheden data verwerken onder extreme druk, waar AI veel sneller werkt dan menselijke analyse.",
+   "url": "https://www.emerce.nl/nieuws/eday-leiderschapslessen-uit-formule-1"
+  },
+  {
+   "id": "0597a09eb892",
+   "titel": "De AI-race wordt niet beslist door het beste model, maar door het beste team",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-13",
+   "samenvatting": "Het beste AI-model bepaalt niet per definitie wie vooroploopt. Krachtige AI-technologie is voor organisaties steeds breder beschikbaar. Het verschil ontstaat in de uitvoering. Een model moet niet alleen een taak kunnen volbrengen, maar ook betrouwbaar functioneren met de data, systemen, processen...",
+   "url": "https://www.techzine.nl/experts/analytics/582732/de-ai-race-wordt-niet-beslist-door-het-beste-model-maar-door-het-beste-team/"
+  },
+  {
    "id": "f81e5e4b95cb",
    "titel": "Nebius eerste klant Rotterdams AI-datacenter",
    "categorie": "AI",
@@ -92,6 +172,16 @@
    "datum": "2026-10-12",
    "samenvatting": "Volt Datacenters, dat in Rotterdam Nederlands grootste AI-datacentrum wil bouwen, heeft met Nebius zijn eerste betalende klant getekend. De toezegging maakt het voor oprichter Han de Groot makkelijker om meer financiering los te krijgen.",
    "url": "https://www.emerce.nl/nieuws/nebius-eerste-klant-rotterdams-aidatacenter"
+  },
+  {
+   "id": "f682ce6a1fee",
+   "titel": "5 vragen over de opkomst van ai en cyberaanvallen",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-12",
+   "samenvatting": "Generatieve ai ontwikkelt zich razendsnel tot motor achter cyberaanvallen. Tijdens de One Conference 2026 in Den Haag liet Daniel Kapellmann Zafra, security engineer bij Google Threat Intelligence Group, zien hoe ai niet zozeer ‘supermalware’ creëert, maar bestaande aanvalstechnieken versnelt.",
+   "url": "https://www.computable.nl/2026/10/12/5-vragen-over-de-opkomst-van-ai-en-cyberaanvallen/"
   },
   {
    "id": "e1cb278070bd",
@@ -124,6 +214,36 @@
    "url": "https://www.emerce.nl/achtergrond/ddmo-2026-ai-verandert-alles-mensen-maken-nog-verschil"
   },
   {
+   "id": "c8d10c4f6c70",
+   "titel": "What’s new for Business Events and real-time events in Microsoft Fabric",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-12",
+   "samenvatting": "Microsoft Fabric helps teams react when those moments happen. Real-Time Hub provides a common place to discover event sources, connect consumers, and move from a signal to an action. With Business Events now generally available and new Fabric Events capabilities arriving in the September 2026 rel...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/What-s-new-for-Business-Events-and-real-time-events-in-Microsoft/ba-p/5367401"
+  },
+  {
+   "id": "b24dc4a13280",
+   "titel": "11 Best DevOps Automation Tools for Engineering Teams",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-10-12",
+   "samenvatting": "Compare 11 DevOps automation tools for modern engineering teams. Learn how to choose the right platforms for each layer of your stack.",
+   "url": "https://blog.n8n.io/devops-automation-tools/"
+  },
+  {
+   "id": "869863b174f5",
+   "titel": "Fabric September 2026 Feature Summary",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-12",
+   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. Welcome to the September 2026 Fabric Feature Summary! As the Mi...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825"
+  },
+  {
    "id": "7a6229f1603d",
    "titel": "AI noopt organisaties ertoe anders over data security na te denken",
    "categorie": "AI",
@@ -132,6 +252,16 @@
    "datum": "2026-10-12",
    "samenvatting": "De traditionele kijk op data security werkt vandaag de dag niet meer. Voorheen lag gevoelige bedrijfsdata veilig verankerd achter vertrouwde bedrijfsapplicaties en statische firewalls. Met AI-agents zijn er echter stukjes software die onvermoeibaar en pijlsnel door bedrijfsnetwerken struinen op z...",
    "url": "https://www.techzine.nl/blogs/security/582665/ai-noopt-organisaties-ertoe-anders-over-data-security-na-te-denken/"
+  },
+  {
+   "id": "5d766e17dbd3",
+   "titel": "Custom SQL Pools in Fabric Data Warehouse (Generally Available)",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-12",
+   "samenvatting": "Custom SQL Pools in Microsoft Fabric Data Warehouse are now generally available, along with statement type classification. Custom SQL Pools give administrators more control over how compute resources are allocated across different workloads in a Fabric workspace. You can isolate workloads into se...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Custom-SQL-Pools-in-Fabric-Data-Warehouse-Generally-Available/ba-p/5368292"
   },
   {
    "id": "579d00927ba3",
@@ -152,6 +282,16 @@
    "datum": "2026-10-12",
    "samenvatting": "De meeste webwinkels zijn slecht of helemaal niet voorbereid op een wereld waarin de consument via AI shopt. Techbedrijf Channable onderzocht de productfeeds van 10.000 verkopers en geeft drie kwart een cijfer dat lager is dan een zes.",
    "url": "https://www.emerce.nl/nieuws/drie-kwart-webwinkels-klaar-aishopping"
+  },
+  {
+   "id": "464e3a4f68f5",
+   "titel": "Eerste grote klant voor AI Gigafabriek in Rotterdam",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-12",
+   "samenvatting": "De geplande Nederlandse AI Gigafabriek in de Rotterdamse haven heeft de beoogde eerste grote klant binnengehaald. Nebius, een internationaal opererend ai-cloudbedrijf met hoofdkantoor in Amsterdam, tekende een intentieovereenkomst voor de afname van een substantieel deel van de rekenkracht.",
+   "url": "https://www.computable.nl/2026/10/12/eerste-grote-klant-voor-ai-gigafabriek-in-rotterdam/"
   },
   {
    "id": "3e2f7a7f1413",
@@ -392,16 +532,6 @@
    "datum": "2026-10-07",
    "samenvatting": "IBM en Red Hat dichten vierhonderd softwarelekken die ai-aanvallen kunnen versterken, SAS brengt ai-governance voor modellen en agents naar de markt, Unit4 lijft Frans ai-softwarebedrijf Napta in, Your.Cloud breidt onderwijs-it uit met Speyk, en nieuwe topmannen voor Accenture en ARP.",
    "url": "https://www.computable.nl/2026/10/07/kort-agents-vergroten-risico-sw-kwetsbaarheden-sas-lanceert-platform-ai-toezicht-en-meer/"
-  },
-  {
-   "id": "869863b174f5",
-   "titel": "Fabric September 2026 Feature Summary",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-10-07",
-   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. Welcome to the September 2026 Fabric Feature Summary! As the Mi...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825"
   },
   {
    "id": "59f2cb2c8d0b",
