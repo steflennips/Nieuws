@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-14T09:09:11+00:00",
+ "bijgewerkt": "2026-10-15T08:42:03+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -29,7 +29,7 @@
    "feed": "Microsoft Power Platform Blog (Power Automate)",
    "status": "OK",
    "items": 10,
-   "bewaard": 6,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -38,7 +38,7 @@
    "status": "OK",
    "items": 50,
    "bewaard": 12,
-   "verouderd": 10,
+   "verouderd": 9,
    "geweigerd": 3
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 1,
+   "bewaard": 2,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -61,7 +61,7 @@
    "feed": "Emerce",
    "status": "OK",
    "items": 10,
-   "bewaard": 3,
+   "bewaard": 8,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -69,7 +69,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 4,
+   "bewaard": 3,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -83,6 +83,76 @@
   }
  ],
  "items": [
+  {
+   "id": "d53ad275256e",
+   "titel": "EDAY: de toekomst van media inkoop",
+   "categorie": "Automatisering",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-15",
+   "samenvatting": "De inkoop van digitale campagnes verandert snel: adverteerders zoeken flexibiliteit, snelheid en controle, passend bij hun eigen werkwijze. Met het nieuwe platform Serve speelt Mediahuis hierop in door directe inkoop, programmatic opties (PMP/PG) en integratie via API en MCP mogelijk te maken. Sa...",
+   "url": "https://www.emerce.nl/nieuws/eday-toekomst-media-inkoop"
+  },
+  {
+   "id": "a89e162003af",
+   "titel": "Onderzoek invloed AI op digital agencies: tarieven onder druk, eigen data als troef",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-15",
+   "samenvatting": "De grote reclameholdings bouwen hun verdienmodel om onder druk van AI. WPP verwacht al eventjes dat de tarieven dalen en Monks wil eind 2026 al een kwart van de omzet uit abonnementen halen. Dit en meer blijkt uit een nieuw onderzoek dat Emerce vandaag publiceert.",
+   "url": "https://www.emerce.nl/nieuws/onderzoek-invloed-ai-agencies-2027"
+  },
+  {
+   "id": "7b0e7f9eb890",
+   "titel": "ChatGPT Ads zijn nog geen bewezen succes. Maar wie na één week al concludeert, bewijst vooral iets anders.",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-15",
+   "samenvatting": "Het te snel trekken van conclusies over ChatGPT Ads op basis van een kortstondige test met een klein budget geef een misleidend beeld. Omdat ChatGPT zich in een unieke fase van de klantreis bevindt, vereist het kanaal een doordacht testprogramma. Aan de hand van zeven concrete hypotheses, van de...",
+   "url": "https://www.emerce.nl/achtergrond/chatgpt-ads-nog-geen-bewezen-succes-wie-na-n-week-al-concludeert-bewijst-vooral-iets-anders"
+  },
+  {
+   "id": "517a4750abce",
+   "titel": "Emerce Rapport De Impact van AI op Digital Agencies (richting 2027)",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-15",
+   "samenvatting": "Voor het derde jaar op rij heeft Emerce onderzocht welke impact AI heeft op digital agencies en hoe zij daarop […]",
+   "url": "https://www.emerce.nl/knowledgebase/emerce-rapport-impact-ai-digital-agencies-2027"
+  },
+  {
+   "id": "19b3a302b138",
+   "titel": "200 banen weg bij TomTom",
+   "categorie": "Automatisering",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-15",
+   "samenvatting": "TomTom kondigt organisatorische veranderingen aan die bedoeld zijn om TomTom doelgerichter, sneller en schaalbaarder te maken. Het bedrijf is opnieuw ingedeeld in drie divisies: Automated Driving (geautomatiseerd rijden), Location Intelligence (locatie-intelligentie) en Navigation (navigatie).",
+   "url": "https://www.emerce.nl/nieuws/200-banen-weg-tomtom"
+  },
+  {
+   "id": "0ef0da0ea642",
+   "titel": "Figma introduceert workflows voor nieuwe ontwikkelmethodes",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-15",
+   "samenvatting": "Figma heeft op Config 2026 code layers in open beta uitgebracht. Daarnaast komt het met Specs, een nieuwe plek voor Markdown-context, en brengt het Payload CMS naar Figma Make. De Figma-agent is nu algemeen beschikbaar en er komen twintig nieuwe MCP-integraties bij. Figma kondigt de nieuwe functi...",
+   "url": "https://www.techzine.nl/nieuws/devops/582809/figma-introduceert-workflows-voor-nieuwe-ontwikkelmethodes/"
+  },
+  {
+   "id": "0cfaea06e12d",
+   "titel": "SolarWinds Avior laat AI-agents zelfstandig IT-doelen nastreven",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-15",
+   "samenvatting": "SolarWinds introduceert Avior, doelgerichte AI voor IT-operations. Teams leggen een gewenst resultaat vast, waarna rolgebaseerde agents onderzoek doen, acties voorstellen of uitvoeren en het effect meten. AI-assistenten beantwoorden doorgaans vragen binnen een product. Avior begint juist bij het...",
+   "url": "https://www.techzine.nl/nieuws/applications/582816/solarwinds-avior-laat-ai-agents-zelfstandig-it-doelen-nastreven/"
+  },
   {
    "id": "e07385242f8f",
    "titel": "Trellix brengt agentic SOC-AI naar on-premises en air-gapped",
@@ -114,6 +184,36 @@
    "url": "https://www.techzine.nl/nieuws/applications/582766/de-meningen-zijn-verdeeld-over-gemini-4-argon/"
   },
   {
+   "id": "cb4462576dc4",
+   "titel": "De regie over autonome AI-agents: van uitdaging naar controle",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-14",
+   "samenvatting": "In deze uitzending wordt de werkelijkheid van agentic orchestration besproken. Er wordt ontleed hoe je voorkomt dat een leger aan […]",
+   "url": "https://www.emerce.nl/videos/regie-autonome-aiagents-uitdaging-controle"
+  },
+  {
+   "id": "a96412352330",
+   "titel": "Spoelstra Spreekt: Hamsteren",
+   "categorie": "Automatisering",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-14",
+   "samenvatting": "Bij elk automatiseringstraject heb je altijd wel één oude zure medewerker zitten die iedereen gaat waarschuwen voor de gevaren van het nieuwe systeem. Meestal heet hij Harry of Nico.",
+   "url": "https://www.computable.nl/2026/10/14/spoelstra-spreekt-hamsteren/"
+  },
+  {
+   "id": "6e72f186d829",
+   "titel": "Kort: Bedrijven lanceren alternatief voor digitale identiteit, ai-agenten ontwikkelen eigen taal (en meer)",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-14",
+   "samenvatting": "ABN Amro en KPN willen overheid voor zijn met digitale identiteitsapp, ai-agenten ontwikkelen zelf begrippen om sensordata uit te wisselen en Berenschot automatiseert vierduizend inhuuraanvragen.",
+   "url": "https://www.computable.nl/2026/10/14/kort-bedrijven-lanceren-alternatief-voor-digitale-identiteit-ai-agenten-ontwikkelen-eigen-taal-en-meer/"
+  },
+  {
    "id": "638fbf6acafb",
    "titel": "Nederlands MKB ziet AI als productiemiddel, geen groeimotor",
    "categorie": "AI",
@@ -134,6 +234,16 @@
    "url": "https://www.emerce.nl/videos/agentic-commerce-hoe-ver-geef-klant-uit-handen"
   },
   {
+   "id": "3ce246d2cfaf",
+   "titel": "Kennissessie ChatGPT Ads",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-14",
+   "samenvatting": "ChatGPT toont sinds eind augustus advertenties aan Nederlandse gebruikers. Sinds begin september kunnen merken via de Ads Manager zelf campagnes opzetten. OpenAI heeft de ambitie uitgesproken om er op termijn 100 miljard dollar per jaar mee om te zetten.",
+   "url": "https://www.emerce.nl/videos/kennissessie-chatgpt-ads"
+  },
+  {
    "id": "312ebaff0258",
    "titel": "Opname-apparaatje ontdekt in vergaderzaal OpenAI, medewerker opgepakt",
    "categorie": "AI",
@@ -142,6 +252,16 @@
    "datum": "2026-10-14",
    "samenvatting": "AI-ontwikkelaar OpenAI heeft opname-apparatuur ontdekt in een van de eigen kantoren. Het Amerikaanse bedrijf spreekt van een \"geavanceerd opname-apparaat\". Het was geplaatst in een vergaderzaal in San Francisco waar vaak bedrijfsgevoelige informatie wordt besproken. OpenAI deed de ontdekking eind...",
    "url": "https://nos.nl/l/2634884"
+  },
+  {
+   "id": "2b2167d55b56",
+   "titel": "Duitsers willen geen door AI geschreven boeken",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-14",
+   "samenvatting": "Duitsers staan terughoudend tegenover het gebruik van kunstmatige intelligentie bij het schrijven van boeken. Voor het vertalen van boeken zien zij daarentegen wel een duidelijke rol voor AI.",
+   "url": "https://www.emerce.nl/nieuws/duitsers-willen-geen-door-ai-geschreven-boeken"
   },
   {
    "id": "fbfe1b9719f3",
