@@ -1,12 +1,12 @@
 {
- "bijgewerkt": "2026-10-15T08:42:03+00:00",
+ "bijgewerkt": "2026-10-16T08:36:44+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
    "status": "OK",
    "items": 20,
-   "bewaard": 12,
-   "verouderd": 7,
+   "bewaard": 14,
+   "verouderd": 5,
    "geweigerd": 0
   },
   {
@@ -29,7 +29,7 @@
    "feed": "Microsoft Power Platform Blog (Power Automate)",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 6,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 12,
-   "verouderd": 9,
+   "bewaard": 14,
+   "verouderd": 7,
    "geweigerd": 3
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 2,
+   "bewaard": 1,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -61,7 +61,7 @@
    "feed": "Emerce",
    "status": "OK",
    "items": 10,
-   "bewaard": 8,
+   "bewaard": 3,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -69,7 +69,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 3,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -77,12 +77,82 @@
    "feed": "NOS Tech",
    "status": "OK",
    "items": 20,
-   "bewaard": 11,
+   "bewaard": 10,
    "verouderd": 0,
    "geweigerd": 0
   }
  ],
  "items": [
+  {
+   "id": "fc07a227fa71",
+   "titel": "G7 test weerbaarheid van financiële sector tegen AI-cyberattacks",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-16",
+   "samenvatting": "De G7-landen bereiden cyberbeveiligingsoefeningen voor om te beoordelen hoe financiële instellingen en toezichthouders reageren op aanvallen waarbij AI wordt gebruikt. Het voornemen toont volgens Reuters de groeiende bezorgdheid aan over het feit dat kunstmatige intelligentie het moeilijker zou k...",
+   "url": "https://www.techzine.nl/nieuws/security/582842/g7-test-weerbaarheid-van-financiele-sector-tegen-ai-cyberattacks/"
+  },
+  {
+   "id": "e29cd9e1331d",
+   "titel": "Booking komt met AI-reisassistent",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-16",
+   "samenvatting": "Booking.com richt AI-start-up Vayo op om zich te specialiseren in het domein van de AI-reisassistenten.",
+   "url": "https://www.emerce.nl/nieuws/bookingcom-komt-aireisassistent"
+  },
+  {
+   "id": "d5ae2a297190",
+   "titel": "Meeste Google-zoekopdrachten naar merken tonen AI Overviews",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-16",
+   "samenvatting": "Praktisch alle zoekopdrachten bij Google naar een bedrijfsnaam of merk geven als eerste resultaat een AI-overview. Pas daarna en daaronder volgt het overzicht met blauwe, klikbare hyperlinks naar de betreffende bedrijven.",
+   "url": "https://www.emerce.nl/nieuws/meeste-googlezoekopdrachten-merken-tonen-ai-overviews"
+  },
+  {
+   "id": "c83134b84015",
+   "titel": "Your AI rollout could cost you the experts it was meant to help",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-10-16",
+   "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
+   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
+  },
+  {
+   "id": "5b70baa9d16f",
+   "titel": "Your AI adoption numbers are hiding a $1.73 million problem",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-10-16",
+   "samenvatting": "Most banking leaders say AI is lifting productivity. Fewer employees agree, and 49% have overridden AI outputs because the process was not set up correctly. Redesigning the process comes before adding another agent.",
+   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-bfs/"
+  },
+  {
+   "id": "528f8fd6977c",
+   "titel": "Ai‑aanbieders verspreiden valse informatie over illegale goksites",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-16",
+   "samenvatting": "Aanbieders van generatieve ai-diensten moeten zorgvuldiger omgaan met informatie over vergunningen en online goksites. Daarvoor waarschuwt het Keurmerk Verantwoorde Affiliates (KVA). Na eigen onderzoek blijkt dat populaire ai‑systemen zoals ChatGPT Nederlandse consumenten foutief doorverwijzen.",
+   "url": "https://www.computable.nl/2026/10/16/ai-aanbieders-verspreiden-valse-informatie-over-illegale-goksites/"
+  },
+  {
+   "id": "0baf33d84a14",
+   "titel": "AI-agents zetten TypeScript-compiler om naar Rust voor 24.000 dollar",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-16",
+   "samenvatting": "Ontwikkelaar Theo Browne gebruikte AI-agents om de TypeScript-compiler van Microsoft te herschrijven in Rust. Het resultaat zou twee keer zo snel werken als de officiële versie van Microsoft. Die is op Go gebaseerd. De implementatie biedt bovendien nagenoeg volledige compatibiliteit met bestaande...",
+   "url": "https://www.techzine.nl/nieuws/devops/582847/ai-agents-zetten-typescript-compiler-om-naar-rust-voor-24-000-dollar/"
+  },
   {
    "id": "d53ad275256e",
    "titel": "EDAY: de toekomst van media inkoop",
@@ -92,6 +162,16 @@
    "datum": "2026-10-15",
    "samenvatting": "De inkoop van digitale campagnes verandert snel: adverteerders zoeken flexibiliteit, snelheid en controle, passend bij hun eigen werkwijze. Met het nieuwe platform Serve speelt Mediahuis hierop in door directe inkoop, programmatic opties (PMP/PG) en integratie via API en MCP mogelijk te maken. Sa...",
    "url": "https://www.emerce.nl/nieuws/eday-toekomst-media-inkoop"
+  },
+  {
+   "id": "c3d989d7d52d",
+   "titel": "Databricks ADBC connector for Power BI and Microsoft Fabric (Generally Available)",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-10-15",
+   "samenvatting": "This release is part of the broader ODBC-to-ADBC transition for Power Query connectors described in the Transition from ODBC to ADBC drivers in Power BI and Microsoft Fabric documentation. What’s new Existing connections in your semantic models, dataflows, and paginated reports continue to work u...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Databricks-ADBC-connector-for-Power-BI-and-Microsoft-Fabric/ba-p/5369591"
   },
   {
    "id": "a89e162003af",
@@ -104,6 +184,36 @@
    "url": "https://www.emerce.nl/nieuws/onderzoek-invloed-ai-agencies-2027"
   },
   {
+   "id": "9ed5f2a209f6",
+   "titel": "Cohere wil AI-securitystartup AISLE overnemen",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-15",
+   "samenvatting": "Cohere heeft een overeenkomst gesloten om AISLE over te nemen. Die startup bouwt autonome AI-systemen die onbekende kwetsbaarheden in kritieke software opsporen en helpen dichten. Met de deal wil Cohere security een vaste plek geven in zijn soevereine AI-platform. Cohere maakte de voorgenomen ove...",
+   "url": "https://www.techzine.nl/nieuws/security/582822/cohere-wil-ai-securitystartup-aisle-overnemen/"
+  },
+  {
+   "id": "8ee1a94ef044",
+   "titel": "Power BI September 2026 Feature Summary",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-10-15",
+   "samenvatting": "As the Power BI, Microsoft Fabric, data, and analytics community gathers in Barcelona for the European Microsoft Fabric + SQL Community Conference, this month is packed with news. From new Copilot and AI experiences to reporting, modeling, data connectivity, developer enhancements, and mobile upd...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-September-2026-Feature-Summary/ba-p/5325831"
+  },
+  {
+   "id": "7fcc8206c7e8",
+   "titel": "ServiceNow geeft AI-agents een paspoort voor runtime-controle",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-15",
+   "samenvatting": "ServiceNow introduceert AI Passport, een cryptografisch ondertekende credential die tijdens runtime bepaalt wat AI-agents en MCP-servers mogen doen. Nvidia is design- en launchpartner. Daarnaast komt ServiceNow met shadow AI-detectie, AI-kostenbeheer en een Operational Resilience-oplossing voor b...",
+   "url": "https://www.techzine.nl/nieuws/applications/582827/servicenow-geeft-ai-agents-een-paspoort-voor-runtime-controle/"
+  },
+  {
    "id": "7b0e7f9eb890",
    "titel": "ChatGPT Ads zijn nog geen bewezen succes. Maar wie na één week al concludeert, bewijst vooral iets anders.",
    "categorie": "AI",
@@ -114,6 +224,26 @@
    "url": "https://www.emerce.nl/achtergrond/chatgpt-ads-nog-geen-bewezen-succes-wie-na-n-week-al-concludeert-bewijst-vooral-iets-anders"
   },
   {
+   "id": "7692afe522ee",
+   "titel": "Fabric Policies: Granular governance at scale (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-15",
+   "samenvatting": "As Microsoft Fabric grows across teams, workspaces, and capacities, governance becomes harder to manage with broad tenant-wide switches alone because governance models are not one-size-fits-all. Fabric Policies provide granular controls that can fit your governance model by defining what actions...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Policies-Granular-governance-at-scale-Preview/ba-p/5368144"
+  },
+  {
+   "id": "55dcf1697838",
+   "titel": "Power BI October 2026 Feature Summary",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-10-15",
+   "samenvatting": "Last month, we shared a packed September update alongside the European Microsoft Fabric + SQL Community Conference. Even so, the Power BI team has continued delivering new capabilities, and we didn't want to wait another month to share them. This update includes enhancements across Copilot and AI...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-October-2026-Feature-Summary/ba-p/5374650"
+  },
+  {
    "id": "517a4750abce",
    "titel": "Emerce Rapport De Impact van AI op Digital Agencies (richting 2027)",
    "categorie": "AI",
@@ -122,6 +252,16 @@
    "datum": "2026-10-15",
    "samenvatting": "Voor het derde jaar op rij heeft Emerce onderzocht welke impact AI heeft op digital agencies en hoe zij daarop […]",
    "url": "https://www.emerce.nl/knowledgebase/emerce-rapport-impact-ai-digital-agencies-2027"
+  },
+  {
+   "id": "29d288b88a10",
+   "titel": "SAS Viya-analytics nu mogelijk op Europese STACKIT-cloud",
+   "categorie": "Data",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-15",
+   "samenvatting": "SAS biedt zijn data- en AI-platform Viya vanaf nu aan op STACKIT, de soevereine cloud van Schwarz Digits. Het aanbod is samen met partner CBTW ontwikkeld en richt zich op middelgrote Europese bedrijven die hun data binnen Europa willen houden. De infrastructuur wordt volledig in Europa gehost en...",
+   "url": "https://www.techzine.nl/nieuws/analytics/582819/sas-viya-analytics-nu-mogelijk-op-europese-stackit-cloud/"
   },
   {
    "id": "19b3a302b138",
@@ -192,6 +332,16 @@
    "datum": "2026-10-14",
    "samenvatting": "In deze uitzending wordt de werkelijkheid van agentic orchestration besproken. Er wordt ontleed hoe je voorkomt dat een leger aan […]",
    "url": "https://www.emerce.nl/videos/regie-autonome-aiagents-uitdaging-controle"
+  },
+  {
+   "id": "c0ce82e297b0",
+   "titel": "Workspace-level private link for SQL database in Microsoft Fabric (Preview)",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-14",
+   "samenvatting": "Secure SQL database connectivity at the workspace level",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-level-private-link-for-SQL-database-in-Microsoft/ba-p/5323519"
   },
   {
    "id": "a96412352330",
@@ -672,16 +822,6 @@
    "datum": "2026-10-08",
    "samenvatting": "De top 1 procent abonnees bij AI’s neemt bijna een vijfde van alle consumentenuitgaven voor zijn rekening, meer dan de onderste helft van alle betalers samen.",
    "url": "https://www.emerce.nl/nieuws/kleine-groepje-klanten-levert-aireuzen-meeste-omzet"
-  },
-  {
-   "id": "8ee1a94ef044",
-   "titel": "Power BI September 2026 Feature Summary",
-   "categorie": "BI",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-10-08",
-   "samenvatting": "As the Power BI, Microsoft Fabric, data, and analytics community gathers in Barcelona for the European Microsoft Fabric + SQL Community Conference, this month is packed with news. From new Copilot and AI experiences to reporting, modeling, data connectivity, developer enhancements, and mobile upd...",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-September-2026-Feature-Summary/ba-p/5325831"
   },
   {
    "id": "8ed94b54f3a0",
