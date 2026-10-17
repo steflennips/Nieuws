@@ -1,12 +1,12 @@
 {
- "bijgewerkt": "2026-10-16T08:36:44+00:00",
+ "bijgewerkt": "2026-10-17T08:08:26+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
    "status": "OK",
    "items": 20,
    "bewaard": 14,
-   "verouderd": 5,
+   "verouderd": 6,
    "geweigerd": 0
   },
   {
@@ -29,7 +29,7 @@
    "feed": "Microsoft Power Platform Blog (Power Automate)",
    "status": "OK",
    "items": 10,
-   "bewaard": 6,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 1,
+   "bewaard": 3,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -61,15 +61,15 @@
    "feed": "Emerce",
    "status": "OK",
    "items": 10,
-   "bewaard": 3,
+   "bewaard": 4,
    "verouderd": 0,
-   "geweigerd": 0
+   "geweigerd": 1
   },
   {
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 6,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -83,6 +83,26 @@
   }
  ],
  "items": [
+  {
+   "id": "c83134b84015",
+   "titel": "Your AI rollout could cost you the experts it was meant to help",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-10-17",
+   "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
+   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
+  },
+  {
+   "id": "5b70baa9d16f",
+   "titel": "Your AI adoption numbers are hiding a $1.73 million problem",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-10-17",
+   "samenvatting": "Most banking leaders say AI is lifting productivity. Fewer employees agree, and 49% have overridden AI outputs because the process was not set up correctly. Redesigning the process comes before adding another agent.",
+   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-bfs/"
+  },
   {
    "id": "fc07a227fa71",
    "titel": "G7 test weerbaarheid van financiële sector tegen AI-cyberattacks",
@@ -114,24 +134,64 @@
    "url": "https://www.emerce.nl/nieuws/meeste-googlezoekopdrachten-merken-tonen-ai-overviews"
   },
   {
-   "id": "c83134b84015",
-   "titel": "Your AI rollout could cost you the experts it was meant to help",
+   "id": "d05bbbb9d2ab",
+   "titel": "Kort: Mollie reserveert 50 miljoen voor ai-platform met agents, Japan investeert fors in chipproductie VS (en meer)",
    "categorie": "AI",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
+   "bron": "Computable",
+   "taal": "nl",
    "datum": "2026-10-16",
-   "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
-   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
+   "samenvatting": "Mollie trekt vijftig miljoen euro uit voor ai-agents in financiële dienstverlening, Japan pompt 21 miljard dollar in chipfabrieken op Amerikaanse bodem, Odin Groep versterkt Belgische positie met overname AppSys, en oud-AIVD-technoloog gaat strategie en innovatie leiden bij Dictu.",
+   "url": "https://www.computable.nl/2026/10/16/kort-mollie-reserveert-50-miljoen-voor-ai-platform-met-agents-japan-investeert-fors-in-chipproductie-vs-en-meer/"
   },
   {
-   "id": "5b70baa9d16f",
-   "titel": "Your AI adoption numbers are hiding a $1.73 million problem",
-   "categorie": "AI",
-   "bron": "Camunda Blog (procesautomatisering)",
+   "id": "ca1b6d732abc",
+   "titel": "12 Best Enterprise Workflow Automation Platforms",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
    "taal": "en",
    "datum": "2026-10-16",
-   "samenvatting": "Most banking leaders say AI is lifting productivity. Fewer employees agree, and 49% have overridden AI outputs because the process was not set up correctly. Redesigning the process comes before adding another agent.",
-   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-bfs/"
+   "samenvatting": "Compare the top enterprise workflow automation platforms for technical teams. See how each tool handles control, scale, and AI workflows.",
+   "url": "https://blog.n8n.io/enterprise-workflow-automation/"
+  },
+  {
+   "id": "bb31346f0e47",
+   "titel": "AI-soevereiniteit draait om controle, niet alleen om locatie",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-16",
+   "samenvatting": "Het debat over soevereine AI spelt zich af in een context waarin datasoevereiniteit, regelgeving en cloudtransformatie hoog op de agenda staan. Toch beginnen gesprekken over soevereine AI vaak nog met één vraag: waar bevinden de data zich? Als data binnen een bepaalde landsgrens of cloudregio bli...",
+   "url": "https://www.techzine.nl/experts/infrastructure/582858/ai-soevereiniteit-draait-om-controle-niet-alleen-om-locatie/"
+  },
+  {
+   "id": "a2abe771afaa",
+   "titel": "[Column] Claude, ChatGPT en Gemini: zo verdelen we het werk",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-16",
+   "samenvatting": "co-Founded by AI bespaart kosten en verhoogt efficiëntie door AI-modellen (Claude, ChatGPT, Gemini) slim in te zetten op basis van taakzwaarte, kosten en het afbreukrisico. Lichte taken gaan naar goedkope modellen, terwijl zwaardere modellen gereserveerd blijven voor strategie en complexe product...",
+   "url": "https://www.emerce.nl/opinie/column-claude-chatgpt-gemini-verdelen-werk"
+  },
+  {
+   "id": "887a3867ebfe",
+   "titel": "Perplexity maakt SPACE open-source: sandbox voor AI-agents",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-16",
+   "samenvatting": "Perplexity maakt SPACE open-source. Dat is het sandboxplatform waarop Computer sinds juli draait. Developers krijgen zo een in productie geteste basis om AI-agents in afgeschermde omgevingen code te laten uitvoeren. Daar horen isolatie, herstel en controle over credentials en netwerktoegang bij....",
+   "url": "https://www.techzine.nl/nieuws/devops/582856/perplexity-maakt-space-open-source-sandbox-voor-ai-agents/"
+  },
+  {
+   "id": "69232c7fb0ea",
+   "titel": "Meta draait AI-model met 816 miljard parameters op twee Macs",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-16",
+   "samenvatting": "Meta presenteert Muse Spark Open. Dit is een AI-model met 816 miljard parameters dat lokaal kan draaien op twee Apple Mac Studio-computers. Meta geeft aan dat Muse Spark Open is ontworpen voor softwareontwikkeling en autonome AI-agents. Volgens de organisatie is het nieuwe model op dit moment het...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/582851/meta-draait-ai-model-met-816-miljard-parameters-op-twee-macs/"
   },
   {
    "id": "528f8fd6977c",
@@ -142,6 +202,36 @@
    "datum": "2026-10-16",
    "samenvatting": "Aanbieders van generatieve ai-diensten moeten zorgvuldiger omgaan met informatie over vergunningen en online goksites. Daarvoor waarschuwt het Keurmerk Verantwoorde Affiliates (KVA). Na eigen onderzoek blijkt dat populaire ai‑systemen zoals ChatGPT Nederlandse consumenten foutief doorverwijzen.",
    "url": "https://www.computable.nl/2026/10/16/ai-aanbieders-verspreiden-valse-informatie-over-illegale-goksites/"
+  },
+  {
+   "id": "49e1cb969c24",
+   "titel": "Keurmerk waarschuwt voor illegale goksites Nederland in AI-tools",
+   "categorie": "AI",
+   "bron": "Emerce",
+   "taal": "nl",
+   "datum": "2026-10-16",
+   "samenvatting": "Nu acht Amerikaanse staten rechtszaken zijn begonnen tegen OpenAI vanwege vermeende veiligheidsrisico’s van ChatGPT, vraagt het Nederlandse Keurmerk Verantwoorde Affiliates (KVA) aandacht voor vergelijkbare zorgen over de betrouwbaarheid van AI-systemen. Uit eerder onderzoek van KVA blijkt dat po...",
+   "url": "https://www.emerce.nl/nieuws/keurmerk-waarschuwt-illegale-goksites-nederland-aitools"
+  },
+  {
+   "id": "47388c122d28",
+   "titel": "Ai-robotwok Charlie is bij Pad Thai nooit moe",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-16",
+   "samenvatting": "Pad Thai heeft op Utrecht Centraal een nieuwe vestiging geopend waarin tijdens piekmomenten een ai-robotwok wordt ingezet. De zogeheten Charlie helpt het keukenteam van de Thaise horeca-keten bij het bereiden van maaltijden wanneer de vraag in korte tijd sterk toeneemt.",
+   "url": "https://www.computable.nl/2026/10/16/ai-robotwok-charlie-is-bij-pad-thai-nooit-moe/"
+  },
+  {
+   "id": "177e58f1cd32",
+   "titel": "Nvidia lanceert Nemotron 3.5 Super VL en Bolt voor AI-agents",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-16",
+   "samenvatting": "Nvidia brengt drie nieuwe open modellen uit voor AI-agents. Nemotron 3.5 Super VL is een multimodaal model van 120 miljard parameters voor enterprise-workloads. Daarnaast verschijnen twee Bolt-modellen die lokaal draaien op RTX- en DGX Spark-hardware. Met de drie modellen wil Nvidia elke laag van...",
+   "url": "https://www.techzine.nl/nieuws/analytics/582853/nvidia-lanceert-nemotron-3-5-super-vl-en-bolt-voor-ai-agents/"
   },
   {
    "id": "0baf33d84a14",
