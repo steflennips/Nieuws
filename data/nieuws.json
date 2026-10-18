@@ -1,12 +1,12 @@
 {
- "bijgewerkt": "2026-10-17T08:08:26+00:00",
+ "bijgewerkt": "2026-10-18T08:25:33+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
    "status": "OK",
    "items": 20,
-   "bewaard": 14,
-   "verouderd": 6,
+   "bewaard": 13,
+   "verouderd": 7,
    "geweigerd": 0
   },
   {
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 14,
-   "verouderd": 7,
+   "bewaard": 13,
+   "verouderd": 8,
    "geweigerd": 3
   },
   {
@@ -59,11 +59,8 @@
   },
   {
    "feed": "Emerce",
-   "status": "OK",
-   "items": 10,
-   "bewaard": 4,
-   "verouderd": 0,
-   "geweigerd": 1
+   "status": "FOUT",
+   "reden": "geen feed (HTML-pagina ontvangen)"
   },
   {
    "feed": "Techzine",
@@ -77,7 +74,7 @@
    "feed": "NOS Tech",
    "status": "OK",
    "items": 20,
-   "bewaard": 10,
+   "bewaard": 9,
    "verouderd": 0,
    "geweigerd": 0
   }
@@ -89,7 +86,7 @@
    "categorie": "AI",
    "bron": "Camunda Blog (procesautomatisering)",
    "taal": "en",
-   "datum": "2026-10-17",
+   "datum": "2026-10-18",
    "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
    "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
   },
@@ -99,7 +96,7 @@
    "categorie": "AI",
    "bron": "Camunda Blog (procesautomatisering)",
    "taal": "en",
-   "datum": "2026-10-17",
+   "datum": "2026-10-18",
    "samenvatting": "Most banking leaders say AI is lifting productivity. Fewer employees agree, and 49% have overridden AI outputs because the process was not set up correctly. Redesigning the process comes before adding another agent.",
    "url": "https://camunda.com/blog/2026/10/great-process-reengineering-bfs/"
   },
@@ -1682,26 +1679,6 @@
    "datum": "2026-08-20",
    "samenvatting": "Banks and FIs providers already run AI agents in pilots. Few have them moving the needle on expense ratios and time-to-yes. What separates the two is whether agents operate inside a governed, end-to-end process.",
    "url": "https://camunda.com/blog/2026/08/6-agentic-use-cases-banking-financial-services/"
-  },
-  {
-   "id": "d52d726112d3",
-   "titel": "Edit your Power BI projects anywhere and reload them instantly in Power BI Desktop (Preview)",
-   "categorie": "BI",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-08-18",
-   "samenvatting": "Power BI Projects (PBIP) make reports and semantic models file-based, enabling source control, automation, and other developer workflows. You can edit those files directly in a code editor or through external tools. Until now, changes made outside of Power BI Desktop wouldn't appear until you res...",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Edit-your-Power-BI-projects-anywhere-and-reload-them-instantly/ba-p/5359136"
-  },
-  {
-   "id": "a0fd02d9a23e",
-   "titel": "Three Ways Camunda Speaks MCP (And Why the Direction Matters)",
-   "categorie": "Automatisering",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-08-18",
-   "samenvatting": "Most MCP integrations go one direction. Camunda ships all three. As a client calling tools, as a server for queries, and as a callable process capability. Here's how, with one flight disruption scenario as the thread.",
-   "url": "https://camunda.com/blog/2026/08/three-ways-camunda-speaks-mcp-and-why-the-direction-matters/"
   }
  ]
 }
