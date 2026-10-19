@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-18T08:25:33+00:00",
+ "bijgewerkt": "2026-10-19T09:26:29+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 6,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -86,9 +86,19 @@
    "categorie": "AI",
    "bron": "Camunda Blog (procesautomatisering)",
    "taal": "en",
-   "datum": "2026-10-18",
+   "datum": "2026-10-19",
    "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
    "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
+  },
+  {
+   "id": "9472b61c6fb5",
+   "titel": "Pax8 mikt op managed intelligence en een AI OS voor MSP’s",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-19",
+   "samenvatting": "Zoals vaker bij nieuwe technologieën blijkt AI niet een bestaand hokje te plaatsen. Daarom vormt Pax8 tijdens Beyond 2026 een nieuw controlepaneel voor IT-leveranciers met voorspelbare AI-kosten en -resultaten. 8os is de naam voor het besturingssysteem voor AI-agents, waarbij mkb’ers tevens 8bot...",
+   "url": "https://www.techzine.nl/blogs/applications/582875/pax8-mikt-op-managed-intelligence-en-een-ai-os-voor-msps/"
   },
   {
    "id": "5b70baa9d16f",
@@ -96,7 +106,7 @@
    "categorie": "AI",
    "bron": "Camunda Blog (procesautomatisering)",
    "taal": "en",
-   "datum": "2026-10-18",
+   "datum": "2026-10-19",
    "samenvatting": "Most banking leaders say AI is lifting productivity. Fewer employees agree, and 49% have overridden AI outputs because the process was not set up correctly. Redesigning the process comes before adding another agent.",
    "url": "https://camunda.com/blog/2026/10/great-process-reengineering-bfs/"
   },
