@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-19T09:26:29+00:00",
+ "bijgewerkt": "2026-10-20T09:00:27+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -38,7 +38,7 @@
    "status": "OK",
    "items": 50,
    "bewaard": 13,
-   "verouderd": 8,
+   "verouderd": 9,
    "geweigerd": 3
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 3,
+   "bewaard": 2,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 3,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -86,9 +86,29 @@
    "categorie": "AI",
    "bron": "Camunda Blog (procesautomatisering)",
    "taal": "en",
-   "datum": "2026-10-19",
+   "datum": "2026-10-20",
    "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
    "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
+  },
+  {
+   "id": "5b70baa9d16f",
+   "titel": "Your AI adoption numbers are hiding a $1.73 million problem",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-10-20",
+   "samenvatting": "Most banking leaders say AI is lifting productivity. Fewer employees agree, and 49% have overridden AI outputs because the process was not set up correctly. Redesigning the process comes before adding another agent.",
+   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-bfs/"
+  },
+  {
+   "id": "fc06fb4487de",
+   "titel": "Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-10-19",
+   "samenvatting": "Most small businesses want the same handful of AI jobs. They want to draft emails, summarize calls, read invoices, search their own documents, and make the odd image. Plenty of them can't send customer data to a cloud API to do it. Often the reason is data privacy",
+   "url": "https://blog.n8n.io/n8n-nvidia-dgx-spark/"
   },
   {
    "id": "9472b61c6fb5",
@@ -101,14 +121,84 @@
    "url": "https://www.techzine.nl/blogs/applications/582875/pax8-mikt-op-managed-intelligence-en-een-ai-os-voor-msps/"
   },
   {
-   "id": "5b70baa9d16f",
-   "titel": "Your AI adoption numbers are hiding a $1.73 million problem",
+   "id": "44e54dd09612",
+   "titel": "Retiring the Fabric data agent custom tool in Microsoft Foundry: move to Fabric IQ",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-19",
+   "samenvatting": "In March 2025, we announced that agents in Microsoft Foundry could use Fabric data agents to answer questions about data in Microsoft Fabric. In the earlier integration, you connected to a data agent by adding it as a custom tool. For details, refer to Consume a data agent in Microsoft Foundry. W...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Retiring-the-Fabric-data-agent-custom-tool-in-Microsoft-Foundry/ba-p/5374418"
+  },
+  {
+   "id": "3fe5e9bd521e",
+   "titel": "Microsoft wil agentic insiders beveiligen met Project Perception",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-19",
+   "samenvatting": "Microsoft gebruikt Project Perception voortaan ook om AI-agents binnen organisaties te bewaken. Guardian Agents beoordelen elke actie van een agent voordat die wordt uitgevoerd. Volgens Microsoft zijn frontier-modellen niet te vertrouwen, ongeacht waar ze vandaan komen. Tot nu toe ging de meeste...",
+   "url": "https://www.techzine.nl/nieuws/security/582920/microsoft-wil-agentic-insiders-beveiligen-met-project-perception/"
+  },
+  {
+   "id": "38adc891ce40",
+   "titel": "ROI van AI voor developers is er (nog) niet: wat te doen?",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-19",
+   "samenvatting": "Het meten van de ontwikkelaarservaring is nog nooit zo urgent geweest als nu, nu AI een steeds belangrijkere rol speelt. Het is ook nog nooit zo complex geweest. Tijdens Atlassian Team ’26 Europe in Amsterdam kregen we de kans om hierover de diepte in te gaan met Justin Reock, adjunct-CTO van DX...",
+   "url": "https://www.techzine.nl/blogs/applications/582898/roi-van-ai-voor-developers-is-er-nog-niet-wat-te-doen/"
+  },
+  {
+   "id": "278898a84565",
+   "titel": "Fortanix Confidential AI schermt workloads af van infrastructuurbeheerder",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-19",
+   "samenvatting": "CNCF Confidential Containers (CoCo) maken het mogelijk om workloads op de Trusted Execution Environments op CPU’s en GPU’s te draaien. Fortanix biedt er vanaf nu support voor binnen het eigen Confidential AI. De encryptie gaat pas van de data af als zowel de hardware als de workload een verificat...",
+   "url": "https://www.techzine.nl/nieuws/security/582916/fortanix-confidential-ai-schermt-workloads-af-van-infrastructuurbeheerder/"
+  },
+  {
+   "id": "2035629165e2",
+   "titel": "Advanced NL2SQL and advanced DAX generation in Fabric data agents (Generally Available)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-19",
+   "samenvatting": "Data agents in Microsoft Fabric let users ask questions about data in plain language. As a creator, you connect an agent to supported sources—including SQL databases, lakehouses, Power BI semantic models, and eventhouses—add the business context it needs, and share it with users across Fabric, Te...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advanced-NL2SQL-and-advanced-DAX-generation-in-Fabric-data/ba-p/5374654"
+  },
+  {
+   "id": "17b79e538ded",
+   "titel": "Fabric Data Warehouse integration with Fabric User Data Functions (Preview)",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-10-19",
+   "samenvatting": "Microsoft Fabric Data Warehouse now integrates with Fabric User Data Functions in preview, so you can extend T-SQL with custom Python logic without building separate applications or pipelines. Use the integration to send email or Teams messages, retrieve parameters and secrets from Fabric variabl...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Fabric-Data-Warehouse-integration-with-Fabric-User-Data/ba-p/5375137"
+  },
+  {
+   "id": "034606c6efd3",
+   "titel": "Premier Jetten in gesprek met Zuidas-Russen van Nebius over ai",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-19",
+   "samenvatting": "Nebius, het uit het Russische Yandex voortgekomen ai-cloudbedrijf met hoofdkantoor in Amsterdam, gaat flink bijdragen aan de ai-ambities van Nederland. Premier Rob Jetten en staatssecretaris Willemijn Aerdts hebben daarover gesproken met Nebius-oprichter en ceo Arkady Volozh.",
+   "url": "https://www.computable.nl/2026/10/19/premier-jetten-in-gesprek-met-zuidas-russen-van-nebius-over-ai/"
+  },
+  {
+   "id": "01e1b2fbde1f",
+   "titel": "Is Your AI Agent Still Working?",
    "categorie": "AI",
    "bron": "Camunda Blog (procesautomatisering)",
    "taal": "en",
    "datum": "2026-10-19",
-   "samenvatting": "Most banking leaders say AI is lifting productivity. Fewer employees agree, and 49% have overridden AI outputs because the process was not set up correctly. Redesigning the process comes before adding another agent.",
-   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-bfs/"
+   "samenvatting": "Your agent handled several hundred cases, then the model changed and the prompt was edited twice. Can you tell whether it got better or worse?",
+   "url": "https://camunda.com/blog/2026/10/is-your-ai-agent-still-working/"
   },
   {
    "id": "fc07a227fa71",
@@ -1669,26 +1759,6 @@
    "datum": "2026-08-21",
    "samenvatting": "Welcome to the August 2026 Power BI Feature Summary! This month includes updates across reporting, modeling, data connectivity, mobile, embedded analytics, and developer experiences, with a mix of generally available enhancements and new preview capabilities. Let's take a look at what's new. Tabl...",
    "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-August-2026-Feature-Summary/ba-p/5348434"
-  },
-  {
-   "id": "b1ff944761c1",
-   "titel": "The AI Semantic Layer You Probably Already Have",
-   "categorie": "BI",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-08-20",
-   "samenvatting": "If your organization uses Power BI, you own something most companies chasing AI are desperately trying to build. You just may not know it by name. Let me explain.The invisible thing behind every report Every Power BI report you have ever opened sits on top of a semantic model. Every single one. N...",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/The-AI-Semantic-Layer-You-Probably-Already-Have/ba-p/5360197"
-  },
-  {
-   "id": "63c53226d567",
-   "titel": "Start With These Six Processes to Build Your AI-Native Bank",
-   "categorie": "AI",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-08-20",
-   "samenvatting": "Banks and FIs providers already run AI agents in pilots. Few have them moving the needle on expense ratios and time-to-yes. What separates the two is whether agents operate inside a governed, end-to-end process.",
-   "url": "https://camunda.com/blog/2026/08/6-agentic-use-cases-banking-financial-services/"
   }
  ]
 }
