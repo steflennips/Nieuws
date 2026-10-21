@@ -1,12 +1,12 @@
 {
- "bijgewerkt": "2026-10-20T09:00:27+00:00",
+ "bijgewerkt": "2026-10-21T08:59:29+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
    "status": "OK",
    "items": 20,
-   "bewaard": 13,
-   "verouderd": 7,
+   "bewaard": 12,
+   "verouderd": 8,
    "geweigerd": 0
   },
   {
@@ -38,14 +38,14 @@
    "status": "OK",
    "items": 50,
    "bewaard": 13,
-   "verouderd": 9,
+   "verouderd": 8,
    "geweigerd": 3
   },
   {
    "feed": "n8n Blog (workflow-automatisering)",
    "status": "OK",
    "items": 15,
-   "bewaard": 12,
+   "bewaard": 13,
    "verouderd": 0,
    "geweigerd": 1
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 3,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -81,14 +81,44 @@
  ],
  "items": [
   {
+   "id": "e502d16c8b83",
+   "titel": "Accenture knipt in ai-budget: nog 29 dollar per medewerker voor Claude",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-21",
+   "samenvatting": "Adviesbedrijf Accenture betaalt sinds 1 oktober nog maar 29 dollar per medewerker per maand voor Claude. Sommige werknemers verbruikten tot 1.000 dollar per maand. Ook andere techbedrijven leggen de kosten van ai-tokens danig aan banden.",
+   "url": "https://www.computable.nl/2026/10/21/accenture-knipt-in-ai-budget-nog-29-dollar-per-medewerker-voor-claude/"
+  },
+  {
    "id": "c83134b84015",
    "titel": "Your AI rollout could cost you the experts it was meant to help",
    "categorie": "AI",
    "bron": "Camunda Blog (procesautomatisering)",
    "taal": "en",
-   "datum": "2026-10-20",
+   "datum": "2026-10-21",
    "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
    "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
+  },
+  {
+   "id": "b9940ac12159",
+   "titel": "Anthropic paart extreme groei aan enorme kapitaalhonger",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-21",
+   "samenvatting": "Anthropic groeit uitzonderlijk snel, maar tegelijkertijd wordt het ai-bedrijf geconfronteerd met enorme kosten, aanzienlijke risico’s en een ongekend grote kapitaalbehoefte. Dit blijkt uit een nieuwe conceptversie van het beursprospectus (S-1) die de Amerikaanse zakenkrant Wall Street Journal zag.",
+   "url": "https://www.computable.nl/2026/10/21/anthropic-paart-extreme-groei-aan-enorme-kapitaalhonger/"
+  },
+  {
+   "id": "b7417f64d468",
+   "titel": "JFrog AppTrust krijgt DORA-framework en AI-gestuurde policies",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-21",
+   "samenvatting": "JFrog breidt AppTrust uit met nieuwe DevGovOps-functies voor Europese compliance. Een kant-en-klaar framework voor DORA, policies op repository-niveau en AI Verification Policies moeten organisaties bij elke release ondertekend bewijs geven. Zo kunnen CISO’s en R&D-teams aan EU-regels voldoen zon...",
+   "url": "https://www.techzine.nl/nieuws/devops/582977/jfrog-apptrust-krijgt-dora-framework-en-ai-gestuurde-policies/"
   },
   {
    "id": "5b70baa9d16f",
@@ -96,9 +126,109 @@
    "categorie": "AI",
    "bron": "Camunda Blog (procesautomatisering)",
    "taal": "en",
-   "datum": "2026-10-20",
+   "datum": "2026-10-21",
    "samenvatting": "Most banking leaders say AI is lifting productivity. Fewer employees agree, and 49% have overridden AI outputs because the process was not set up correctly. Redesigning the process comes before adding another agent.",
    "url": "https://camunda.com/blog/2026/10/great-process-reengineering-bfs/"
+  },
+  {
+   "id": "5342d10ad22b",
+   "titel": "llm-d 1.0 maakt gedistribueerde AI-inference klaar voor productie",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-21",
+   "samenvatting": "Het open-source project llm-d heeft versie 1.0 bereikt. De release richt zich op het dagelijks beheer van AI-inference in productie: multi-tenancy, updates zonder downtime en serving die rekening houdt met agents. Het project valt inmiddels onder de CNCF en telt meer dan 500 contributors. llm-d w...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/582980/llm-d-1-0-maakt-gedistribueerde-ai-inference-klaar-voor-productie/"
+  },
+  {
+   "id": "451e02733ed9",
+   "titel": "Vultr breidt uit om agentic AI in productie te draaien",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-21",
+   "samenvatting": "Vultr introduceert een reeks platformupdates die enterprises moeten helpen agentic AI-workloads naar productie te brengen. Het gaat om uitbreidingen van IAM, audit logs, bootable storage voor VX1- en GPU-instances, een Cloud VPN en een Slack-app. De cloudprovider positioneert zich zo tussen hyper...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/582985/vultr-breidt-uit-om-agentic-ai-in-productie-te-draaien/"
+  },
+  {
+   "id": "109b7e583a2b",
+   "titel": "JFrog AI Security spoort Shadow AI op endpoints van developers op",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-21",
+   "samenvatting": "JFrog breidt AI Security uit met Local Shadow AI Detection. Die functie spoort AI-assets direct op de workstations van developers op. Daarnaast introduceert het bedrijf AI Asset Scanning met Bring Your Own LLM Key, waarmee bedrijven skills, plugins en APM-packages via hun eigen taalmodel controle...",
+   "url": "https://www.techzine.nl/nieuws/devops/582975/jfrog-ai-security-spoort-shadow-ai-op-endpoints-van-developers-op/"
+  },
+  {
+   "id": "87c753a50507",
+   "titel": "Why we refreshed the n8n brand",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-10-20",
+   "samenvatting": "A new logo, a new typeface, and a new take on our pink, built for where n8n is going.",
+   "url": "https://blog.n8n.io/n8n-brand-refresh-2026/"
+  },
+  {
+   "id": "68af57f0363f",
+   "titel": "New analytical functions in Microsoft Fabric Data Warehouse (Preview)",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-20",
+   "samenvatting": "Microsoft Fabric Data Warehouse and the SQL analytics endpoint now support new analytical functions in preview. SQL developers and data professionals can calculate medians, quantiles, and percentiles with concise, maintainable T-SQL queries. What’s new in preview MEDIAN — returns the middle value...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/New-analytical-functions-in-Microsoft-Fabric-Data-Warehouse/ba-p/5375432"
+  },
+  {
+   "id": "5c86ce454fa4",
+   "titel": "From mixed events to real-time action: Fabric Eventstreams Q3 2026",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-20",
+   "samenvatting": "Coauthor: Arindam Chatterjee Fabric Eventstreams makes it easy to connect to streaming sources, transform the ingested events and route them to destinations across Microsoft Fabric. But building real-time systems also requires teams to understand the events in motion, enriching them with business...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-mixed-events-to-real-time-action-Fabric-Eventstreams-Q3/ba-p/5375736"
+  },
+  {
+   "id": "44e54dd09612",
+   "titel": "Retiring the Fabric data agent custom tool in Microsoft Foundry: move to Fabric IQ",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-20",
+   "samenvatting": "In March 2025, we announced that agents in Microsoft Foundry could use Fabric data agents to answer questions about data in Microsoft Fabric. In the earlier integration, you connected to a data agent by adding it as a custom tool. For details, refer to Consume a data agent in Microsoft Foundry. W...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Retiring-the-Fabric-data-agent-custom-tool-in-Microsoft-Foundry/ba-p/5374418"
+  },
+  {
+   "id": "21362bef39c5",
+   "titel": "Microsoft breidt Sovereign Cloud uit met lokale AI en GitHub",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-20",
+   "samenvatting": "Microsoft breidt Microsoft Sovereign Cloud verder uit. Er komt een Sovereign Control Panel, extern sleutelbeheer via Azure Managed HSM is nu algemeen beschikbaar en GitHub Enterprise Local en Foundry Local verschijnen op Azure Local. Daarnaast krijgen klantbeheerde omgevingen ondersteuning voor m...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/582957/microsoft-breidt-sovereign-cloud-uit-met-lokale-ai-en-github/"
+  },
+  {
+   "id": "1762eca8130f",
+   "titel": "T-SQL language enhancements in Microsoft Fabric Data Warehouse (Preview)",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-20",
+   "samenvatting": "Microsoft Fabric Data Warehouse is expanding its T-SQL capabilities with four language enhancements in preview. GROUP BY ALL, ORDER BY ALL, the QUALIFY clause, and the FROM ... SELECT query format help SQL developers and data professionals reduce repetitive code, simplify query maintenance, and m...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/T-SQL-language-enhancements-in-Microsoft-Fabric-Data-Warehouse/ba-p/5375433"
+  },
+  {
+   "id": "07b39f8f1c18",
+   "titel": "More expressive graph analysis: GQL improvements in Microsoft Fabric Graph",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-20",
+   "samenvatting": "Coauthors: Idris Motiwala, and Justin Fine January–August 2026 updates expand how users find, inspect, compose, and analyze connections. Organizations use graph data to understand how information moves between systems, how services depend on one another, how conversations develop, and how people...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/More-expressive-graph-analysis-GQL-improvements-in-Microsoft/ba-p/5375740"
   },
   {
    "id": "fc06fb4487de",
@@ -121,14 +251,14 @@
    "url": "https://www.techzine.nl/blogs/applications/582875/pax8-mikt-op-managed-intelligence-en-een-ai-os-voor-msps/"
   },
   {
-   "id": "44e54dd09612",
-   "titel": "Retiring the Fabric data agent custom tool in Microsoft Foundry: move to Fabric IQ",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
+   "id": "4b30c238306c",
+   "titel": "Is Your AI Agent Still Working?",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
    "taal": "en",
    "datum": "2026-10-19",
-   "samenvatting": "In March 2025, we announced that agents in Microsoft Foundry could use Fabric data agents to answer questions about data in Microsoft Fabric. In the earlier integration, you connected to a data agent by adding it as a custom tool. For details, refer to Consume a data agent in Microsoft Foundry. W...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Retiring-the-Fabric-data-agent-custom-tool-in-Microsoft-Foundry/ba-p/5374418"
+   "samenvatting": "Your agent handled several hundred cases, then the model changed and the prompt was edited twice. Can you tell whether it got better or worse?",
+   "url": "https://camunda.com/blog/2026/10/is-your-ai-agent-still-working-track-drift-token-spend-and-the-impact-of-every-change-across-ai-/"
   },
   {
    "id": "3fe5e9bd521e",
@@ -1749,16 +1879,6 @@
    "datum": "2026-08-24",
    "samenvatting": "Upgrading Power BI Dataflows Gen1 is now easier with the Dataflows Upgrade Wizard. Now in preview for eligible workspaces assigned to Fabric capacity, the wizard provides a guided experience to upgrade Power BI Dataflows Gen1 items to Fabric Dataflows Gen2 (CI/CD). The wizard preserves key proper...",
    "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Upgrade-Power-BI-Dataflows-Gen1-to-Fabric-Dataflows-Gen2-with/ba-p/5360422"
-  },
-  {
-   "id": "e25eb4fe1d25",
-   "titel": "Power BI August 2026 Feature Summary",
-   "categorie": "BI",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-08-21",
-   "samenvatting": "Welcome to the August 2026 Power BI Feature Summary! This month includes updates across reporting, modeling, data connectivity, mobile, embedded analytics, and developer experiences, with a mix of generally available enhancements and new preview capabilities. Let's take a look at what's new. Tabl...",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-August-2026-Feature-Summary/ba-p/5348434"
   }
  ]
 }
