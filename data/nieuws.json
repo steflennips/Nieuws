@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-21T08:59:29+00:00",
+ "bijgewerkt": "2026-10-22T09:02:03+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -21,8 +21,8 @@
    "feed": "SQLBI",
    "status": "OK",
    "items": 30,
-   "bewaard": 1,
-   "verouderd": 25,
+   "bewaard": 2,
+   "verouderd": 24,
    "geweigerd": 0
   },
   {
@@ -38,7 +38,7 @@
    "status": "OK",
    "items": 50,
    "bewaard": 13,
-   "verouderd": 8,
+   "verouderd": 7,
    "geweigerd": 3
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 2,
+   "bewaard": 6,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 4,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -74,12 +74,72 @@
    "feed": "NOS Tech",
    "status": "OK",
    "items": 20,
-   "bewaard": 9,
+   "bewaard": 6,
    "verouderd": 0,
    "geweigerd": 0
   }
  ],
  "items": [
+  {
+   "id": "5b70baa9d16f",
+   "titel": "Your AI adoption numbers are hiding a $1.73 million problem",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-10-23",
+   "samenvatting": "Most banking leaders say AI is lifting productivity. Fewer employees agree, and 49% have overridden AI outputs because the process was not set up correctly. Redesigning the process comes before adding another agent.",
+   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-bfs/"
+  },
+  {
+   "id": "ce9235f96bbe",
+   "titel": "Red Hat en Nvidia leggen agent-security buiten de AI-agent",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-22",
+   "samenvatting": "Red Hat en Nvidia breiden hun samenwerking rond Red Hat AI Factory with Nvidia uit. Ze werken samen aan de OpenShell Reference Architecture voor beter beveiligde AI-agents, presenteren een gezamenlijk referentieontwerp voor inference en beloven Day 0-ondersteuning voor Nvidia Vera Rubin. Volgens...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583047/red-hat-en-nvidia-leggen-agent-security-buiten-de-ai-agent/"
+  },
+  {
+   "id": "c83134b84015",
+   "titel": "Your AI rollout could cost you the experts it was meant to help",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-10-22",
+   "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
+   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
+  },
+  {
+   "id": "2efce5c874a7",
+   "titel": "Atlassian: AI versnelt coderen, maar frictie blijft hardnekkig",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-22",
+   "samenvatting": "Ontwikkelaars schrijven dankzij AI sneller code, maar de softwarelevering als geheel gaat nauwelijks sneller. Dat blijkt uit het State of Developer Experience-rapport 2026 van Atlassian. Maar liefst 72 procent ervaart evenveel of meer frictie dan voor de komst van AI. Atlassian publiceerde vandaa...",
+   "url": "https://www.techzine.nl/nieuws/devops/583055/atlassian-ai-versnelt-coderen-maar-frictie-blijft-hardnekkig/"
+  },
+  {
+   "id": "03954bbd5855",
+   "titel": "Install DAX libraries into Power BI Desktop by asking your AI assistant",
+   "categorie": "BI",
+   "bron": "SQLBI",
+   "taal": "en",
+   "datum": "2026-10-22",
+   "samenvatting": "At the end of 2025, we launched DAX Lib, a public repository of DAX user-defined functions. So far, importing a DAX library has required a few manual steps, like clicking Add to Power BI on daxlib.org and then copying and…",
+   "url": "https://www.sqlbi.com/blog/marco/2026/10/22/install-dax-libraries-into-power-bi-desktop-by-asking-your-ai-assistant/"
+  },
+  {
+   "id": "f61b8e821bc3",
+   "titel": "Incrementally migrate and re-migrate database objects with Migration Assistant for Fabric Warehouse (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-21",
+   "samenvatting": "Migrate database objects to Microsoft Fabric in phases without creating a new Warehouse for every run. Start with one business domain, add another when it is ready, or revisit an object after its source definition changes. You can also build on an existing Warehouse instead of replacing it. Incre...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Incrementally-migrate-and-re-migrate-database-objects-with/ba-p/5376060"
+  },
   {
    "id": "e502d16c8b83",
    "titel": "Accenture knipt in ai-budget: nog 29 dollar per medewerker voor Claude",
@@ -91,14 +151,24 @@
    "url": "https://www.computable.nl/2026/10/21/accenture-knipt-in-ai-budget-nog-29-dollar-per-medewerker-voor-claude/"
   },
   {
-   "id": "c83134b84015",
-   "titel": "Your AI rollout could cost you the experts it was meant to help",
-   "categorie": "AI",
-   "bron": "Camunda Blog (procesautomatisering)",
+   "id": "e2d4ca39e816",
+   "titel": "Simplify Teradata migrations with Fabric Migration Assistant (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
    "taal": "en",
    "datum": "2026-10-21",
-   "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
-   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
+   "samenvatting": "Migrating an enterprise Teradata estate to Microsoft Fabric can require extensive manual work across database objects, SQL and BTEQ code, dependencies, and operational processes. Fabric Migration Assistant helps reduce that effort so teams can focus their review on the objects and workflows that...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-Teradata-migrations-with-Fabric-Migration-Assistant/ba-p/5376058"
+  },
+  {
+   "id": "d8725372cba4",
+   "titel": "Microsoft & Snowflake’s Commitment to Apache Ossie",
+   "categorie": "Data",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-10-21",
+   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. Advancing an open, interoperable semantic foundation for AI-pow...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Snowflake-s-Commitment-to-Apache-Ossie/ba-p/5369534"
   },
   {
    "id": "b9940ac12159",
@@ -121,14 +191,44 @@
    "url": "https://www.techzine.nl/nieuws/devops/582977/jfrog-apptrust-krijgt-dora-framework-en-ai-gestuurde-policies/"
   },
   {
-   "id": "5b70baa9d16f",
-   "titel": "Your AI adoption numbers are hiding a $1.73 million problem",
+   "id": "98a87be09d6d",
+   "titel": "Nieuwe vaardigheid: begrijpen wat een ai-opdracht kost",
    "categorie": "AI",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
+   "bron": "Computable",
+   "taal": "nl",
    "datum": "2026-10-21",
-   "samenvatting": "Most banking leaders say AI is lifting productivity. Fewer employees agree, and 49% have overridden AI outputs because the process was not set up correctly. Redesigning the process comes before adding another agent.",
-   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-bfs/"
+   "samenvatting": "Hoeveel kost al dat geprompt en gechat eigenlijk? Niet alleen in euro’s maar ook in energie? GreenPT maakt ai-gebruik inzichtelijk. 'Kosten en energie zijn bij ai sterk met elkaar verbonden. Wie efficiënter omgaat met tokens en modellen, ziet dat meestal terug in beide,' aldus ceo Robert Keus.",
+   "url": "https://www.computable.nl/2026/10/21/nieuwe-vaardigheid-begrijpen-wat-een-ai-opdracht-kost/"
+  },
+  {
+   "id": "95d61e5c7827",
+   "titel": "OpenAI-modellen bereiken eindelijk Google Cloud",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-21",
+   "samenvatting": "Google Cloud biedt vanaf nu OpenAI-modellen aan via Model Garden. GPT-6 Astra, GPT-6.1 Sol en GPT-6 Luna zijn in private preview beschikbaar voor geselecteerde zakelijke klanten. Daarmee is Google de enige hyperscaler die toegang geeft tot de drie krachtigste closed-source LLM’s, waartoe het naas...",
+   "url": "https://www.techzine.nl/nieuws/applications/583037/openai-modellen-bereiken-eindelijk-google-cloud/"
+  },
+  {
+   "id": "899e75daf752",
+   "titel": "GTIA lanceert alliantie voor veilige inzet van ai door msp’s",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-21",
+   "samenvatting": "Hoewel de regels en werkwijzen ervoor nog volop in ontwikkeling zijn, wordt ai snel een nieuwe dienst die managed service providers kunnen verkopen. De internationale brancheorganisatie GTIA (voorheen bekend als CompTIA) wil het it-kanaal ondersteunen met een wereldwijd ai-kompas: standaarde",
+   "url": "https://www.computable.nl/2026/10/21/gtia-lanceert-alliantie-voor-veilige-inzet-van-ai-door-msps/"
+  },
+  {
+   "id": "84ab0babbc73",
+   "titel": "Nvidia GTC Berlijn: op jacht naar Europese AI-fabrieken",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-21",
+   "samenvatting": "Tijdens GTC in Berlijn werpt Nvidia haar netten uit. Voor de Europese AI-uitbouw is dan ook een breed scala aan bedrijven nodig. “Extreme co-design” is vereist om de vele takken van Nvidia-rekenkracht en -software optimaal te benutten, stelt CEO Jensen Huang. Huang spreekt van het ‘verwerken van...",
+   "url": "https://www.techzine.nl/blogs/infrastructure/583015/nvidia-gtc-berlijn-op-jacht-naar-europese-ai-fabrieken/"
   },
   {
    "id": "5342d10ad22b",
@@ -141,6 +241,16 @@
    "url": "https://www.techzine.nl/nieuws/infrastructure/582980/llm-d-1-0-maakt-gedistribueerde-ai-inference-klaar-voor-productie/"
   },
   {
+   "id": "4b408479c269",
+   "titel": "Kort: HPE stuurt ai naar de maan, Microsoft zet Copilot op kostenmeter (en meer)",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-21",
+   "samenvatting": "HPE schiet ai-rekenkracht naar de maan, Microsoft verandert Copilot in variabele kostenpost, Doccle schakelt Enable U in voor Nederlandse groei, Dutch trekt miljoenen uit voor 36 zorgsimulaties, en VPRO schetst risico’s van Europese tech-afhankelijkheid.",
+   "url": "https://www.computable.nl/2026/10/21/kort-hpe-stuurt-ai-naar-de-maan-microsoft-zet-copilot-op-kostenmeter-en-meer/"
+  },
+  {
    "id": "451e02733ed9",
    "titel": "Vultr breidt uit om agentic AI in productie te draaien",
    "categorie": "AI",
@@ -149,6 +259,26 @@
    "datum": "2026-10-21",
    "samenvatting": "Vultr introduceert een reeks platformupdates die enterprises moeten helpen agentic AI-workloads naar productie te brengen. Het gaat om uitbreidingen van IAM, audit logs, bootable storage voor VX1- en GPU-instances, een Cloud VPN en een Slack-app. De cloudprovider positioneert zich zo tussen hyper...",
    "url": "https://www.techzine.nl/nieuws/infrastructure/582985/vultr-breidt-uit-om-agentic-ai-in-productie-te-draaien/"
+  },
+  {
+   "id": "3cb8fefd54f1",
+   "titel": "Spoelstra Spreekt: Vroege 1-aprilgrap",
+   "categorie": "Automatisering",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-21",
+   "samenvatting": "Je hebt weleens van die 1-aprilgrappen waarvan je denkt: wie trapt daar nou in? Nou, de mensen van het UWV dus. Er heeft weer iemand hun wijsgemaakt dat automatiseren bij de overheid een goed idee is. Gevolg: opnieuw wordt daar de stekker uit een groot ict-project getrokken.",
+   "url": "https://www.computable.nl/2026/10/21/spoelstra-spreekt-vroege-1-aprilgrap/"
+  },
+  {
+   "id": "322ec1626872",
+   "titel": "Connect coding agents to Fabric notebooks with FNTK (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-21",
+   "samenvatting": "The Fabric Notebook Toolkit (Preview) helps developers shorten the feedback loop between writing code and validating it with live notebook results. It connects coding agents to Microsoft Fabric notebooks through a command-line interface (CLI) that runs in the terminal alongside tools such as Clau...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Connect-coding-agents-to-Fabric-notebooks-with-FNTK-Preview/ba-p/5375986"
   },
   {
    "id": "109b7e583a2b",
@@ -1309,16 +1439,6 @@
    "datum": "2026-10-01",
    "samenvatting": "API contract testing helps you catch breaking changes before they disrupt your workflows. See how n8n validates API responses while your automations run.",
    "url": "https://blog.n8n.io/how-api-contract-testing-prevents-production-failures/"
-  },
-  {
-   "id": "d8725372cba4",
-   "titel": "Microsoft & Snowflake’s Commitment to Apache Ossie",
-   "categorie": "Data",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-09-30",
-   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. Advancing an open, interoperable semantic foundation for AI-pow...",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Snowflake-s-Commitment-to-Apache-Ossie/ba-p/5369534"
   },
   {
    "id": "c1d388349c38",
