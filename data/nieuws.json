@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-22T09:02:03+00:00",
+ "bijgewerkt": "2026-10-23T08:56:58+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -29,9 +29,9 @@
    "feed": "Microsoft Power Platform Blog (Power Automate)",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 4,
    "verouderd": 0,
-   "geweigerd": 0
+   "geweigerd": 1
   },
   {
    "feed": "Camunda Blog (procesautomatisering)",
@@ -45,7 +45,7 @@
    "feed": "n8n Blog (workflow-automatisering)",
    "status": "OK",
    "items": 15,
-   "bewaard": 13,
+   "bewaard": 14,
    "verouderd": 0,
    "geweigerd": 1
   },
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 6,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 4,
+   "bewaard": 6,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -74,12 +74,52 @@
    "feed": "NOS Tech",
    "status": "OK",
    "items": 20,
-   "bewaard": 6,
+   "bewaard": 5,
    "verouderd": 0,
-   "geweigerd": 0
+   "geweigerd": 1
   }
  ],
  "items": [
+  {
+   "id": "d73fce063f4e",
+   "titel": "Microsoft slaat alarm over ai-cyberaanvallen",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-23",
+   "samenvatting": "Agentic-ai-platforms maken cyberaanvallen sneller dan ooit: organisaties hebben soms maar drie uur om aanvallers tegen te houden die het op hun cloudomgeving hebben voorzien. Microsoft slaagt hierover alarm tegenover ciso's.",
+   "url": "https://www.computable.nl/2026/10/23/microsoft-slaat-alarm-over-ai-cyberaanvallen/"
+  },
+  {
+   "id": "c83134b84015",
+   "titel": "Your AI rollout could cost you the experts it was meant to help",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-10-23",
+   "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
+   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
+  },
+  {
+   "id": "9dbccb6444e4",
+   "titel": "Google Agent Compute Engine geeft elke AI-agent eigen microVM",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-23",
+   "samenvatting": "Google brengt Agent Compute Engine naar Google Cloud. De dienst geeft elke AI-agent een eigen microVM met hardware-isolatie, die net zo snel opstart als een container. In de sandbox staan geen credentials. Intern draaien Gemini, Antigravity en de trainingspipelines van Google al op het platform....",
+   "url": "https://www.techzine.nl/nieuws/security/583087/google-agent-compute-engine-geeft-elke-ai-agent-eigen-microvm/"
+  },
+  {
+   "id": "7f58d8041a22",
+   "titel": "Besi overtreft verwachtingen met sterke ordergroei dankzij ai-boom",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-23",
+   "samenvatting": "BE Semiconductor Industries (Besi) verwacht dat de vraag naar zijn chipmachines dit kwartaal verder aanzwelt, nu de uitbreiding van ai-capaciteit onverminderd doorgaat. Over het afgelopen kwartaal meldt de chipmachinefabrikant uit Duiven een sterke instroom van nieuwe orders.",
+   "url": "https://www.computable.nl/2026/10/23/besi-overtreft-verwachtingen-met-sterke-ordergroei-dankzij-ai-boom/"
+  },
   {
    "id": "5b70baa9d16f",
    "titel": "Your AI adoption numbers are hiding a $1.73 million problem",
@@ -101,14 +141,84 @@
    "url": "https://www.techzine.nl/nieuws/infrastructure/583047/red-hat-en-nvidia-leggen-agent-security-buiten-de-ai-agent/"
   },
   {
-   "id": "c83134b84015",
-   "titel": "Your AI rollout could cost you the experts it was meant to help",
+   "id": "c7f579d18857",
+   "titel": "Nvidia-CEO: schadelijke AI-releases moeten “gewoon stoppen”",
    "categorie": "AI",
-   "bron": "Camunda Blog (procesautomatisering)",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-22",
+   "samenvatting": "Het was de zomer waarin AI-agents op hol sloegen. Een verbazingwekkend aantal organisaties werd getroffen door agents die draaiden op AI-modellen die nog in de trainings- of testfase zaten bij de frontier labs. OpenAI alleen al bracht meer dan 100 organisaties op de hoogte bracht. Tijdens GTC Ber...",
+   "url": "https://www.techzine.nl/blogs/security/583066/nvidia-ceo-schadelijke-ai-releases-moeten-gewoon-stoppen/"
+  },
+  {
+   "id": "b543e29ff414",
+   "titel": "API Versioning Strategies for Stable Workflow Integrations",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
    "taal": "en",
    "datum": "2026-10-22",
-   "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
-   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
+   "samenvatting": "Compare API versioning strategies like URI, header, and date-based approaches, and learn how to handle a provider’s deprecation without breaking integration",
+   "url": "https://blog.n8n.io/api-versioning-strategies/"
+  },
+  {
+   "id": "6b73b24c331f",
+   "titel": "Atlassian gaat de strijd aan met ServiceNow voor ITSM-kroon",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-22",
+   "samenvatting": "De Service Collection brengt jaarlijks inmiddels meer dan 1 miljard dollar aan omzet in het laatje voor Atlassian. Het breidt daarnaast ook in rap tempo uit in de breedte, voorbij ITSM. Tijdens Atlassian Team ’26 Europe in Amsterdam spraken we met Shamik Sharma, hoofd productontwikkeling voor de...",
+   "url": "https://www.techzine.nl/blogs/applications/583075/atlassian-gaat-de-strijd-aan-met-servicenow-voor-itsm-kroon/"
+  },
+  {
+   "id": "6b5e54eaacbe",
+   "titel": "Create purpose-built custom visuals in Real-Time Dashboards with Copilot (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-22",
+   "samenvatting": "Real-Time Dashboards include built-in visuals for common monitoring and analysis scenarios. However, operational decisions do not always fit a standard chart. You may need to combine several signals, use a domain-specific layout, or present information differently for a particular workflow or aud...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Create-purpose-built-custom-visuals-in-Real-Time-Dashboards-with/ba-p/5376359"
+  },
+  {
+   "id": "675b778542bc",
+   "titel": "Waarom het Nederlandse bedrijfsleven cloudinfrastructuur met soevereiniteit nodig heeft",
+   "categorie": "Data",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-22",
+   "samenvatting": "Nederlandse organisaties behoren tot een van de meest digitaal geavanceerde economieën ter wereld. Van multinationals en financiële instellingen tot zorgorganisaties, maakbedrijven en scale-ups: vrijwel iedere sector is afhankelijk van cloudgebaseerde, datagedreven en AI-ondersteunde platformen.",
+   "url": "https://www.computable.nl/2026/10/22/waarom-het-nederlandse-bedrijfsleven-cloudinfrastructuur-met-soevereiniteit-nodig-heeft/"
+  },
+  {
+   "id": "6509535b7c1f",
+   "titel": "Self-Hosted LLM vs. Cloud APIs: How to Route Between Them",
+   "categorie": "AI",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-10-22",
+   "samenvatting": "A self-hosted LLM isn’t always cheaper than an API. Learn when on-prem wins, what your hardware can run, and how to route between local and cloud models.",
+   "url": "https://blog.n8n.io/self-hosted-llm/"
+  },
+  {
+   "id": "590f69e9fd8c",
+   "titel": "Hallucination Detection Methods for AI Agent Workflows",
+   "categorie": "AI",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-10-22",
+   "samenvatting": "AI agent hallucinations are hard to catch because they usually look like normal answers. An agent can invent a fact, misread retrieved context, or contradict itself without signaling that anything went wrong. Once that output triggers another workflow step, the mistake can quickly become a produc...",
+   "url": "https://blog.n8n.io/hallucination-detection-methods-for-ai-agent-workflows/"
+  },
+  {
+   "id": "5614a0ed38f9",
+   "titel": "Explore and process multiple event types with Schema-aware Fabric Eventstreams (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-22",
+   "samenvatting": "Real-time streams rarely contain just one kind of event. A building operations stream, for example, might carry thermostat readings, occupancy updates, air-quality measurements, and badge-reader activity through the same source. These events may share a payload format, but they don't describe the...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Explore-and-process-multiple-event-types-with-Schema-aware/ba-p/5376384"
   },
   {
    "id": "2efce5c874a7",
@@ -121,6 +231,16 @@
    "url": "https://www.techzine.nl/nieuws/devops/583055/atlassian-ai-versnelt-coderen-maar-frictie-blijft-hardnekkig/"
   },
   {
+   "id": "18d8269b5643",
+   "titel": "1Password laat AI-agents inloggen zonder wachtwoord",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-22",
+   "samenvatting": "AI-agents hoeven geen wachtwoord in te vullen om bij persoonlijke accounts te komen dankzij het nieuwe 1Password for Agents. Onder meer agents van OpenAI, Anthropic, Meta en SpaceXSI zijn vanaf nu in staat om de accounts te bereiken op deze manier. Door deze methode is het minder waarschijnlijk d...",
+   "url": "https://www.techzine.nl/nieuws/security/583071/1password-laat-ai-agents-inloggen-zonder-wachtwoord/"
+  },
+  {
    "id": "03954bbd5855",
    "titel": "Install DAX libraries into Power BI Desktop by asking your AI assistant",
    "categorie": "BI",
@@ -129,6 +249,16 @@
    "datum": "2026-10-22",
    "samenvatting": "At the end of 2025, we launched DAX Lib, a public repository of DAX user-defined functions. So far, importing a DAX library has required a few manual steps, like clicking Add to Power BI on daxlib.org and then copying and…",
    "url": "https://www.sqlbi.com/blog/marco/2026/10/22/install-dax-libraries-into-power-bi-desktop-by-asking-your-ai-assistant/"
+  },
+  {
+   "id": "013763e69663",
+   "titel": "Stateful vs. Stateless: Managing Context in AI Agent Builds",
+   "categorie": "AI",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-10-22",
+   "samenvatting": "Stateful versus stateless design changes how systems scale and remember context. Learn when to use memory nodes, state stores, or both.",
+   "url": "https://blog.n8n.io/stateful-vs-stateless/"
   },
   {
    "id": "f61b8e821bc3",
