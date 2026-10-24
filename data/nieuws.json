@@ -1,12 +1,12 @@
 {
- "bijgewerkt": "2026-10-23T08:56:58+00:00",
+ "bijgewerkt": "2026-10-24T08:30:37+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
    "status": "OK",
    "items": 20,
-   "bewaard": 12,
-   "verouderd": 8,
+   "bewaard": 10,
+   "verouderd": 10,
    "geweigerd": 0
   },
   {
@@ -38,22 +38,22 @@
    "status": "OK",
    "items": 50,
    "bewaard": 13,
-   "verouderd": 7,
+   "verouderd": 6,
    "geweigerd": 3
   },
   {
    "feed": "n8n Blog (workflow-automatisering)",
    "status": "OK",
    "items": 15,
-   "bewaard": 14,
+   "bewaard": 15,
    "verouderd": 0,
-   "geweigerd": 1
+   "geweigerd": 0
   },
   {
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 2,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -81,6 +81,26 @@
  ],
  "items": [
   {
+   "id": "c83134b84015",
+   "titel": "Your AI rollout could cost you the experts it was meant to help",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-10-24",
+   "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
+   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
+  },
+  {
+   "id": "f38ea1008006",
+   "titel": "AI-mandaten werken niet: verander de cultuur van onderaf",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-23",
+   "samenvatting": "99 procent van alle niet-technische medewerkers van Atlassian gebruikt AI wekelijks. Dit vindt plaats zonder dat het bedrijf het verplicht stelt om AI te gebruiken. Tijdens Atlassian Team ’26 Europe in Amsterdam spraken we met Alicia Lenart, VP HR bij Atlassian, over de strategieën, mislukkingen...",
+   "url": "https://www.techzine.nl/blogs/analytics/583100/ai-mandaten-werken-niet-verander-de-cultuur-van-onderaf/"
+  },
+  {
    "id": "d73fce063f4e",
    "titel": "Microsoft slaat alarm over ai-cyberaanvallen",
    "categorie": "AI",
@@ -91,16 +111,6 @@
    "url": "https://www.computable.nl/2026/10/23/microsoft-slaat-alarm-over-ai-cyberaanvallen/"
   },
   {
-   "id": "c83134b84015",
-   "titel": "Your AI rollout could cost you the experts it was meant to help",
-   "categorie": "AI",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-10-23",
-   "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
-   "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
-  },
-  {
    "id": "9dbccb6444e4",
    "titel": "Google Agent Compute Engine geeft elke AI-agent eigen microVM",
    "categorie": "AI",
@@ -109,6 +119,16 @@
    "datum": "2026-10-23",
    "samenvatting": "Google brengt Agent Compute Engine naar Google Cloud. De dienst geeft elke AI-agent een eigen microVM met hardware-isolatie, die net zo snel opstart als een container. In de sandbox staan geen credentials. Intern draaien Gemini, Antigravity en de trainingspipelines van Google al op het platform....",
    "url": "https://www.techzine.nl/nieuws/security/583087/google-agent-compute-engine-geeft-elke-ai-agent-eigen-microvm/"
+  },
+  {
+   "id": "88761581105c",
+   "titel": "Anthropic wil Europees adviesbureau starten",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-23",
+   "samenvatting": "Het bureau zal bedrijven adviseren over de inzet van AI. Anthropic wordt bij de opzet van het adviesbureau gesteund door de Britse overnamegroep Hg. Beide partijen streven ernaar om binnen een periode van vijf jaar een onderneming op te bouwen met een waarde van meer dan 10 miljard dollar. Het is...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583106/anthropic-wil-europees-adviesbureau-starten/"
   },
   {
    "id": "7f58d8041a22",
@@ -129,6 +149,36 @@
    "datum": "2026-10-23",
    "samenvatting": "Most banking leaders say AI is lifting productivity. Fewer employees agree, and 49% have overridden AI outputs because the process was not set up correctly. Redesigning the process comes before adding another agent.",
    "url": "https://camunda.com/blog/2026/10/great-process-reengineering-bfs/"
+  },
+  {
+   "id": "467e9f55ec03",
+   "titel": "JetBrains brengt Air Governance uit voor AI-beheer",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-23",
+   "samenvatting": "JetBrains maakt Air Governance algemeen beschikbaar. Dit is het nieuwe beheerplatform waarmee organisaties AI-agents, modellen en providers vanuit één console aansturen. Beheerders kunnen budgetten afdwingen, de kosten per agent volgen en meten hoeveel code door AI is geschreven. Dat werkt ook me...",
+   "url": "https://www.techzine.nl/nieuws/devops/583091/jetbrains-brengt-air-governance-uit-voor-ai-beheer/"
+  },
+  {
+   "id": "33489ef6298c",
+   "titel": "AI Agent Memory: How LLM Agents Manage State in Production",
+   "categorie": "AI",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-10-23",
+   "samenvatting": "Learn how AI agent memory works, explore short-term and long-term memory architectures, and discover how to combine n8n and Cognee to build AI workflows that retain context, share knowledge, and learn across sessions.",
+   "url": "https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/"
+  },
+  {
+   "id": "086290719a2b",
+   "titel": "Agentic AI Foundation breidt uit met vier open-source projecten",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-23",
+   "samenvatting": "De Agentic AI Foundation (AAIF) omarmt vier opensourceprojecten van OpenAI, Anthropic, Hugging Face en Alibaba. De nieuwe projecten hebben als doel het ontwikkelen, integreren en uitrollen van AI-agents tussen verschillende platforms eenvoudiger te maken. Dit meldt SiliconANGLE. De Linux Foundati...",
+   "url": "https://www.techzine.nl/nieuws/applications/583102/agentic-ai-foundation-breidt-uit-met-vier-open-source-projecten/"
   },
   {
    "id": "ce9235f96bbe",
@@ -2109,26 +2159,6 @@
    "datum": "2026-08-25",
    "samenvatting": "Learn how the transition from release waves to the AI at Work roadmap creates a single destination to discover, track, and plan your innovations. The post One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap appeared first on Microsoft Power Platform Blog.",
    "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/08/25/one-always-on-roadmap-dynamics-365-power-platform-and-dataverse-join-the-ai-at-work-roadmap/"
-  },
-  {
-   "id": "3ae2401ecdf1",
-   "titel": "Direct Lake Calculated Columns (Preview)",
-   "categorie": "BI",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-08-24",
-   "samenvatting": "Calculated columns are now available in preview for Direct Lake on OneLake semantic models. This has been one of the most requested capabilities since Direct Lake launched and closes a long-standing gap with Import and DirectQuery storage modes. You can define calculated columns directly in your...",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Direct-Lake-Calculated-Columns-Preview/ba-p/5357159"
-  },
-  {
-   "id": "2d6f7aada9be",
-   "titel": "Upgrade Power BI Dataflows Gen1 to Fabric Dataflows Gen2 with the Upgrade Wizard (Preview)",
-   "categorie": "BI",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-08-24",
-   "samenvatting": "Upgrading Power BI Dataflows Gen1 is now easier with the Dataflows Upgrade Wizard. Now in preview for eligible workspaces assigned to Fabric capacity, the wizard provides a guided experience to upgrade Power BI Dataflows Gen1 items to Fabric Dataflows Gen2 (CI/CD). The wizard preserves key proper...",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Upgrade-Power-BI-Dataflows-Gen1-to-Fabric-Dataflows-Gen2-with/ba-p/5360422"
   }
  ]
 }
