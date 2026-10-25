@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-24T08:30:37+00:00",
+ "bijgewerkt": "2026-10-25T08:49:31+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 13,
-   "verouderd": 6,
+   "bewaard": 12,
+   "verouderd": 7,
    "geweigerd": 3
   },
   {
@@ -86,7 +86,7 @@
    "categorie": "AI",
    "bron": "Camunda Blog (procesautomatisering)",
    "taal": "en",
-   "datum": "2026-10-24",
+   "datum": "2026-10-26",
    "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
    "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
   },
@@ -2139,26 +2139,6 @@
    "datum": "2026-08-26",
    "samenvatting": "A first-hand account of building a real Camunda 8 process with the official AI Skills, and exactly which skill fixed which problem, from gateway conditions to agent tool wiring.",
    "url": "https://camunda.com/blog/2026/08/from-weeks-to-days-what-camundas-ai-skills-actually-saved-me/"
-  },
-  {
-   "id": "b180805b2f0a",
-   "titel": "The Orchestrators: Inside the Build with Lana-Sophie Stawowski",
-   "categorie": "Automatisering",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-08-25",
-   "samenvatting": "Every Camundi has a before and an after with AI. Discover how Lana-Sophie Stawowski uses AI-first ways of working to rethink strategic execution.",
-   "url": "https://camunda.com/blog/2026/08/the-orchestrators-inside-the-build-with-lana-sophie-stawowski/"
-  },
-  {
-   "id": "9ca3bdc87ccf",
-   "titel": "One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap",
-   "categorie": "AI",
-   "bron": "Microsoft Power Platform Blog (Power Automate)",
-   "taal": "en",
-   "datum": "2026-08-25",
-   "samenvatting": "Learn how the transition from release waves to the AI at Work roadmap creates a single destination to discover, track, and plan your innovations. The post One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap appeared first on Microsoft Power Platform Blog.",
-   "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/08/25/one-always-on-roadmap-dynamics-365-power-platform-and-dataverse-join-the-ai-at-work-roadmap/"
   }
  ]
 }
