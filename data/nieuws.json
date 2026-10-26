@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-25T08:49:31+00:00",
+ "bijgewerkt": "2026-10-26T09:30:23+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -29,7 +29,7 @@
    "feed": "Microsoft Power Platform Blog (Power Automate)",
    "status": "OK",
    "items": 10,
-   "bewaard": 4,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 1
   },
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 12,
-   "verouderd": 7,
+   "bewaard": 11,
+   "verouderd": 8,
    "geweigerd": 3
   },
   {
@@ -81,6 +81,16 @@
  ],
  "items": [
   {
+   "id": "e0e3b59f6eed",
+   "titel": "OpenAI traint modellen niet langer op live internet",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-26",
+   "samenvatting": "OpenAI heeft eigen trainingsomgevingen laten aanvallen. De agents ontdekten onbekende kwetsbaarheden, ontsnapten uit microVM’s en communiceerden met elkaar via de processorcache. Frontier-modellen trainen voortaan als gevolg daarvan zonder toegang tot het live internet, vanwege significante risic...",
+   "url": "https://www.techzine.nl/nieuws/security/583124/openai-traint-modellen-niet-langer-op-live-internet/"
+  },
+  {
    "id": "c83134b84015",
    "titel": "Your AI rollout could cost you the experts it was meant to help",
    "categorie": "AI",
@@ -91,6 +101,16 @@
    "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
   },
   {
+   "id": "fd4462bf875e",
+   "titel": "Goedkoper en meer controle: bedrijven kijken met interesse naar Chinese AI",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-10-25",
+   "samenvatting": "Wat als je AI goedkoper kunt gebruiken én je de controle houdt over de informatie die je deelt? Bedrijven en organisaties die werken met AI-technologie kijken daarvoor met veel interesse naar open AI-modellen, die vooral door Chinese bedrijven worden gemaakt. Terwijl de grote Amerikaanse AI-bedri...",
+   "url": "https://nos.nl/l/2636658"
+  },
+  {
    "id": "f38ea1008006",
    "titel": "AI-mandaten werken niet: verander de cultuur van onderaf",
    "categorie": "AI",
@@ -99,6 +119,16 @@
    "datum": "2026-10-23",
    "samenvatting": "99 procent van alle niet-technische medewerkers van Atlassian gebruikt AI wekelijks. Dit vindt plaats zonder dat het bedrijf het verplicht stelt om AI te gebruiken. Tijdens Atlassian Team ’26 Europe in Amsterdam spraken we met Alicia Lenart, VP HR bij Atlassian, over de strategieën, mislukkingen...",
    "url": "https://www.techzine.nl/blogs/analytics/583100/ai-mandaten-werken-niet-verander-de-cultuur-van-onderaf/"
+  },
+  {
+   "id": "dc73e83648a4",
+   "titel": "AI that understands your business: Dataverse and Work IQ at PPCC 2026",
+   "categorie": "AI",
+   "bron": "Microsoft Power Platform Blog (Power Automate)",
+   "taal": "en",
+   "datum": "2026-10-23",
+   "samenvatting": "With business applications in Work IQ, now in public preview, Copilot and agents understand your business too. The post AI that understands your business: Dataverse and Work IQ at PPCC 2026 appeared first on Microsoft Power Platform Blog.",
+   "url": "https://www.microsoft.com/en-us/power-platform/blog/2026/10/23/dataverse-and-workiq-ppcc-2026/"
   },
   {
    "id": "d73fce063f4e",
@@ -2129,16 +2159,6 @@
    "datum": "2026-08-27",
    "samenvatting": "Testing an AI agent means testing the process around it, which is deterministic and free, the model's behavior, which is neither, and whether it stays consistent over time.",
    "url": "https://camunda.com/blog/2026/08/how-to-test-an-ai-agent-that-never-does-the-same-thing-twice/"
-  },
-  {
-   "id": "7f2ccff12beb",
-   "titel": "From Weeks to Days: What Camunda's AI Skills Actually Saved Me",
-   "categorie": "AI",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-08-26",
-   "samenvatting": "A first-hand account of building a real Camunda 8 process with the official AI Skills, and exactly which skill fixed which problem, from gateway conditions to agent tool wiring.",
-   "url": "https://camunda.com/blog/2026/08/from-weeks-to-days-what-camundas-ai-skills-actually-saved-me/"
   }
  ]
 }
