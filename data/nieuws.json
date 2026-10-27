@@ -1,19 +1,19 @@
 {
- "bijgewerkt": "2026-10-26T09:30:23+00:00",
+ "bijgewerkt": "2026-10-27T09:27:21+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
    "status": "OK",
    "items": 20,
-   "bewaard": 10,
-   "verouderd": 10,
+   "bewaard": 9,
+   "verouderd": 11,
    "geweigerd": 0
   },
   {
    "feed": "Microsoft Fabric Blog",
    "status": "OK",
    "items": 20,
-   "bewaard": 18,
+   "bewaard": 19,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 2,
+   "bewaard": 3,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 6,
+   "bewaard": 7,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -81,6 +81,66 @@
  ],
  "items": [
   {
+   "id": "e99ace18e28a",
+   "titel": "Keeping Camunda Safe in the Era of Agentic Vulnerability Discovery",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-10-27",
+   "samenvatting": "How Camunda cuts scanner noise at the source, finds vulnerabilities before outsiders do, and shows which findings matter.",
+   "url": "https://camunda.com/blog/2026/10/keeping-camunda-safe-in-the-era-of-agentic-vulnerability-discovery/"
+  },
+  {
+   "id": "dbad56b8376d",
+   "titel": "Grote SAP Joule-update maakt agents klaar voor complexe processen",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-27",
+   "samenvatting": "SAP kondigt op TechEd een reeks AI-vernieuwingen voor ontwikkelaars aan. Joule Work krijgt een orchestratielaag voor agents, een nieuwe Enterprise AI Gateway centraliseert de governance en het tabulaire model SAP-RPT draait straks zelfs aan boord van het ISS. Dit om AI-agents effectiever in te ze...",
+   "url": "https://www.techzine.nl/blogs/applications/583178/grote-sap-joule-update-maakt-agents-klaar-voor-complexe-processen/"
+  },
+  {
+   "id": "dab87fc966ae",
+   "titel": "IBM zet HashiCorp Vault in voor identiteit AI-agents",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-27",
+   "samenvatting": "IBM breidt HashiCorp Vault uit naar AI-agents. Op zijn TechXchange 2026-conferentie introduceert het bedrijf ook Agent Identity en nieuwe functies in watsonx Orchestrate om agents te ontdekken, te isoleren en te evalueren. Elke agent krijgt zo een eigenaar, een geverifieerde identiteit en credent...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583180/ibm-zet-hashicorp-vault-in-voor-identiteit-ai-agents/"
+  },
+  {
+   "id": "a56163fb20a2",
+   "titel": "Anthropic waarschuwt voor ai-misbruik in beursprospectus",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-27",
+   "samenvatting": "In de aanloop naar de beursgang, de eerste van een groot ai-bedrijf, heeft Anthropic maandag zijn aanvraag voor een beursnotering ingediend. In de prospectus waarschuwt het bedrijf dat er met ai een hoop mis kan gaan.",
+   "url": "https://www.computable.nl/2026/10/27/anthropic-waarschuwt-voor-ai-misbruik-in-beursprospectus/"
+  },
+  {
+   "id": "9f6274f5fe61",
+   "titel": "Fortinet breidt FortiGate uit met AI-security",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-27",
+   "samenvatting": "Fortinet introduceert de FortiGuard Inline AI Security Service. Deze service stelt organisaties in staat om AI-interacties te controleren via de al aanwezige FortiGate-firewalls. De Inline AI Security Service wordt als cloud-dienst aangeboden en is bedoeld om AI-specifieke bedreigingen te detecte...",
+   "url": "https://www.techzine.nl/nieuws/security/583187/fortinet-breidt-fortigate-uit-met-ai-security/"
+  },
+  {
+   "id": "ff437b403488",
+   "titel": "Data Visualization in the Agentic Era",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-26",
+   "samenvatting": "Data visualizations help people identify patterns, trends, and outliers in their data. However, creating a useful visual requires several decisions: which chart and data to use, how to map the data to visual properties such as color and position, and how the finished visual should look. AI-assist...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Data-Visualization-in-the-Agentic-Era/ba-p/5376290"
+  },
+  {
    "id": "e0e3b59f6eed",
    "titel": "OpenAI traint modellen niet langer op live internet",
    "categorie": "AI",
@@ -91,6 +151,26 @@
    "url": "https://www.techzine.nl/nieuws/security/583124/openai-traint-modellen-niet-langer-op-live-internet/"
   },
   {
+   "id": "d8725372cba4",
+   "titel": "Microsoft & Snowflake’s Commitment to Apache Ossie",
+   "categorie": "Data",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-10-26",
+   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. Advancing an open, interoperable semantic foundation for AI-pow...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Snowflake-s-Commitment-to-Apache-Ossie/ba-p/5369534"
+  },
+  {
+   "id": "ca76a04971dd",
+   "titel": "Kort: ’15 procent NL-organisaties getroffen door PHP-aanval’, Gartner deelt 5 ai-trends voor 2027 (en meer)",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-26",
+   "samenvatting": "In dit nieuwsoverzicht: Nederlandse organisaties bovengemiddeld vaak getroffen door php-aanvallen, Gartner waarschuwt voor fors hogere ai-kosten e, Oracle paait partners met 1 miljard dollar, Previder breidt uit naar het VK, en Atos en Fortinet zetten streep door landen-aanpak.",
+   "url": "https://www.computable.nl/2026/10/26/kort-15-procent-nl-organisaties-getroffen-door-php-aanval-gartner-deelt-5-ai-trends-voor-2027-en-meer/"
+  },
+  {
    "id": "c83134b84015",
    "titel": "Your AI rollout could cost you the experts it was meant to help",
    "categorie": "AI",
@@ -99,6 +179,76 @@
    "datum": "2026-10-26",
    "samenvatting": "Insurers already run AI in pilots. Few have it changing how claims and underwriting get done. What separates the two is whether AI agents work inside a process redesigned for them, before their best people leave.",
    "url": "https://camunda.com/blog/2026/10/great-process-reengineering-insurance/"
+  },
+  {
+   "id": "adea183a9d9e",
+   "titel": "Announcing workspace monitoring integration for Fabric Data Warehouse (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-26",
+   "samenvatting": "With Microsoft Fabric Data Warehouse integration with workspace monitoring (Preview), you can analyze completed warehouse query activity across an entire workspace from the monitoring Eventhouse and KQL database, helping you find failed or slow queries and quickly identify the warehouse that need...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Announcing-workspace-monitoring-integration-for-Fabric-Data/ba-p/5376599"
+  },
+  {
+   "id": "a8626e0b870f",
+   "titel": "NetSuite ook headless: SuiteSkills geven Claude en ChatGPT ERP-kennis",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-26",
+   "samenvatting": "Met SuiteSkills doet Oracle NetSuite iets wat weinig ERP-leveranciers doen: het stelt zijn eigen proceskennis beschikbaar voor verschillende AI-modellen. Ruim 45 skills voor finance, voorraad, projecten en HR draaien niet alleen in Ask Oracle, maar ook in Claude en ChatGPT. Daarmee maakt NetSuite...",
+   "url": "https://www.techzine.nl/blogs/applications/583121/netsuite-ook-headless-suiteskills-geven-claude-en-chatgpt-erp-kennis/"
+  },
+  {
+   "id": "989779288fdc",
+   "titel": "Kabinet rekent op ai voor forse bezuiniging op personeel",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-26",
+   "samenvatting": "Technologie moet de overheid slagvaardiger maken. It en digitalisering spelen een belangrijke rol bij de sanering van de rijksoverheid die het kabinet maandagochtend aankondigde. Dit blijkt uit de Voortgangsbrief Slagvaardige Overheid van staatssecretaris Eric van den Burg (BZK).",
+   "url": "https://www.computable.nl/2026/10/26/kabinet-rekent-op-ai-voor-forse-bezuiniging-op-personeel/"
+  },
+  {
+   "id": "926216512a94",
+   "titel": "Cisco Model Foundry wil prestaties van AI koppelen aan vertrouwen",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-26",
+   "samenvatting": "Cisco kondigt vandaag tijdens Partner Summit aan dat het de eigen modellen beschikbaar gaat stellen via Model Foundry. Met andere woorden, domein-specifieke AI-modellen die het zelf ontwikkelt zijn nu centraal beschikbaar. Dat lijkt wellicht niet zo’n grote stap, maar is dat wel degelijk. We legg...",
+   "url": "https://www.techzine.nl/blogs/analytics/583163/cisco-stelt-eigen-ai-modellen-breed-beschikbaar-via-model-foundry/"
+  },
+  {
+   "id": "823aac33e0c5",
+   "titel": "Oracle wordt een ‘system of outcomes’ voor agents",
+   "categorie": "Data",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-26",
+   "samenvatting": "De agents binnen het Oracle-domein moeten leiden tot een ‘system of outcomes’ bovenop een system of record. Tijdens AI World 2026 spreekt de IT-speler van agentic acties die op een hoger niveau dan voorheen te plannen en orkestreren zijn. Het resultaat is een beheerlaag die de database centraal h...",
+   "url": "https://www.techzine.nl/blogs/applications/583158/oracle-wordt-een-system-of-outcomes-voor-agents/"
+  },
+  {
+   "id": "434ecb77b218",
+   "titel": "CodeRabbit voert gratis scans uit en voegt zich bij OpenAI-initiatief",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-26",
+   "samenvatting": "CodeRabbit gaat maximaal 5000 dollar aan securityscans per organisatie gratis uitvoeren, voor een totaalwaarde van 1 miljoen dollar. Daarnaast voegt de code review-speler zich bij het Daybreak Defense Network van OpenAI. Deep Scan zet LLM’s in zoals onder meer OpenAI GPT-6.1 Sol. Het neemt daarbi...",
+   "url": "https://www.techzine.nl/nieuws/security/583155/coderabbit-voert-gratis-scans-uit-en-voegt-zich-bij-openai-initiatief/"
+  },
+  {
+   "id": "322ec1626872",
+   "titel": "Connect coding agents to Fabric notebooks with FNTK (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-26",
+   "samenvatting": "The Fabric Notebook Toolkit (Preview) helps developers shorten the feedback loop between writing code and validating it with live notebook results. It connects coding agents to Microsoft Fabric notebooks through a command-line interface (CLI) that runs in the terminal alongside tools such as Clau...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Connect-coding-agents-to-Fabric-notebooks-with-FNTK-Preview/ba-p/5375986"
   },
   {
    "id": "fd4462bf875e",
@@ -287,7 +437,7 @@
    "bron": "n8n Blog (workflow-automatisering)",
    "taal": "en",
    "datum": "2026-10-22",
-   "samenvatting": "AI agent hallucinations are hard to catch because they usually look like normal answers. An agent can invent a fact, misread retrieved context, or contradict itself without signaling that anything went wrong. Once that output triggers another workflow step, the mistake can quickly become a produc...",
+   "samenvatting": "Learn practical hallucination detection methods for AI workflows. See how your team can identify unreliable outputs before they spread.",
    "url": "https://blog.n8n.io/hallucination-detection-methods-for-ai-agent-workflows/"
   },
   {
@@ -369,16 +519,6 @@
    "datum": "2026-10-21",
    "samenvatting": "Migrating an enterprise Teradata estate to Microsoft Fabric can require extensive manual work across database objects, SQL and BTEQ code, dependencies, and operational processes. Fabric Migration Assistant helps reduce that effort so teams can focus their review on the objects and workflows that...",
    "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-Teradata-migrations-with-Fabric-Migration-Assistant/ba-p/5376058"
-  },
-  {
-   "id": "d8725372cba4",
-   "titel": "Microsoft & Snowflake’s Commitment to Apache Ossie",
-   "categorie": "Data",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-10-21",
-   "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. Advancing an open, interoperable semantic foundation for AI-pow...",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Snowflake-s-Commitment-to-Apache-Ossie/ba-p/5369534"
   },
   {
    "id": "b9940ac12159",
@@ -479,16 +619,6 @@
    "datum": "2026-10-21",
    "samenvatting": "Je hebt weleens van die 1-aprilgrappen waarvan je denkt: wie trapt daar nou in? Nou, de mensen van het UWV dus. Er heeft weer iemand hun wijsgemaakt dat automatiseren bij de overheid een goed idee is. Gevolg: opnieuw wordt daar de stekker uit een groot ict-project getrokken.",
    "url": "https://www.computable.nl/2026/10/21/spoelstra-spreekt-vroege-1-aprilgrap/"
-  },
-  {
-   "id": "322ec1626872",
-   "titel": "Connect coding agents to Fabric notebooks with FNTK (Preview)",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-10-21",
-   "samenvatting": "The Fabric Notebook Toolkit (Preview) helps developers shorten the feedback loop between writing code and validating it with live notebook results. It connects coding agents to Microsoft Fabric notebooks through a command-line interface (CLI) that runs in the terminal alongside tools such as Clau...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Connect-coding-agents-to-Fabric-notebooks-with-FNTK-Preview/ba-p/5375986"
   },
   {
    "id": "109b7e583a2b",
@@ -599,6 +729,16 @@
    "datum": "2026-10-19",
    "samenvatting": "Your agent handled several hundred cases, then the model changed and the prompt was edited twice. Can you tell whether it got better or worse?",
    "url": "https://camunda.com/blog/2026/10/is-your-ai-agent-still-working-track-drift-token-spend-and-the-impact-of-every-change-across-ai-/"
+  },
+  {
+   "id": "4521c111c207",
+   "titel": "Fabric Data Warehouse integration with Fabric User Data Functions (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-19",
+   "samenvatting": "Microsoft Fabric Data Warehouse now integrates with Fabric User Data Functions in preview, so you can extend T-SQL with custom Python logic without building separate applications or pipelines. Use the integration to send email or Teams messages, retrieve parameters and secrets from Fabric variabl...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Warehouse-integration-with-Fabric-User-Data/ba-p/5375137"
   },
   {
    "id": "3fe5e9bd521e",
@@ -2149,16 +2289,6 @@
    "datum": "2026-09-02",
    "samenvatting": "Microsoft has refreshed its Power BI sample reports with modern visual defaults, stronger semantic models, mobile-optimized layouts, and newer authoring features to help creators build clearer, more effective reports.",
    "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-sample-reports-refreshed-with-modern-visual-defaults/ba-p/5363807"
-  },
-  {
-   "id": "dd2a5a35c881",
-   "titel": "How to Test an AI Agent That Never Does the Same Thing Twice",
-   "categorie": "AI",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-08-27",
-   "samenvatting": "Testing an AI agent means testing the process around it, which is deterministic and free, the model's behavior, which is neither, and whether it stays consistent over time.",
-   "url": "https://camunda.com/blog/2026/08/how-to-test-an-ai-agent-that-never-does-the-same-thing-twice/"
   }
  ]
 }
