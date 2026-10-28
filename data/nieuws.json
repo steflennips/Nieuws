@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-27T09:27:21+00:00",
+ "bijgewerkt": "2026-10-28T10:09:51+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -13,7 +13,7 @@
    "feed": "Microsoft Fabric Blog",
    "status": "OK",
    "items": 20,
-   "bewaard": 19,
+   "bewaard": 20,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -21,8 +21,8 @@
    "feed": "SQLBI",
    "status": "OK",
    "items": 30,
-   "bewaard": 2,
-   "verouderd": 24,
+   "bewaard": 3,
+   "verouderd": 23,
    "geweigerd": 0
   },
   {
@@ -38,7 +38,7 @@
    "status": "OK",
    "items": 50,
    "bewaard": 11,
-   "verouderd": 8,
+   "verouderd": 7,
    "geweigerd": 3
   },
   {
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 7,
+   "bewaard": 6,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -74,12 +74,62 @@
    "feed": "NOS Tech",
    "status": "OK",
    "items": 20,
-   "bewaard": 5,
+   "bewaard": 6,
    "verouderd": 0,
    "geweigerd": 1
   }
  ],
  "items": [
+  {
+   "id": "e95b75f1c6c9",
+   "titel": "Akamai lanceert AI Inference Service en Agent Sandbox",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-28",
+   "samenvatting": "Akamai brengt twee nieuwe diensten naar Akamai Cloud: Akamai Inference voor managed model serving en Akamai Agent Sandbox voor de geïsoleerde uitvoering van code die AI-agents zelf schrijven. Met de twee nieuwe diensten wil Akamai bedrijven één platform bieden voor het bouwen, draaien en beveilig...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583270/akamai-lanceert-ai-inference-service-en-agent-sandbox/"
+  },
+  {
+   "id": "726df706cd04",
+   "titel": "Dell breidt cyberresilience uit naar AI, identiteit en quantum",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-28",
+   "samenvatting": "Dell Technologies breidt zijn cyberresilience-portfolio uit met nieuwe diensten voor AI-omgevingen, herstel van identiteitsplatforms en quantum-safe encryptie in PowerStore. Dell richt zich met de aankondiging op de drie domeinen waar aanvallers volgens het bedrijf steeds vaker toeslaan. De kern...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583260/dell-breidt-cyberresilience-uit-naar-ai-identiteit-en-quantum/"
+  },
+  {
+   "id": "331f7028edb8",
+   "titel": "CIO’s vetrouwen veiligheid AI-agents, maar inzicht is gebrekkig",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-28",
+   "samenvatting": "Driekwart van de Nederlandse CIO’s vertrouwt erop dat hun AI-agents veilig en volgens de regels werken. Toch weet maar 38 procent precies hoe data door de organisatie stroomt. Ook heeft maar een kwart volledig zicht op de software supply chain. Dat blijkt uit onderzoek van Red Hat onder 1.400 CIO...",
+   "url": "https://www.techzine.nl/nieuws/security/583273/cios-vetrouwen-veiligheid-ai-agents-maar-inzicht-is-gebrekkig/"
+  },
+  {
+   "id": "00c0238adee1",
+   "titel": "Pinecone brengt eigen vector-zoektechnologie naar PostgreSQL",
+   "categorie": "Data",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-28",
+   "samenvatting": "Pinecone presenteert onder de naam pg_pinecone een opensource-uitbreiding voor PostgreSQL. Hiermee kunnen ontwikkelaars vectorzoekopdrachten uitvoeren zonder dat ze een afzonderlijke vectordatabase moeten gebruiken. Pg_pinecone zorgt met name bij AI-toepassingen voor snellere zoekopdrachten en ee...",
+   "url": "https://www.techzine.nl/nieuws/applications/583262/pinecone-brengt-eigen-vector-zoektechnologie-naar-postgresql/"
+  },
+  {
+   "id": "fd89746d08ff",
+   "titel": "AI maakt wereldwijde standaard voor 6G complexer",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-27",
+   "samenvatting": "Artificial intelligence zorgt voor nieuwe uitdagingen bij de ontwikkeling van internationale standaarden voor 6G. Terwijl de telecomindustrie streeft naar één wereldwijde standaard, zorgt de integratie van AI in mobiele netwerken voor vragen over interoperabiliteit, netwerkarchitectuur en operati...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583232/ai-maakt-wereldwijde-standaard-voor-6g-complexer/"
+  },
   {
    "id": "e99ace18e28a",
    "titel": "Keeping Camunda Safe in the Era of Agentic Vulnerability Discovery",
@@ -89,6 +139,16 @@
    "datum": "2026-10-27",
    "samenvatting": "How Camunda cuts scanner noise at the source, finds vulnerabilities before outsiders do, and shows which findings matter.",
    "url": "https://camunda.com/blog/2026/10/keeping-camunda-safe-in-the-era-of-agentic-vulnerability-discovery/"
+  },
+  {
+   "id": "e000e5cddc90",
+   "titel": "Build clearer, more expressive Real-Time Dashboards with new design and KPI capabilities (Generally Available)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-27",
+   "samenvatting": "The new, generally available authoring capabilities in Microsoft Fabric Real-Time Dashboards help authors create dashboards that are easier to scan and act on. Design Tiles add structure and context, multi-KPI groups related measures from one query, and KPI styling makes status, scale, and target...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-clearer-more-expressive-Real-Time-Dashboards-with-new/ba-p/5377578"
   },
   {
    "id": "dbad56b8376d",
@@ -129,6 +189,66 @@
    "datum": "2026-10-27",
    "samenvatting": "Fortinet introduceert de FortiGuard Inline AI Security Service. Deze service stelt organisaties in staat om AI-interacties te controleren via de al aanwezige FortiGate-firewalls. De Inline AI Security Service wordt als cloud-dienst aangeboden en is bedoeld om AI-specifieke bedreigingen te detecte...",
    "url": "https://www.techzine.nl/nieuws/security/583187/fortinet-breidt-fortigate-uit-met-ai-security/"
+  },
+  {
+   "id": "8327271e7de6",
+   "titel": "Schneider Electric deelt ontwerp prefab ai-fabriek",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-27",
+   "samenvatting": "Schneider Electric heeft een nieuw referentieontwerp onthuld voor modulaire prefab ai-fabrieken. Dat ontwerp met de naam RapidScale Modular Data Center Reference Design biedt een blauwdruk voor de huisvesting en technische installaties voor de ai -infrastructuur rond het Nvidia Vera Rubin-platform.",
+   "url": "https://www.computable.nl/2026/10/27/schneider-electric-deelt-ontwerp-prefab-ai-fabriek/"
+  },
+  {
+   "id": "748d7dc52a4c",
+   "titel": "DAX LLM Benchmark v2",
+   "categorie": "BI",
+   "bron": "SQLBI",
+   "taal": "en",
+   "datum": "2026-10-27",
+   "samenvatting": "The DAX LLM Benchmark v2 shows that the latest frontier models write DAX very well, and that the model generation matters more than the vendor. This post describes how we built the benchmark, how we read its results, and what…",
+   "url": "https://www.sqlbi.com/blog/marco/2026/10/27/dax-llm-benchmark-v2/"
+  },
+  {
+   "id": "66a7aef1c16e",
+   "titel": "Introducing n8n 3.0",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-10-27",
+   "samenvatting": "n8n 3.0 beta is out, focused on reliability, stability and security. Here’s what’s changing and how to get ready.",
+   "url": "https://blog.n8n.io/introducing-n8n-v3/"
+  },
+  {
+   "id": "5b296e9220f1",
+   "titel": "On-premises data gateway October 2026 release",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-27",
+   "samenvatting": "The October 2026 release of the on-premises data gateway (version 3000.338) continues our commitment to secure, reliable and accessible connectivity between on-premises data sources and Microsoft Fabric services. This release focuses on accessibility, configuration reliability, and troubleshootin...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-October-2026-release/ba-p/5376557"
+  },
+  {
+   "id": "2597f8a60595",
+   "titel": "Oracle maakt ChatGPT centrale agent voor applicaties",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-27",
+   "samenvatting": "De samenwerking tussen Oracle en OpenAI breidt zich uit. Naast infrastructuur die als krachtbron achter ChatGPT draait, gaan de twee partijen nu ook op softwareniveau integreren. Tot nu toe draaide de relatie tussen beide bedrijven vooral om het leveren en gebruiken van rekenkracht. OpenAI zou vo...",
+   "url": "https://www.techzine.nl/nieuws/applications/583245/oracle-maakt-chatgpt-centrale-agent-voor-applicaties/"
+  },
+  {
+   "id": "0e3203570eec",
+   "titel": "Beurspapieren Anthropic vol grote waarschuwingen, maar dat deert beleggers niet",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-10-27",
+   "samenvatting": "De papieren die Anthropic heeft ingeleverd om een beursgang mogelijk te maken staan bol van de waarschuwingen. Misbruik van AI-modellen kan leiden tot \"chemische, biologische of andere gevaarlijke wapens\", schrijft het Amerikaanse AI-bedrijf. Ook wijst het op zijn miljardenschuld en -verlies. Toc...",
+   "url": "https://nos.nl/l/2636916"
   },
   {
    "id": "ff437b403488",
