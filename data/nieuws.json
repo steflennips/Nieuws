@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-28T10:09:51+00:00",
+ "bijgewerkt": "2026-10-29T10:34:56+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 11,
-   "verouderd": 7,
+   "bewaard": 12,
+   "verouderd": 6,
    "geweigerd": 3
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 3,
+   "bewaard": 1,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 6,
+   "bewaard": 3,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -81,6 +81,36 @@
  ],
  "items": [
   {
+   "id": "ee327bd81fe4",
+   "titel": "DeepSeek en Moonshot AI zouden GPT-6 Astra gebruiken voor training",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-29",
+   "samenvatting": "DeepSeek en Moonshot AI hebben hun nieuwste modellen voor een groot deel getraind op output van GPT-6 Astra van OpenAI. Het gaat om Kimi K3.1 Pro en DeepSeek V4.1-Flash 1017. Volgens The Information, dat zich baseert op mensen met directe kennis van de zaak, leunden beide Chinese AI-ontwikkelaars...",
+   "url": "https://www.techzine.nl/nieuws/analytics/583303/deepseek-en-moonshot-ai-zouden-gpt-6-astra-gebruiken-voor-training/"
+  },
+  {
+   "id": "7e121cd4d20f",
+   "titel": "Why We're Moving n8n's Automation Team Beyond the Service Desk Model",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-10-29",
+   "samenvatting": "Romina da Costa, head of internal AI and automation at n8n, shares the four principles her team uses to help every team build and own its automations.",
+   "url": "https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/"
+  },
+  {
+   "id": "51df8ee40526",
+   "titel": "Google Gemini 4 Carbon zet vol in op cyberdefense",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-29",
+   "samenvatting": "Google introduceert Gemini 4 Carbon, een nieuw frontier-model dat hoog scoort op benchmarks voor het vinden, exploiteren en patchen van kwetsbaarheden. Het model gaat eerst naar een selecte groep cyberexperts. Ontwikkelaars en bedrijven moeten nog even wachten. Carbon volgt slechts twee weken na...",
+   "url": "https://www.techzine.nl/nieuws/security/583300/google-gemini-4-carbon-zet-vol-in-op-cyberdefense/"
+  },
+  {
    "id": "e95b75f1c6c9",
    "titel": "Akamai lanceert AI Inference Service en Agent Sandbox",
    "categorie": "AI",
@@ -89,6 +119,36 @@
    "datum": "2026-10-28",
    "samenvatting": "Akamai brengt twee nieuwe diensten naar Akamai Cloud: Akamai Inference voor managed model serving en Akamai Agent Sandbox voor de geïsoleerde uitvoering van code die AI-agents zelf schrijven. Met de twee nieuwe diensten wil Akamai bedrijven één platform bieden voor het bouwen, draaien en beveilig...",
    "url": "https://www.techzine.nl/nieuws/infrastructure/583270/akamai-lanceert-ai-inference-service-en-agent-sandbox/"
+  },
+  {
+   "id": "d8ab32c2d8b1",
+   "titel": "Govern your Microsoft Fabric data estate from one place with the OneLake catalog and Govern Skills (Generally Available)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-28",
+   "samenvatting": "The Govern experience in the OneLake catalog is now generally available, providing centralized governance capabilities for tenants, domains, capacities, workspaces, tags, and policies in Microsoft Fabric. Govern Skills are also now available in the Skills for Fabric collection, giving AI agents t...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Govern-your-Microsoft-Fabric-data-estate-from-one-place-with-the/ba-p/5377369"
+  },
+  {
+   "id": "d33525fc8eb0",
+   "titel": "More ways to use scalar UDFs in Microsoft Fabric Data Warehouse (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-28",
+   "samenvatting": "Scalar user-defined functions (UDFs) let data teams define a business rule once and reuse it across workloads in both Warehouse and the SQL analytics endpoint in Microsoft Fabric. This helps teams maintain consistent logic without duplicating it across queries. Some business rules require more th...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/More-ways-to-use-scalar-UDFs-in-Microsoft-Fabric-Data-Warehouse/ba-p/5376708"
+  },
+  {
+   "id": "a917f67db803",
+   "titel": "91% Nederlandse organisaties had incident met AI-agent",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-28",
+   "samenvatting": "Vrijwel alle Nederlandse organisaties (91 procent) kregen het afgelopen jaar te maken met een securityincident rond een AI-agent. Slechts 34 procent loste dat binnen 24 uur op. Dat blijkt uit wereldwijd onderzoek van ServiceNow onder ruim 3.700 security- en techleiders. AI-agents zitten niet lang...",
+   "url": "https://www.techzine.nl/nieuws/security/583268/91-nederlandse-organisaties-had-incident-met-ai-agent/"
   },
   {
    "id": "726df706cd04",
@@ -101,6 +161,26 @@
    "url": "https://www.techzine.nl/nieuws/infrastructure/583260/dell-breidt-cyberresilience-uit-naar-ai-identiteit-en-quantum/"
   },
   {
+   "id": "6b722784aecf",
+   "titel": "Migrating from Camunda 7 to Camunda 8: What Support Does AI Bring?",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-10-28",
+   "samenvatting": "AI can make Camunda 7-to-8 migrations faster and less costly—but cleaner output doesn’t guarantee correctness. In a four-run comparison on one sample application, a fully agentic Sonnet run used 40% fewer input tokens and finished in about half the time of the converter-and-OpenRewrite path, yet...",
+   "url": "https://camunda.com/blog/2026/10/migrating-from-camunda-7-to-camunda-8-what-support-does-ai-bring/"
+  },
+  {
+   "id": "5a3ff8788438",
+   "titel": "From one prompt to a governed Dataverse app: the Dataverse plugin lands in Copilot Cowork",
+   "categorie": "AI",
+   "bron": "Microsoft Power Platform Blog (Power Automate)",
+   "taal": "en",
+   "datum": "2026-10-28",
+   "samenvatting": "The Microsoft Dataverse plugin for Copilot Cowork turns a plain-language request into real Dataverse tables, sample data and a published app, with every change approved by you and every action running under your own permissions. The post From one prompt to a governed Dataverse app: the Dataverse...",
+   "url": "https://www.microsoft.com/en-us/power-platform/blog/2026/10/28/dataverse-plugin-copilot-cowork/"
+  },
+  {
    "id": "331f7028edb8",
    "titel": "CIO’s vetrouwen veiligheid AI-agents, maar inzicht is gebrekkig",
    "categorie": "AI",
@@ -109,6 +189,16 @@
    "datum": "2026-10-28",
    "samenvatting": "Driekwart van de Nederlandse CIO’s vertrouwt erop dat hun AI-agents veilig en volgens de regels werken. Toch weet maar 38 procent precies hoe data door de organisatie stroomt. Ook heeft maar een kwart volledig zicht op de software supply chain. Dat blijkt uit onderzoek van Red Hat onder 1.400 CIO...",
    "url": "https://www.techzine.nl/nieuws/security/583273/cios-vetrouwen-veiligheid-ai-agents-maar-inzicht-is-gebrekkig/"
+  },
+  {
+   "id": "0fe553949cbf",
+   "titel": "Kort: Waag lanceert sociale-mediaplatform zonder Big Tech-algoritmes, Wtta-regeling van kracht (en meer)",
+   "categorie": "Automatisering",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-28",
+   "samenvatting": "Waag passeert Big Tech met alternatief platform, uitleners moeten zich vóór 2027 aanmelden voor Wtta-overgangsregeling, Proton stelt gebruik van ai als voorwaarde voor baan, NetSuite zet ai-agents in voor automatisering bedrijfsprocessen, en Main Capital koopt Duitse specialist in productdatabeheer.",
+   "url": "https://www.computable.nl/2026/10/28/kort-waag-lanceert-sociale-mediaplatform-zonder-big-tech-algoritmes-wtta-regeling-van-kracht-en-meer/"
   },
   {
    "id": "00c0238adee1",
@@ -169,6 +259,16 @@
    "datum": "2026-10-27",
    "samenvatting": "IBM breidt HashiCorp Vault uit naar AI-agents. Op zijn TechXchange 2026-conferentie introduceert het bedrijf ook Agent Identity en nieuwe functies in watsonx Orchestrate om agents te ontdekken, te isoleren en te evalueren. Elke agent krijgt zo een eigenaar, een geverifieerde identiteit en credent...",
    "url": "https://www.techzine.nl/nieuws/infrastructure/583180/ibm-zet-hashicorp-vault-in-voor-identiteit-ai-agents/"
+  },
+  {
+   "id": "d02380a43e90",
+   "titel": "Invite agentic coauthors to collaborate with you directly in canvas studio!",
+   "categorie": "AI",
+   "bron": "Microsoft Power Platform Blog (Power Automate)",
+   "taal": "en",
+   "datum": "2026-10-27",
+   "samenvatting": "Today we’re excited to share big news for canvas app makers: agentic authoring in canvas studio using your GitHub account is now available in preview! In September, the canvas authoring agent plugin became generally available (GA), so you could build canvas apps from your own coding agent – GitHu...",
+   "url": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/invite-agentic-coauthors-to-collaborate-with-you-directly-in-canvas-studio/"
   },
   {
    "id": "a56163fb20a2",
