@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-29T10:34:56+00:00",
+ "bijgewerkt": "2026-10-30T10:35:44+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 12,
-   "verouderd": 6,
+   "bewaard": 11,
+   "verouderd": 14,
    "geweigerd": 3
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 1,
+   "bewaard": 6,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -74,12 +74,42 @@
    "feed": "NOS Tech",
    "status": "OK",
    "items": 20,
-   "bewaard": 6,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 1
   }
  ],
  "items": [
+  {
+   "id": "d6f7c2115c7f",
+   "titel": "AWS groeit met bijna 40 procent, maar AI-investeringen zetten druk",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-30",
+   "samenvatting": "Amazon presenteerde de financiële resultaten over het derde kwartaal van 2026. De omzet steeg met 12% ten opzichte van dezelfde periode vorig jaar tot 201,9 miljard dollar. Een jaar eerder kwam de omzet uit op 180,2 miljard dollar. Het bedrijfsresultaat steeg met 61% tot 28,1 miljard dollar, terw...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583363/aws-groeit-met-bijna-40-procent-maar-ai-investeringen-zetten-druk/"
+  },
+  {
+   "id": "c20186f477ec",
+   "titel": "Jonge techmiljardair Pim de Witte wil vooral grip houden op ai",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-30",
+   "samenvatting": "Misschien had je nog nooit van hem gehoord: Pim de Witte (31) is de jongste Nederlandse miljardair in de Quote 500-lijst. In die ranglijst van rijke Nederlanders prijkt hij op de 49ste plaats met een vermogen 1,1 miljard euro.",
+   "url": "https://www.computable.nl/2026/10/30/jonge-techmiljardair-pim-de-witte-wil-vooral-grip-houden-op-ai/"
+  },
+  {
+   "id": "0c9732640e08",
+   "titel": "Tweede Kamer wil verbod op ChatGPT en ai op basisscholen",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-30",
+   "samenvatting": "Een meerderheid in de Tweede Kamer wil een verbod op het gebruik van generatieve ai door leerlingen in het primair onderwijs. CDA, Pro, D66, JA21 en vijf kleinere fracties steunen daartoe een motie van Laurens Dassen (Volt). Zij vinden dat leerlingen niet te vroeg ChatGPT moeten gaan gebruiken.",
+   "url": "https://www.computable.nl/2026/10/30/tweede-kamer-wil-verbod-op-chatgpt-en-ai-op-basisscholen/"
+  },
   {
    "id": "ee327bd81fe4",
    "titel": "DeepSeek en Moonshot AI zouden GPT-6 Astra gebruiken voor training",
@@ -89,6 +119,56 @@
    "datum": "2026-10-29",
    "samenvatting": "DeepSeek en Moonshot AI hebben hun nieuwste modellen voor een groot deel getraind op output van GPT-6 Astra van OpenAI. Het gaat om Kimi K3.1 Pro en DeepSeek V4.1-Flash 1017. Volgens The Information, dat zich baseert op mensen met directe kennis van de zaak, leunden beide Chinese AI-ontwikkelaars...",
    "url": "https://www.techzine.nl/nieuws/analytics/583303/deepseek-en-moonshot-ai-zouden-gpt-6-astra-gebruiken-voor-training/"
+  },
+  {
+   "id": "eb341d604827",
+   "titel": "‘Agentic ai? De meeste socs draaien nog op plakwerk van medewerkers’",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-29",
+   "samenvatting": "Hoewel marketeers anders doen geloven, is de inzet van agentic ai in het security operations center (soc) nog geen realiteit. En het is ook afhankelijk van de definitie van agentic ai hoe zich dat de komende jaren zal ontwikkelen. Dat zegt Nick Maeckelberghe van Crimson7.",
+   "url": "https://www.computable.nl/2026/10/29/agentic-ai-de-meeste-socs-draaien-nog-op-plakwerk-van-medewerkers/"
+  },
+  {
+   "id": "b6bd616345c2",
+   "titel": "Introducing the data engineering agent for Fabric (Project Osmos)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-29",
+   "samenvatting": "AI coding assistants are excellent at turning natural-language transformation instructions into code. For data engineers, the harder question is whether that code produces results they can trust. You can describe transformation logic in natural language, and an AI coding assistant will happily ge...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-the-data-engineering-agent-for-Fabric-Project-Osmos/ba-p/5377944"
+  },
+  {
+   "id": "a4ed3da4a898",
+   "titel": "De vele soorten AI-chips op Oracle Cloud Infrastructure",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-29",
+   "samenvatting": "Allerlei soorten AI-chips zullen op Oracle Cloud Infrastructure (OCI) beschikbaar zijn. Naast varianten van Nvidia’s Vera Rubin-architectuur zijn voor het eerst Google TPU’s van de partij vanaf volgend jaar; hetzelfde geldt voor de grote Cerebras-chips. AMD, Intel, SambaNova en OpenAI Jalapeño zo...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583285/de-vele-soorten-ai-chips-op-oracle-cloud-infrastructure/"
+  },
+  {
+   "id": "9cbfb9dc40af",
+   "titel": "Met een dikke kat zegt het Franse AI-bedrijf Mistral: kijk ook eens naar ons",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-10-29",
+   "samenvatting": "Met een verwijzing naar een dikke kat zet het Franse AI-bedrijf zijn nieuwste AI-model in de markt: le chonk. De bijnaam verwijst naar een internetgrap over het gewicht van katten. Hoe dikker de kat, hoe meer 'chonk' het beestje is. Het nieuwe AI-model heet officieel Large 4 en is volgens Mistral...",
+   "url": "https://nos.nl/l/2637207"
+  },
+  {
+   "id": "8490db033ef6",
+   "titel": "Bringing Rust-native Spark compatibility to Microsoft OneLake with Sail and LakeSail",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-29",
+   "samenvatting": "Coauthor: Shehab Amin Microsoft OneLake gives every Microsoft Fabric tenant a single, unified data lake built on open formats. One copy of data, many engines: that is the promise, and it is what makes OneLake such a strong foundation for analytics and AI alike. This post looks at how Sail, the op...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-Rust-native-Spark-compatibility-to-Microsoft-OneLake/ba-p/5377595"
   },
   {
    "id": "7e121cd4d20f",
@@ -101,6 +181,16 @@
    "url": "https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/"
   },
   {
+   "id": "6a8dfd46827f",
+   "titel": "Orange Cyberdefense krijgt toegang tot nieuwe Mistral Large 4-variant",
+   "categorie": "Data",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-29",
+   "samenvatting": "Via een nieuwe samenwerking krijgt Orange Cyberdefense toegang tot een nieuwe variant van Mistral Large 4 gericht op geavanceerde securitytaken. De eerste initiatieven zullen draaien om pentesting van IT-systemen en analyse en onderzoek na incidenten. Mistral AI heeft vandaag Mistral Large 4 op H...",
+   "url": "https://www.techzine.nl/nieuws/security/583343/orange-cyberdefense-krijgt-toegang-tot-nieuwe-mistral-large-4-variant/"
+  },
+  {
    "id": "51df8ee40526",
    "titel": "Google Gemini 4 Carbon zet vol in op cyberdefense",
    "categorie": "AI",
@@ -109,6 +199,76 @@
    "datum": "2026-10-29",
    "samenvatting": "Google introduceert Gemini 4 Carbon, een nieuw frontier-model dat hoog scoort op benchmarks voor het vinden, exploiteren en patchen van kwetsbaarheden. Het model gaat eerst naar een selecte groep cyberexperts. Ontwikkelaars en bedrijven moeten nog even wachten. Carbon volgt slechts twee weken na...",
    "url": "https://www.techzine.nl/nieuws/security/583300/google-gemini-4-carbon-zet-vol-in-op-cyberdefense/"
+  },
+  {
+   "id": "4ddacd48e0fa",
+   "titel": "Alphabet ziet kasgeld opdrogen door ai-race",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-29",
+   "samenvatting": "Alphabet doet zulke gigantische investeringen in ai-infrastructuur en ai-chips dat de vrije kasstroom in de afgelopen twee kwartalen voor het eerst sinds haar beursgang 22 jaar geleden negatief was.",
+   "url": "https://www.computable.nl/2026/10/29/alphabet-ziet-kasgeld-opdrogen-door-ai-race/"
+  },
+  {
+   "id": "4a93ae0d3a89",
+   "titel": "Meer technologie leidt niet altijd tot betere cyberweerbaarheid",
+   "categorie": "Automatisering",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-29",
+   "samenvatting": "Cybersecurity wordt nog vaak benaderd als puur technologisch vraagstuk. Wanneer de dreiging toeneemt, reageren organisaties vaak door extra technologie toe te voegen. Meer technologie leidt echter niet automatisch tot een verbetering van de weerbaarheid.",
+   "url": "https://www.computable.nl/2026/10/29/meer-technologie-leidt-niet-altijd-tot-betere-cyberweerbaarheid/"
+  },
+  {
+   "id": "4562448903e2",
+   "titel": "AI-app Erasmus MC helpt patiënten en familie om moeilijke gesprekken beter te begrijpen",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-10-29",
+   "samenvatting": "Wie in het ziekenhuis slecht nieuws krijgt over zijn gezondheid, onthoudt vaak maar een deel van wat de arts vertelt. Angst en onzekerheid maken het lastig om alle informatie te verwerken. Het Erasmus MC ontwikkelt daarom een AI-app die gesprekken opneemt en betrouwbaar samenvat.",
+   "url": "https://www.computable.nl/2026/10/29/ai-app-erasmus-mc-helpt-patienten-en-familie-om-moeilijke-gesprekken-beter-te-begrijpen/"
+  },
+  {
+   "id": "42961f224d85",
+   "titel": "Access versioned lakeFS data from Microsoft Fabric with Microsoft OneLake shortcuts",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-29",
+   "samenvatting": "Coauthor: Iddo Avneri (Treeverse) Use a live branch for up-to-date analytics or pin a shortcut to an immutable commit when reproducibility matters. Data teams often need two seemingly conflicting things: immediate access to the latest data and the ability to return to the exact data behind an ear...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Access-versioned-lakeFS-data-from-Microsoft-Fabric-with/ba-p/5377386"
+  },
+  {
+   "id": "392fd68ef936",
+   "titel": "Strengthening data security with workspace-level private connectivity for custom endpoints for Eventstream (Preview)",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-29",
+   "samenvatting": "Organizations that operate sensitive applications often keep them in networks with no route to the public internet. Applications in restricted networks need real-time analytics without a route to the public internet. Eventstream now supports workspace-level private links for custom endpoint sourc...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Strengthening-data-security-with-workspace-level-private/ba-p/5377347"
+  },
+  {
+   "id": "33aba6cab6d1",
+   "titel": "Manage once, reuse everywhere: Introducing variable library support for Eventstream (Preview)",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-29",
+   "samenvatting": "Moving a real-time data pipeline from development to test to production should not mean reconfiguring every source and destination. Yet environment-specific connection details and destination references can make each release a manual, error-prone task. Variable library integration with Eventstrea...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Manage-once-reuse-everywhere-Introducing-variable-library/ba-p/5377349"
+  },
+  {
+   "id": "1108578f6cfd",
+   "titel": "Using Allow workspace settings editing policy in Fabric (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-10-29",
+   "samenvatting": "Your teams are ready to build. They know their data, understand their business, and need the freedom to manage the workspaces where ideas become solutions. As adoption grows, that freedom becomes even more valuable. So does the ability to protect the settings that matter most. A workspace admin r...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Allow-workspace-settings-editing-policy-in-Fabric-Preview/ba-p/5377845"
   },
   {
    "id": "e95b75f1c6c9",
