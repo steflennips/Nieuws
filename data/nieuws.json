@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-30T10:35:44+00:00",
+ "bijgewerkt": "2026-10-31T10:03:32+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -37,15 +37,15 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 11,
-   "verouderd": 14,
+   "bewaard": 12,
+   "verouderd": 13,
    "geweigerd": 3
   },
   {
    "feed": "n8n Blog (workflow-automatisering)",
    "status": "OK",
    "items": 15,
-   "bewaard": 15,
+   "bewaard": 14,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 3,
+   "bewaard": 6,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -76,10 +76,30 @@
    "items": 20,
    "bewaard": 5,
    "verouderd": 0,
-   "geweigerd": 1
+   "geweigerd": 2
   }
  ],
  "items": [
+  {
+   "id": "668ba99e4b11",
+   "titel": "Ongeneeslijk zieke hoogleraar Jan Rotmans laat 'AI-tweeling' van zichzelf maken",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-10-31",
+   "samenvatting": "Lezingen geven en vragen beantwoorden, ook als hij er zelf niet meer is. Dat moet een digitale versie van hoogleraar Jan Rotmans (65) straks kunnen. De ongeneeslijk zieke wetenschapper laat met kunstmatige intelligentie zijn \"digitale tweeling\" bouwen. Op die manier moet zijn kennis over maatscha...",
+   "url": "https://nos.nl/l/2637407"
+  },
+  {
+   "id": "fc2ef93071cb",
+   "titel": "AI is al binnen. Maar is uw organisatie er wel klaar voor?",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-30",
+   "samenvatting": "De opmars van kunstmatige intelligentie stelt organisaties voor een opmerkelijke uitdaging. Terwijl medewerkers steeds meer gebruikmaken van Cloud, ChatGPT, Microsoft Copilot en andere AI-toepassingen, ontbreekt het veel organisaties aan inzicht in de risico’s, de kwaliteit van hun informatievoor...",
+   "url": "https://www.techzine.nl/experts/analytics/583386/ai-is-al-binnen-maar-is-uw-organisatie-er-wel-klaar-voor/"
+  },
   {
    "id": "d6f7c2115c7f",
    "titel": "AWS groeit met bijna 40 procent, maar AI-investeringen zetten druk",
@@ -101,6 +121,36 @@
    "url": "https://www.computable.nl/2026/10/30/jonge-techmiljardair-pim-de-witte-wil-vooral-grip-houden-op-ai/"
   },
   {
+   "id": "ad947e50956b",
+   "titel": "Gemanipuleerde Claude Code-extensie in Cursor plaatst SSH-backdoor",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-30",
+   "samenvatting": "In de extensie-marketplace van Cursor stond gisteren ruim elf uur een gemanipuleerde versie van de Claude Code-extensie van Anthropic. Die probeerde een persistente SSH-backdoor te installeren. Maximaal 5.000 gebruikers zijn getroffen. Cursor haalde de marketplace uit voorzorg volledig offline. H...",
+   "url": "https://www.techzine.nl/nieuws/security/583426/gemanipuleerde-claude-code-extensie-in-cursor-plaatst-ssh-backdoor/"
+  },
+  {
+   "id": "883319b49e61",
+   "titel": "Waarom moderne DCIM-tools onmisbaar zijn in het AI-tijdperk",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-30",
+   "samenvatting": "De hogere eisen van AI-datacenters rond stroom, koeling en infrastructuur vergroten de behoefte aan geavanceerde Data Center Infrastructure Management (DCIM)-tools. AI-servers vereisen tot tien keer meer stroom dan eerdere architecturen, wat de operationele kosten en de impact van inefficiënt beh...",
+   "url": "https://www.techzine.nl/whitepapers/infrastructure/583391/waarom-moderne-dcim-tools-onmisbaar-zijn-in-het-ai-tijdperk/"
+  },
+  {
+   "id": "245ac3723437",
+   "titel": "Gartner: AI-sector riskeert barsten als een zeepbel",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-30",
+   "samenvatting": "Gartner waarschuwt voor het barsten van de AI-zeepbel. Het onderzoeksbureau voorspelt een aanzienlijke consolidatie binnen de neocloud-sector. De inkomsten zullen over het algemeen ver achterblijven bij de verwachtingen. Gartner stelt dat meer dan 3,5 biljoen dollar aan uitgaven voor AI-infrastru...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583367/gartner-ai-sector-riskeert-barsten-als-een-zeepbel/"
+  },
+  {
    "id": "0c9732640e08",
    "titel": "Tweede Kamer wil verbod op ChatGPT en ai op basisscholen",
    "categorie": "AI",
@@ -109,6 +159,16 @@
    "datum": "2026-10-30",
    "samenvatting": "Een meerderheid in de Tweede Kamer wil een verbod op het gebruik van generatieve ai door leerlingen in het primair onderwijs. CDA, Pro, D66, JA21 en vijf kleinere fracties steunen daartoe een motie van Laurens Dassen (Volt). Zij vinden dat leerlingen niet te vroeg ChatGPT moeten gaan gebruiken.",
    "url": "https://www.computable.nl/2026/10/30/tweede-kamer-wil-verbod-op-chatgpt-en-ai-op-basisscholen/"
+  },
+  {
+   "id": "0627cf3199b6",
+   "titel": "HP WXP is schot in de roos: software geeft grip op digitale werkervaring",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-10-30",
+   "samenvatting": "HP gaat uit van waar het goed in is en kiest de werkplek als startpunt en fundament voor vrijwel alles wat het doet. Dat betekent onder andere dat het meerwaarde moet bieden als organisaties meerdere soorten apparaten bij HP kopen. Een soepele integratie van producten en oplossingen die organisat...",
+   "url": "https://www.techzine.nl/blogs/devices/580456/hp-wxp-is-schot-in-de-roos-software-geeft-grip-op-digitale-werkervaring/"
   },
   {
    "id": "ee327bd81fe4",
