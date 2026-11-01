@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-31T10:03:32+00:00",
+ "bijgewerkt": "2026-11-01T10:54:26+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 6,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
