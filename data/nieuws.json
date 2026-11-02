@@ -1,12 +1,12 @@
 {
- "bijgewerkt": "2026-11-01T10:54:26+00:00",
+ "bijgewerkt": "2026-11-02T11:51:11+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
    "status": "OK",
    "items": 20,
-   "bewaard": 9,
-   "verouderd": 11,
+   "bewaard": 8,
+   "verouderd": 12,
    "geweigerd": 0
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 2,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 6,
+   "bewaard": 4,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -80,6 +80,36 @@
   }
  ],
  "items": [
+  {
+   "id": "d38d58f36394",
+   "titel": "AI-spelers ondersteunen gedeelde anti-scraping-standaard",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-02",
+   "samenvatting": "Een zogeheten ‘policy token’ zal scraping door de grootste AI-modelbouwers tegengaan. Deze standaard binnen het bestaande robots.txt krijgt de steun van OpenAI, Google, Microsoft en Anthropic. Tot nu toe moesten uitgevers per AI-bedrijf een anti-scraping-standaard adopteren. Kevin Kelley, Technic...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583433/ai-spelers-ondersteunen-gedeelde-anti-scraping-standaard/"
+  },
+  {
+   "id": "77a24df8194e",
+   "titel": "DeepSeek Super-Agent is open-source Claude Code-alternatief",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-02",
+   "samenvatting": "DeepSeek presenteert een prototype van een meer autonome programmeeragent in een poging Claude Code van Anthropic concurrentie aan te doen. Daarmee begeeft de Chinese AI-modelbouwer zich nadrukkelijker op de markt voor programmeerassistenten. DeepSeek noemt het nieuwe opensourceproject Super-Agen...",
+   "url": "https://www.techzine.nl/nieuws/applications/583451/deepseek-super-agent-is-open-source-claude-code-alternatief/"
+  },
+  {
+   "id": "4473a020f5f2",
+   "titel": "Steeds grotere rol voor AI bij Linux-ontwikkeling",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-02",
+   "samenvatting": "De eerste release candidate of Linux 7.4 is vrijgegeven na een ongewoon lange ontwikkelperiode (‘merge window’). Volgens Linux-oprichter Linus Torvalds is AI-gedreven softwareontwikkeling de belangrijkste reden voor het grote aantal veranderingen aan de kernel. In een toelichting stelt Torvalds d...",
+   "url": "https://www.techzine.nl/nieuws/devops/583444/steeds-grotere-rol-voor-ai-bij-linux-ontwikkeling/"
+  },
   {
    "id": "668ba99e4b11",
    "titel": "Ongeneeslijk zieke hoogleraar Jan Rotmans laat 'AI-tweeling' van zichzelf maken",
@@ -2719,16 +2749,6 @@
    "datum": "2026-09-03",
    "samenvatting": "Traditional migrations require months of disruption and high cost. What if it could move quickly while also building foundations for re-engineering that legacy platforms were never built to support?",
    "url": "https://camunda.com/blog/2026/09/from-legacy-bpm-migration-to-a-foundation-for-continuous-re-engineering/"
-  },
-  {
-   "id": "60c4b3076cbe",
-   "titel": "Power BI sample reports, refreshed with modern visual defaults",
-   "categorie": "BI",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-09-02",
-   "samenvatting": "Microsoft has refreshed its Power BI sample reports with modern visual defaults, stronger semantic models, mobile-optimized layouts, and newer authoring features to help creators build clearer, more effective reports.",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-sample-reports-refreshed-with-modern-visual-defaults/ba-p/5363807"
   }
  ]
 }
