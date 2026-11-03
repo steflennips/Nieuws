@@ -1,12 +1,12 @@
 {
- "bijgewerkt": "2026-11-02T11:51:11+00:00",
+ "bijgewerkt": "2026-11-03T11:29:08+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
    "status": "OK",
    "items": 20,
-   "bewaard": 8,
-   "verouderd": 12,
+   "bewaard": 7,
+   "verouderd": 13,
    "geweigerd": 0
   },
   {
@@ -21,8 +21,8 @@
    "feed": "SQLBI",
    "status": "OK",
    "items": 30,
-   "bewaard": 3,
-   "verouderd": 23,
+   "bewaard": 4,
+   "verouderd": 22,
    "geweigerd": 0
   },
   {
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 12,
-   "verouderd": 13,
+   "bewaard": 10,
+   "verouderd": 15,
    "geweigerd": 3
   },
   {
@@ -81,6 +81,46 @@
  ],
  "items": [
   {
+   "id": "b62fd2eb1a27",
+   "titel": "Kort: Ai-chatbots negeren AFM, recordcijfers Apple, nieuwe HSO-ceo (en meer)",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-03",
+   "samenvatting": "Ai-chatbots handelen in strijd met AFM-regels, nieuwe ceo bij HSO, Main stapt in afval-erp, ict-krachtenbundeling in de Achterhoek en Apple boekt recordcijfers ondanks chipschaarste",
+   "url": "https://www.computable.nl/2026/11/03/kort-ai-chatbots-negeren-afm-recordcijfers-apple-nieuwe-hso-ceo-en-meer/"
+  },
+  {
+   "id": "9dd1d7b79c67",
+   "titel": "LLMJacking leidt dagelijks tot 100.000 dollar aan cloudkosten",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-03",
+   "samenvatting": "Cybercriminelen kapen op grote schaal zakelijke toegang tot LLM’s. Mandiant onderzocht dit jaar meerdere LLMJacking-incidenten waarbij de frauduleuze cloudkosten opliepen tot meer dan 100.000 dollar per dag. De gestolen toegang wordt via zogeheten LLM Mixers doorverkocht aan andere criminelen. De...",
+   "url": "https://www.techzine.nl/nieuws/security/583511/llmjacking-leidt-dagelijks-tot-100-000-dollar-aan-cloudkosten/"
+  },
+  {
+   "id": "7cec920ec67c",
+   "titel": "Anthropic ziet recursieve zelfverbetering dichterbij komen",
+   "categorie": "BI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-03",
+   "samenvatting": "Anthropic zou op het punt staan een model te ontwikkelen dat in staat is tot recursieve zelfverbetering (RSI). Dit zou neerkomen op een forse versnelling van de AI-mogelijkheden. Dit blijkt volgens TechCrunch uit een waarschuwing in de rapportage van de financiële resultaten, die Anthropic deze w...",
+   "url": "https://www.techzine.nl/nieuws/privacy-compliance/583532/anthropic-ziet-recursieve-zelfverbetering-dichterbij-komen/"
+  },
+  {
+   "id": "2fdceaa2467f",
+   "titel": "“Vertrouw niet blind op open source, maar neem de regie”",
+   "categorie": "Data",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-03",
+   "samenvatting": "Tien jaar lang bouwt Klarrio enterprise-dataplatformen op basis van open source. In die periode is er veel veranderd, ziet CTO Bruno De Bus. Licentiewijzigingen, een verschuiving naar Chinese contributors en supply chain-aanvallen hebben de spelregels veranderd. Het onmisbare open source vereist,...",
+   "url": "https://www.techzine.nl/blogs/analytics/583504/vertrouw-niet-blind-op-open-source-maar-neem-de-regie/"
+  },
+  {
    "id": "d38d58f36394",
    "titel": "AI-spelers ondersteunen gedeelde anti-scraping-standaard",
    "categorie": "AI",
@@ -91,6 +131,26 @@
    "url": "https://www.techzine.nl/nieuws/infrastructure/583433/ai-spelers-ondersteunen-gedeelde-anti-scraping-standaard/"
   },
   {
+   "id": "d2783cf958c5",
+   "titel": "DAX with AI: Scenarios is now available",
+   "categorie": "BI",
+   "bron": "SQLBI",
+   "taal": "en",
+   "datum": "2026-11-02",
+   "samenvatting": "This post describes DAX with AI: Scenarios, our new video course on using AI for complex business requirements in DAX. DISCLAIMER: I drafted this post with the help of AI, starting from my notes and the outlines of the course…",
+   "url": "https://www.sqlbi.com/blog/marco/2026/11/02/dax-with-ai-scenarios-is-now-available/"
+  },
+  {
+   "id": "9a47a3031dae",
+   "titel": "Diepe verdeeldheid over generatieve ai in de wetenschap",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-02",
+   "samenvatting": "Nederlandse experts zijn sterk verdeeld over welke rol generatieve ai zoals ChatGPT moet spelen in de toekomst van de wetenschap. Dat blijkt uit het rapport 'Regie over ai in de wetenschap' van het Rathenau Instituut. De onderzoekers roepen betrokkenen op om snel met elkaar keuzes te maken.",
+   "url": "https://www.computable.nl/2026/11/02/diepe-verdeeldheid-over-generatieve-ai-in-de-wetenschap/"
+  },
+  {
    "id": "77a24df8194e",
    "titel": "DeepSeek Super-Agent is open-source Claude Code-alternatief",
    "categorie": "AI",
@@ -99,6 +159,36 @@
    "datum": "2026-11-02",
    "samenvatting": "DeepSeek presenteert een prototype van een meer autonome programmeeragent in een poging Claude Code van Anthropic concurrentie aan te doen. Daarmee begeeft de Chinese AI-modelbouwer zich nadrukkelijker op de markt voor programmeerassistenten. DeepSeek noemt het nieuwe opensourceproject Super-Agen...",
    "url": "https://www.techzine.nl/nieuws/applications/583451/deepseek-super-agent-is-open-source-claude-code-alternatief/"
+  },
+  {
+   "id": "6d9c0429baf2",
+   "titel": "Data Days: Learn, build, and connect with AI @Work",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-02",
+   "samenvatting": "Real people. Real projects. Real AI on Fabric, SQL, and Power BI. From November 2 through December 15, Data Days is your chance to get past polished demos and put data and AI to work yourself. Join a live session, build something new, work toward a certification, or connect with a community study...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Data-Days-Learn-build-and-connect-with-AI-Work/ba-p/5382446"
+  },
+  {
+   "id": "5f209baed0bf",
+   "titel": "From a prompt to an operational dashboard: Generate Real-Time Dashboards with Copilot (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-02",
+   "samenvatting": "Start with the question, not a blank dashboard Which transit stations are sending the most fans toward a stadium? How does that incoming demand compare with activity at the gates? Where are queues building? Answering these operational questions traditionally requires translating them into tables,...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-a-prompt-to-an-operational-dashboard-Generate-Real-Time/ba-p/5380258"
+  },
+  {
+   "id": "4ccf04047cf8",
+   "titel": "Bring insights and action together with Fabric Apps in Org apps",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-02",
+   "samenvatting": "Business users move from understanding what happened, to investigating why, to acting. Microsoft Fabric can bring that journey together. Fabric Apps provide purpose-built, data-driven experiences when users need more than a report. Org apps distribute them alongside Power BI reports and other sup...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-insights-and-action-together-with-Fabric-Apps-in-Org-apps/ba-p/5377690"
   },
   {
    "id": "4473a020f5f2",
@@ -2709,46 +2799,6 @@
    "datum": "2026-09-04",
    "samenvatting": "Er is een nieuw tijdperk aangebroken in de wereld van kunstmatige intelligentie (AI), zegt topman Greg Brockman van OpenAI, het bedrijf achter ChatGPT. Hij heeft het over 'AGI', de afkorting van artificial general intelligence: kunstmatige algemene intelligentie. Daarvan is volgens het bedrijf sp...",
    "url": "https://nos.nl/l/2629704"
-  },
-  {
-   "id": "668369d70af6",
-   "titel": "Optimizing a Process for Target KPIs with AI: A Job Analysts Used to Do by Hand",
-   "categorie": "BI",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-09-03",
-   "samenvatting": "Two processes. Clear KPIs. An honest look at the results, with real prompts, diagrams, and the AI's own reasoning.",
-   "url": "https://camunda.com/blog/2026/09/optimizing-a-process-for-target-kpis-with-ai-a-job-analysts-used-to-do-by-hand/"
-  },
-  {
-   "id": "3e1818ad92ea",
-   "titel": "Modern Power BI architecture choices for reporting on Azure Databricks: A performance benchmark for Power BI storage modes",
-   "categorie": "BI",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-09-03",
-   "samenvatting": "Many enterprise Power BI semantic models use Azure Databricks as a data source. When building these models, developers and architects face an early and consequential decision: which storage mode to use. Cost, security, and ease of development and tuning all factor in — but report performance is p...",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Modern-Power-BI-architecture-choices-for-reporting-on-Azure/ba-p/5364286"
-  },
-  {
-   "id": "1c67067b85ff",
-   "titel": "PPCC 2026: Bringing AI and your business processes together",
-   "categorie": "Automatisering",
-   "bron": "Microsoft Power Platform Blog (Power Automate)",
-   "taal": "en",
-   "datum": "2026-09-03",
-   "samenvatting": "Every enterprise runs on business processes, but it’s the people that provide judgment, manage exceptions, and often connect systems that were never designed to work together. The post PPCC 2026: Bringing AI and your business processes together appeared first on Microsoft Power Platform Blog.",
-   "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/"
-  },
-  {
-   "id": "0f03d660338f",
-   "titel": "From Legacy BPM Migration to a Foundation for Continuous Re-engineering",
-   "categorie": "Automatisering",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-09-03",
-   "samenvatting": "Traditional migrations require months of disruption and high cost. What if it could move quickly while also building foundations for re-engineering that legacy platforms were never built to support?",
-   "url": "https://camunda.com/blog/2026/09/from-legacy-bpm-migration-to-a-foundation-for-continuous-re-engineering/"
   }
  ]
 }
