@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-03T11:29:08+00:00",
+ "bijgewerkt": "2026-11-04T11:45:09+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 2,
+   "bewaard": 4,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 4,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -74,12 +74,82 @@
    "feed": "NOS Tech",
    "status": "OK",
    "items": 20,
-   "bewaard": 5,
+   "bewaard": 4,
    "verouderd": 0,
    "geweigerd": 2
   }
  ],
  "items": [
+  {
+   "id": "d90738661855",
+   "titel": "It-teams groeien ondanks opmars van ai",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-04",
+   "samenvatting": "Artificiële intelligentie zorgt niet voor minder, maar voor meer vraag naar it-talent. Volgens onderzoek van Randstad breiden bijna negen op tien werkgevers wereldwijd het it-team uit. ‘Ai zal it-talent niet vervangen’, zo klinkt het.",
+   "url": "https://www.computable.nl/2026/11/04/it-teams-groeien-ondanks-opmars-van-ai/"
+  },
+  {
+   "id": "2b5ece59e3c6",
+   "titel": "“AI genereert in 2035 bijna de helft van het netwerkverkeer”",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-04",
+   "samenvatting": "Nokia voorspelt dat AI in 2035 bijna de helft van het wereldwijde netwerkverkeer genereert. Netwerken moeten tegen die tijd in toenemende mate zowel verbonden machines als mensen bedienen. AI zorgt hierbij voor een grotere vraag naar uplink-capaciteit, verlangt snellere responstijden en meer verw...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583592/ai-genereert-in-2035-bijna-de-helft-van-het-netwerkverkeer/"
+  },
+  {
+   "id": "292de7ff5b59",
+   "titel": "Sysdig AI Defense houdt overgenomen AI-agents tegen",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-04",
+   "samenvatting": "Sysdig heeft AI Defense algemeen beschikbaar gesteld. De nieuwe oplossing beoordeelt elke actie van een AI-agent in real-time ongeacht het apparaat. Het doel is om elke ongewenste actie van een agent tegen te houden voordat er problemen ontstaan. Dit kent aardig wat complexiteit, omdat agents de...",
+   "url": "https://www.techzine.nl/nieuws/security/583468/sysdig-ai-defense-houdt-overgenomen-ai-agents-tegen/"
+  },
+  {
+   "id": "ffcdcfc31560",
+   "titel": "Snowflake Horizon Catalog krijgt meer context- en governance-opties",
+   "categorie": "Data",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-03",
+   "samenvatting": "Snowflake breidt Horizon Catalog uit met Business Ontology en Cortex AI Gateway. AI-agents werken daardoor met goedgekeurde bedrijfsdefinities en vallen onder één set beleidsregels, ongeacht cloud, catalogus of engine. Het bouwen van AI-agents is volgens Snowflake niet het grootste probleem. Cont...",
+   "url": "https://www.techzine.nl/nieuws/analytics/583484/snowflake-horizon-catalog-krijgt-meer-context-en-governance-opties/"
+  },
+  {
+   "id": "fce623592ea0",
+   "titel": "Ai in Nederland: DNB schetst voorwaarden voor hogere productiviteit",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-03",
+   "samenvatting": "Nederland kan economisch flink profiteren van kunstmatige intelligentie (ai). Dat stelt De Nederlandsche Bank (DNB). Maar het is cruciaal dat succesvolle innovaties de ruimte krijgen om te groeien.",
+   "url": "https://www.computable.nl/2026/11/03/ai-in-nederland-dnb-schetst-voorwaarden-voor-hogere-productiviteit/"
+  },
+  {
+   "id": "e7bb3e306936",
+   "titel": "Groundcover integreert Wand-tech met Autonomous Infrastructure",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-03",
+   "samenvatting": "Groundcover heeft Autonomous Infrastructure in bèta uitgebracht. De functie past CPU- en memory-requests van Kubernetes-workloads automatisch aan op basis van het IT-gebruik in productie. De technologie komt van Wand Cloud, dat groundcover in september overnam. Het probleem dat groundcover wil op...",
+   "url": "https://www.techzine.nl/nieuws/applications/583567/groundcover-integreert-wand-tech-met-autonomous-infrastructure/"
+  },
+  {
+   "id": "bca544cd94f7",
+   "titel": "OneLake: The file system for agent-first data engineering",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-03",
+   "samenvatting": "Software engineers are increasingly using agents to build software, and data engineers are no different. We want OneLake to help enable data engineers to develop software in this new agent-first era. Think about how you work in a terminal: you use it to run programs that read and write files. Bot...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-The-file-system-for-agent-first-data-engineering/ba-p/5383035"
+  },
   {
    "id": "b62fd2eb1a27",
    "titel": "Kort: Ai-chatbots negeren AFM, recordcijfers Apple, nieuwe HSO-ceo (en meer)",
@@ -101,6 +171,16 @@
    "url": "https://www.techzine.nl/nieuws/security/583511/llmjacking-leidt-dagelijks-tot-100-000-dollar-aan-cloudkosten/"
   },
   {
+   "id": "8781b485bffb",
+   "titel": "Ai zorgt voor de grote comeback van de it-afdeling. Maar is dat wel goed nieuws?",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-03",
+   "samenvatting": "OPINIE - De opmars van ai bezorgt de it-afdeling grotere budgetten en meer invloed. Goed nieuws voor cio’s en cto’s? Niet noodzakelijk, waarschuwt Pieter Janssens, ceo van iO.",
+   "url": "https://www.computable.nl/2026/11/03/ai-zorgt-voor-de-grote-comeback-van-de-it-afdeling-maar-is-dat-wel-goed-nieuws/"
+  },
+  {
    "id": "7cec920ec67c",
    "titel": "Anthropic ziet recursieve zelfverbetering dichterbij komen",
    "categorie": "BI",
@@ -111,6 +191,46 @@
    "url": "https://www.techzine.nl/nieuws/privacy-compliance/583532/anthropic-ziet-recursieve-zelfverbetering-dichterbij-komen/"
   },
   {
+   "id": "6eafeb6028b4",
+   "titel": "Modernize data integration strategy with Microsoft Fabric when using Snowflake and Databricks",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-03",
+   "samenvatting": "Challenges solved by Microsoft Fabric Microsoft Fabric is an end-to-end analytics platform that brings together data integration, data engineering, warehousing, real-time analytics, business intelligence, and AI-related experiences. It has grown tremendously within the community because it is sol...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Modernize-data-integration-strategy-with-Microsoft-Fabric-when/ba-p/5377581"
+  },
+  {
+   "id": "6a85cab2008a",
+   "titel": "Adding the Context Streaming Events Need: Reference Data Joins with OneLake Delta Tables in Fabric Eventstream",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-03",
+   "samenvatting": "Enrich events with business context in real time, enabling faster decisions, more relevant alerts, and lower operational effort downstream. A real-time event tells you what happened. Context tells you what it means—and what to do next. In cold-chain logistics, a temperature reading becomes action...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Adding-the-Context-Streaming-Events-Need-Reference-Data-Joins/ba-p/5382230"
+  },
+  {
+   "id": "55c55af1e1da",
+   "titel": "Snowflake CoCo zet agents in voor bouwen en onderhouden datapipelines",
+   "categorie": "Data",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-03",
+   "samenvatting": "Snowflake breidt AI-agent CoCo (Cortex Code) uit met cloudagents en automations die datapipelines bewaken en repareren. Daarnaast komt het bedrijf met realtime analytics, waarmee tot 20 GB per seconde aan data in één governed platform binnenkomt. Engineers houden het laatste woord over wat naar p...",
+   "url": "https://www.techzine.nl/nieuws/analytics/583408/snowflake-coco-zet-agents-in-voor-bouwen-en-onderhouden-datapipelines/"
+  },
+  {
+   "id": "4ccf04047cf8",
+   "titel": "Bring insights and action together with Fabric Apps in Org apps",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-03",
+   "samenvatting": "Business users move from understanding what happened, to investigating why, to acting. Microsoft Fabric can bring that journey together. Fabric Apps provide purpose-built, data-driven experiences when users need more than a report. Org apps distribute them alongside Power BI reports and other sup...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-insights-and-action-together-with-Fabric-Apps-in-Org-apps/ba-p/5377690"
+  },
+  {
    "id": "2fdceaa2467f",
    "titel": "“Vertrouw niet blind op open source, maar neem de regie”",
    "categorie": "Data",
@@ -119,6 +239,26 @@
    "datum": "2026-11-03",
    "samenvatting": "Tien jaar lang bouwt Klarrio enterprise-dataplatformen op basis van open source. In die periode is er veel veranderd, ziet CTO Bruno De Bus. Licentiewijzigingen, een verschuiving naar Chinese contributors en supply chain-aanvallen hebben de spelregels veranderd. Het onmisbare open source vereist,...",
    "url": "https://www.techzine.nl/blogs/analytics/583504/vertrouw-niet-blind-op-open-source-maar-neem-de-regie/"
+  },
+  {
+   "id": "225ab7984001",
+   "titel": "Announcing support for Materialized views and streaming tables in Mirrored Azure Databricks catalog",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-03",
+   "samenvatting": "Access more Unity Catalog objects through the existing mirrored catalog experience in Microsoft Fabric We are expanding Mirrored Azure Databricks catalogs in Microsoft Fabric to support materialized views and streaming tables alongside tables. These objects remain created and managed in Azure Dat...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Announcing-support-for-Materialized-views-and-streaming-tables/ba-p/5377928"
+  },
+  {
+   "id": "ff99bb7dd341",
+   "titel": "Dataverse goes where you build: Copilot Cowork, coding agents and n8n",
+   "categorie": "Automatisering",
+   "bron": "Microsoft Power Platform Blog (Power Automate)",
+   "taal": "en",
+   "datum": "2026-11-02",
+   "samenvatting": "The Dataverse plugin and native integrations now reach Copilot Cowork, GitHub Copilot, Claude, Codex and ChatGPT, Cursor, Gemini CLI, Google Antigravity and n8n, so developers and makers get the same trusted business data and guardrails in the tools they already use. The post Dataverse goes where...",
+   "url": "https://www.microsoft.com/en-us/power-platform/blog/2026/11/02/dataverse-for-coding-agents-n8n-copilot-cowork/"
   },
   {
    "id": "d38d58f36394",
@@ -179,16 +319,6 @@
    "datum": "2026-11-02",
    "samenvatting": "Start with the question, not a blank dashboard Which transit stations are sending the most fans toward a stadium? How does that incoming demand compare with activity at the gates? Where are queues building? Answering these operational questions traditionally requires translating them into tables,...",
    "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-a-prompt-to-an-operational-dashboard-Generate-Real-Time/ba-p/5380258"
-  },
-  {
-   "id": "4ccf04047cf8",
-   "titel": "Bring insights and action together with Fabric Apps in Org apps",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-11-02",
-   "samenvatting": "Business users move from understanding what happened, to investigating why, to acting. Microsoft Fabric can bring that journey together. Fabric Apps provide purpose-built, data-driven experiences when users need more than a report. Org apps distribute them alongside Power BI reports and other sup...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-insights-and-action-together-with-Fabric-Apps-in-Org-apps/ba-p/5377690"
   },
   {
    "id": "4473a020f5f2",
@@ -2789,16 +2919,6 @@
    "datum": "2026-09-07",
    "samenvatting": "We’re excited to announce that the Standard Data Model (SDM) to Enhanced Data Model (EDM) migration utility in Microsoft Power Platform CLI is now generally available (GA) and it now also supports four key Dynamics 365 portal templates: New sites using these templates could be provisioned on EDM...",
    "url": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/enhanced-data-model-migration-utility-now-generally-available-with-dynamics-365-portal-templates-support/"
-  },
-  {
-   "id": "e02f4de57b90",
-   "titel": "Nieuw tijdperk van superintelligente AI aangebroken, zegt OpenAI",
-   "categorie": "AI",
-   "bron": "NOS Tech",
-   "taal": "nl",
-   "datum": "2026-09-04",
-   "samenvatting": "Er is een nieuw tijdperk aangebroken in de wereld van kunstmatige intelligentie (AI), zegt topman Greg Brockman van OpenAI, het bedrijf achter ChatGPT. Hij heeft het over 'AGI', de afkorting van artificial general intelligence: kunstmatige algemene intelligentie. Daarvan is volgens het bedrijf sp...",
-   "url": "https://nos.nl/l/2629704"
   }
  ]
 }
