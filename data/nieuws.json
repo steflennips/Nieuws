@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-04T11:45:09+00:00",
+ "bijgewerkt": "2026-11-05T11:43:28+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 4,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -81,6 +81,96 @@
  ],
  "items": [
   {
+   "id": "f4966433ed78",
+   "titel": "OpenAI-model vindt 948 root-exploits in Linux-kernel",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-05",
+   "samenvatting": "Een nog niet uitgebracht model van OpenAI heeft in één run 948 (!) local privilege escalation-kwetsbaarheden in de Linux-kernel gevonden en uitgebuit. Het kostte 1,2 miljoen dollar als OpenAI zichzelf had betaald op basis van API-credits. Het systeem schreef voor elke kwetsbaarheid ook een patch....",
+   "url": "https://www.techzine.nl/nieuws/security/583685/openai-model-vindt-948-root-exploits-in-linux-kernel/"
+  },
+  {
+   "id": "f1a866460bf8",
+   "titel": "Accenture beschuldigd van publicatie rapport vol ai-hallucinaties",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-05",
+   "samenvatting": "Accenture wordt ervan beschuldigd mee te hebben gewerkt aan een rapport dat vol fouten zou staan die wijzen op ai-hallucinaties. De adviesreus bevestigt vol dat dit onderzoek over het potentieel van ai-landbouw in Afrika gaat om menselijke fouten, zo bericht de Financial Times.",
+   "url": "https://www.computable.nl/2026/11/05/accenture-beschuldigd-van-publicatie-van-rapport-vol-ai-hallucinaties/"
+  },
+  {
+   "id": "d0a9407d70e2",
+   "titel": "Moderne DCIM in het AI-tijdperk: waarom CIO’s behoefte hebben aan zichtbaarheid, intelligentie en cloudgebaseerde controle",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-05",
+   "samenvatting": "Naarmate AI steeds dieper wordt geïntegreerd in digitale infrastructuren, neemt de complexiteit van datacenteromgevingen snel toe. Hogere vermogensdichtheden, hybride IT-landschappen en strengere eisen rond beschikbaarheid vragen om een nieuwe aanpak van infrastructuurbeheer. Daarom kijken CIO’s...",
+   "url": "https://www.techzine.nl/experts/infrastructure/583679/moderne-dcim-in-het-ai-tijdperk-waarom-cios-behoefte-hebben-aan-zichtbaarheid-intelligentie-en-cloudgebaseerde-controle/"
+  },
+  {
+   "id": "87d364513ae8",
+   "titel": "Meta koopt Conductor om teams aan AI-agents op code los te laten",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-05",
+   "samenvatting": "Meta heeft Conductor overgenomen, een startup die meerdere AI-agents tegelijk aan softwareprojecten laat werken. De cloudservice van Conductor, die pas deze zomer begon, stopt al op 20 november. Meta heeft de overname van Conductor bevestigd aan TechCrunch, maar wil verder niets kwijt over de dea...",
+   "url": "https://www.techzine.nl/nieuws/applications/583669/meta-koopt-conductor-om-teams-aan-ai-agents-op-code-los-te-laten/"
+  },
+  {
+   "id": "6e7c62629f44",
+   "titel": "Anthropic plant Europees ai-adviesbedrijf",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-05",
+   "samenvatting": "Anthropic zou samen met de Londense private-equitygroep Hg een onafhankelijk adviesbedrijf oprichten dat ai-consultants en -ingenieurs bij Europese organisaties inzet. De ambitie van beide partijen is duidelijk: een miljardenbedrijf uitbouwen.",
+   "url": "https://www.computable.nl/2026/11/05/anthropic-plant-europees-ai-adviesbedrijf/"
+  },
+  {
+   "id": "5984e42858b9",
+   "titel": "SAP zet in op Joule: van assistent naar uitvoerder van bedrijfsprocessen",
+   "categorie": "Automatisering",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-05",
+   "samenvatting": "Softwarebedrijf SAP wil dat Joule de centrale plek wordt waar medewerkers hun dagelijkse werk aansturen. Op ontwikkelaarsconferentie TechEd maakte het softwarebedrijf duidelijk dat zijn ai-oplossing niet langer een losse assistent is, maar een intelligente laag.",
+   "url": "https://www.computable.nl/2026/11/05/sap-zet-in-op-joule-van-assistent-naar-uitvoerder-van-bedrijfsprocessen/"
+  },
+  {
+   "id": "fdd5d7528171",
+   "titel": "Bring your Fabric data into your next app with connectors",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-04",
+   "samenvatting": "Most business applications start with data that already exists. Customer orders may live in a Fabric SQL database. Inventory history may be in a Lakehouse. Sales performance may already be modeled in Power BI. The opportunity is not to move that data again, but to turn trusted data into an experi...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-your-Fabric-data-into-your-next-app-with-connectors/ba-p/5377609"
+  },
+  {
+   "id": "eb6fb91698c7",
+   "titel": "Find expensive queries from Capacity Metrics (Generally Available)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-04",
+   "samenvatting": "When warehouse capacity usage spikes, you need to quickly understand what ran, which warehouse drove the usage, and which queries require investigation. The Monitor in warehouse action in the Microsoft Fabric Capacity Metrics app connects the capacity-level view directly to Warehouse Monitor. It...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Find-expensive-queries-from-Capacity-Metrics-Generally-Available/ba-p/5393588"
+  },
+  {
+   "id": "e23fad0ddde8",
+   "titel": "Eventhouse support for OneLake security (Generally Available)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-04",
+   "samenvatting": "Security should be consistent wherever you query your data. With OneLake security, you can define access controls once, close to the data, and apply them across supported Microsoft Fabric engines without recreating your security rules for each experience. Today, we’re announcing the general avail...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Eventhouse-support-for-OneLake-security-Generally-Available/ba-p/5377875"
+  },
+  {
    "id": "d90738661855",
    "titel": "It-teams groeien ondanks opmars van ai",
    "categorie": "AI",
@@ -89,6 +179,56 @@
    "datum": "2026-11-04",
    "samenvatting": "Artificiële intelligentie zorgt niet voor minder, maar voor meer vraag naar it-talent. Volgens onderzoek van Randstad breiden bijna negen op tien werkgevers wereldwijd het it-team uit. ‘Ai zal it-talent niet vervangen’, zo klinkt het.",
    "url": "https://www.computable.nl/2026/11/04/it-teams-groeien-ondanks-opmars-van-ai/"
+  },
+  {
+   "id": "a72fbd9496d2",
+   "titel": "Salesforce Data 360 integration with OneLake (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-04",
+   "samenvatting": "A customer reports a missing delivery. The service case is in Salesforce, while the shipping and returns records are in Microsoft Fabric. Before a team can decide what to do next, it needs to connect those two views of the same customer experience. For many organizations, answering questions like...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Salesforce-Data-360-integration-with-OneLake-Preview/ba-p/5384626"
+  },
+  {
+   "id": "5fd8826afd3f",
+   "titel": "Google Agentic Data Cloud krijgt cross-cloud Lakehouse",
+   "categorie": "Data",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-04",
+   "samenvatting": "Google Cloud brengt een reeks updates voor zijn Agentic Data Cloud uit. De borderless Lakehouse voert nu queries uit op data in AWS en Azure zonder variabele egress-kosten. Ook Knowledge Catalog, AlloyDB en BigQuery krijgen nieuwe functies die AI-agents nauwkeuriger en goedkoper moeten laten werk...",
+   "url": "https://www.techzine.nl/nieuws/analytics/583626/google-agentic-data-cloud-krijgt-cross-cloud-lakehouse/"
+  },
+  {
+   "id": "3cf817db3b41",
+   "titel": "OneLake table APIs: Now with Iceberg writes, plus richer table metadata (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-04",
+   "samenvatting": "OneLake table APIs already let Iceberg-compatible engines discover and read tables in Microsoft Fabric. Today we're taking the next step with two additions: Iceberg REST Catalog (IRC) writes through the OneLake table endpoint, now available, and a new additional table metadata API, in preview, fo...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-table-APIs-Now-with-Iceberg-writes-plus-richer-table/ba-p/5391262"
+  },
+  {
+   "id": "36de4c5caa8a",
+   "titel": "80 procent van organisaties loopt achter met de uitrol van AI-agents",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-04",
+   "samenvatting": "Afgaande op hun eigen planning halen organisaties in 80 procent van de gevallen de doelstellingen voor de uitrol van AI-agents niet. Het zojuist gepubliceerde Customer Identity Trends Report voor 2026 van Okta legt de vinger op de zere plek bij deze vertraging. Slechts 38 procent onder consumente...",
+   "url": "https://www.techzine.nl/nieuws/security/583625/80-procent-van-organisaties-loopt-achter-met-de-uitrol-van-ai-agents/"
+  },
+  {
+   "id": "2fe4fbe32c22",
+   "titel": "Govern Fabric connections with admin APIs and data connection policies (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-04",
+   "samenvatting": "Co-author: Abhishek Narain Protect continuity, understand connection risk, and set tenant-wide guardrails Imagine that the person who built a business-critical pipeline has left your organization. The connection still exists, but nobody is sure who can manage it or whether its credentials will ke...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Govern-Fabric-connections-with-admin-APIs-and-data-connection/ba-p/5383656"
   },
   {
    "id": "2b5ece59e3c6",
