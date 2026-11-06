@@ -1,12 +1,12 @@
 {
- "bijgewerkt": "2026-11-05T11:43:28+00:00",
+ "bijgewerkt": "2026-11-06T11:41:39+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
    "status": "OK",
    "items": 20,
-   "bewaard": 7,
-   "verouderd": 13,
+   "bewaard": 8,
+   "verouderd": 11,
    "geweigerd": 0
   },
   {
@@ -37,9 +37,9 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 10,
-   "verouderd": 15,
-   "geweigerd": 3
+   "bewaard": 11,
+   "verouderd": 14,
+   "geweigerd": 4
   },
   {
    "feed": "n8n Blog (workflow-automatisering)",
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 7,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 7,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -80,6 +80,66 @@
   }
  ],
  "items": [
+  {
+   "id": "f30b66197ed1",
+   "titel": "Kort: EU schakelt Capgemini in voor studie naar ai-cyberrisico’s, VodafoneZiggo groeit weer (en meer)",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-06",
+   "samenvatting": "Capgemini leidt EU-consortium voor beoordeling ai-veiligheid, VodafoneZiggo boekt voor het eerst in twee jaar omzetgroei, Speer IT wil Europa veroveren, onderwijsbedrijven bundelen krachten voor digitale soevereiniteit, en TOPdesk haalt Cegeka binnen als reseller.",
+   "url": "https://www.computable.nl/2026/11/06/kort-eu-schakelt-capgemini-in-voor-studie-naar-ai-cyberrisicos-vodafoneziggo-groeit-weer-en-meer/"
+  },
+  {
+   "id": "bd83abe80111",
+   "titel": "Cloudflare-CEO: merendeel websites lijdt onder AI-agents",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-06",
+   "samenvatting": "De Cloudflare-koers was opvallend positief na het sluiten van de beurs. Ondanks een bredere koersval van jewelste is het aandeel van de CDN-provider alweer meer dan hersteld. Hetzelfde positieve gevoel ontbrak bij de omschrijving van agents als traffic-generator door Cloudflare-CEO Matthew Prince...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583712/cloudflare-ceo-merendeel-websites-lijdt-onder-ai-agents/"
+  },
+  {
+   "id": "aa9760574add",
+   "titel": "OpenAI onthult GPT-6 Cyber: Astra-vaardigheden voor securitywerk",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-06",
+   "samenvatting": "Het model van OpenAI dat deze week 948 Linux-exploits vond, blijkt GPT-6 Cyber te heten. Deze LLM vervangt GPT-5.6 Sol als motorblok achter de securityinitiatieven van het AI-bedrijf. Ondanks de sterkere capaciteiten om kwetsbaarheden te exploiteren en de grotere autonomie, blijft het nieuwe Cybe...",
+   "url": "https://www.techzine.nl/nieuws/security/583702/openai-onthult-gpt-6-cyber-astra-vaardigheden-voor-securitywerk/"
+  },
+  {
+   "id": "80f1539cc322",
+   "titel": "Techaandelen storten in: correctie of begint de AI-bubbel te barsten?",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-06",
+   "samenvatting": "Menig techbedrijf likt zijn wonden na een enorme inzinking op de beurs. De forse daling van beurswaardes komt voort uit twijfels over de AI-uitbouw op de langere termijn én nieuwe onzekerheid over het politieke draagvlak voor datacenters in de VS. Wie verloor het meest en waarom? En waarom ontspr...",
+   "url": "https://www.techzine.nl/blogs/infrastructure/583720/techaandelen-storten-in-correctie-of-begint-de-ai-bubbel-te-barsten/"
+  },
+  {
+   "id": "75a1a791ab34",
+   "titel": "Kiro laat AI-bots continu autonoom software bouwen",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-06",
+   "samenvatting": "Kiro lanceert een nieuwe generatie AI-bots. Ze zijn ontworpen om doorlopende softwareontwikkeltaken uit te voeren met minder menselijke tussenkomst. De bots zijn nu algemeen beschikbaar in Kiro Crew. Ze kunnen meerdere AI-agents coördineren en projectkennis onderhouden en voeren terugkerende take...",
+   "url": "https://www.techzine.nl/nieuws/devops/583705/kiro-laat-ai-bots-continu-autonoom-software-bouwen/"
+  },
+  {
+   "id": "187d9ded9f08",
+   "titel": "Zwolse ambtenaren krijgen ai‑agenten als collega",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-06",
+   "samenvatting": "Waarschijnlijk krijgen Zwolse ambtenaren nog voor de jaarwisseling een ai-agent als collega. Dat vertelt de gemeente tijdens een Wortell-evenement.",
+   "url": "https://www.computable.nl/2026/11/06/zwolse-ambtenaren-krijgen-ai-agent-als-collega/"
+  },
   {
    "id": "f4966433ed78",
    "titel": "OpenAI-model vindt 948 root-exploits in Linux-kernel",
@@ -139,6 +199,86 @@
    "datum": "2026-11-05",
    "samenvatting": "Softwarebedrijf SAP wil dat Joule de centrale plek wordt waar medewerkers hun dagelijkse werk aansturen. Op ontwikkelaarsconferentie TechEd maakte het softwarebedrijf duidelijk dat zijn ai-oplossing niet langer een losse assistent is, maar een intelligente laag.",
    "url": "https://www.computable.nl/2026/11/05/sap-zet-in-op-joule-van-assistent-naar-uitvoerder-van-bedrijfsprocessen/"
+  },
+  {
+   "id": "5673f63258aa",
+   "titel": "Power BI reports support OAP exceptions for semantic models in separate workspaces (Preview)",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-11-05",
+   "samenvatting": "Workspace outbound access protection (OAP) helps you control where data in a Microsoft Fabric workspace can flow. The initial preview for Power BI reports, launched in June, required a report in an OAP-protected workspace to use a semantic model in that same workspace. Customer feedback highlight...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-reports-support-OAP-exceptions-for-semantic-models-in/ba-p/5377907"
+  },
+  {
+   "id": "44ca3192fcc0",
+   "titel": "Wolters Kluwer versnelt ai-innovatie",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-05",
+   "samenvatting": "Wolters Kluwer boekt solide resultaten en stevent recht af op het behalen van de jaardoelen voor 2026. Met een organische groei van 6 procent (zonder het effect van overnames) in de eerste negen maanden ligt het databedrijf op koers. De operationele winst steeg 10 procent in constante valuta.",
+   "url": "https://www.computable.nl/2026/11/05/wolters-kluwer-versnelt-ai-innovatie/"
+  },
+  {
+   "id": "3f8664fcabdf",
+   "titel": "Build more connected workflows with Fabric Actions and Business Actions in Fabric Pipelines (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-05",
+   "samenvatting": "Modern data workflows rarely stop at moving and transforming data. Once data is ready, you may need to trigger another operation in Fabric, refresh a semantic model, update a business application, send a notification, generate a document, or kick off the next step in a business process. With Fabr...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-more-connected-workflows-with-Fabric-Actions-and-Business/ba-p/5377911"
+  },
+  {
+   "id": "3b1aa647a1b3",
+   "titel": "Use OneLake as native storage for Azure Databricks (Generally Available)",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-05",
+   "samenvatting": "Organizations increasingly use Microsoft Fabric and Azure Databricks together so teams can choose the tools that best fit their data engineering, analytics, and AI workloads while working from a common data foundation. OneLake external-location support for Azure Databricks Unity Catalog is now Ge...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-OneLake-as-native-storage-for-Azure-Databricks-Generally/ba-p/5377939"
+  },
+  {
+   "id": "34f2b721fdab",
+   "titel": "Fujitsu ziet toekomst in dynamische samenwerking tussen mens, ai en robots",
+   "categorie": "Automatisering",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-05",
+   "samenvatting": "Fujitsu verwacht dat ai en robots steeds meer taken overnemen én samen met mensen bedrijfsprocessen aansturen. Tijdens Fujitsu Tech Open House in Madrid presenteerde de Japanse ict-groep zijn visie op deze ‘dynamic transformation’.",
+   "url": "https://www.computable.nl/2026/11/05/fujitsu-ziet-toekomst-in-dynamische-samenwerking-tussen-mens-ai-en-robots/"
+  },
+  {
+   "id": "3244615a8462",
+   "titel": "Regular expression functions in Microsoft Fabric Data Warehouse (Preview)",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-05",
+   "samenvatting": "Data warehouses routinely ingest valuable information embedded in free text, where inconsistent structure makes it difficult to query, connect, and analyze. Incoming values can also require quality checks before they reach curated tables. Microsoft Fabric Data Warehouse and the SQL analytics endp...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Regular-expression-functions-in-Microsoft-Fabric-Data-Warehouse/ba-p/5382375"
+  },
+  {
+   "id": "1b49d2403e15",
+   "titel": "From Feedback to Action: How our Digital Success Team Automated Issue Triage with Camunda",
+   "categorie": "Automatisering",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-11-05",
+   "samenvatting": "When organizations invest in Camunda, it's often to solve a specific business challenge. Maybe it's orchestrating a complex financial process, connecting systems across the business, or automating a mission-critical workflow.",
+   "url": "https://camunda.com/blog/2026/11/from-feedback-to-action-how-our-digital-success-team-automated-issue-triage/"
+  },
+  {
+   "id": "13fcd7f950a5",
+   "titel": "Box Architect bouwt agentic workflows met bedrijfscontent",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-05",
+   "samenvatting": "Box introduceert Box Architect, een tool die agentic workflows ontwerpt, test en beheert op basis van content die al in Box staat. Daarnaast werkt het bedrijf aan threat protection tegen aanvallen via agents. Nieuwe security controls voor agents zijn per direct beschikbaar. Met Box Architect moet...",
+   "url": "https://www.techzine.nl/nieuws/collaboration/583697/box-architect-bouwt-agentic-workflows-met-bedrijfscontent/"
   },
   {
    "id": "fdd5d7528171",
