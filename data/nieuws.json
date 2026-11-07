@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-06T11:41:39+00:00",
+ "bijgewerkt": "2026-11-07T10:47:46+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -13,7 +13,7 @@
    "feed": "Microsoft Fabric Blog",
    "status": "OK",
    "items": 20,
-   "bewaard": 20,
+   "bewaard": 19,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 7,
+   "bewaard": 6,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 7,
+   "bewaard": 6,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -101,6 +101,16 @@
    "url": "https://www.techzine.nl/nieuws/infrastructure/583712/cloudflare-ceo-merendeel-websites-lijdt-onder-ai-agents/"
   },
   {
+   "id": "aca6b5bf5b82",
+   "titel": "AI in Europa draait om vertrouwen, niet om technologie",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-06",
+   "samenvatting": "Vertrouwen is het grote thema van dit moment als het om AI gaat. Ook Atlassian erkent dat. Tijdens Atlassian Team ’26 Europe spraken we met Sergiu Petean, Field CTO EMEA bij Atlassian, over waarom het bij de AI-race in Europa veel meer om vertrouwen gaat dan om mogelijkheden. En wat doet Atlassia...",
+   "url": "https://www.techzine.nl/blogs/devops/583746/ai-in-europa-draait-om-vertrouwen-niet-om-mogelijkheden/"
+  },
+  {
    "id": "aa9760574add",
    "titel": "OpenAI onthult GPT-6 Cyber: Astra-vaardigheden voor securitywerk",
    "categorie": "AI",
@@ -109,6 +119,16 @@
    "datum": "2026-11-06",
    "samenvatting": "Het model van OpenAI dat deze week 948 Linux-exploits vond, blijkt GPT-6 Cyber te heten. Deze LLM vervangt GPT-5.6 Sol als motorblok achter de securityinitiatieven van het AI-bedrijf. Ondanks de sterkere capaciteiten om kwetsbaarheden te exploiteren en de grotere autonomie, blijft het nieuwe Cybe...",
    "url": "https://www.techzine.nl/nieuws/security/583702/openai-onthult-gpt-6-cyber-astra-vaardigheden-voor-securitywerk/"
+  },
+  {
+   "id": "a2263e22e675",
+   "titel": "De krachtigste lokale AI leunt op full-stack support",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-06",
+   "samenvatting": "De kosten van AI-gebruik hebben tot uiteenlopende ideeën geleid rondom ’tokenomics’. De enige manier om de controle over AI-kosten te houden, is door te kiezen voor lokale rekenkracht. ASUS biedt hiervoor een eigen AI-supercomputer aan, inclusief volledig beheer van de AI-modellen en -workloads....",
+   "url": "https://www.techzine.nl/blogs/devices/583400/de-krachtigste-lokale-ai-leunt-op-full-stack-support/"
   },
   {
    "id": "80f1539cc322",
@@ -121,6 +141,16 @@
    "url": "https://www.techzine.nl/blogs/infrastructure/583720/techaandelen-storten-in-correctie-of-begint-de-ai-bubbel-te-barsten/"
   },
   {
+   "id": "76921ffcefb1",
+   "titel": "Join us at FABCON + SQLCON 2027 in Atlanta and save",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-06",
+   "samenvatting": "Planning to join us at FABCON + SQLCON 2027? Register by November 13 to save $300 with early-access pricing, and use code MSCMTY to save an additional $200. Plus, a limited number of buy one, get one (BOGO) offers are available. Ask your account team or Fabric partner to find out how to get one....",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Join-us-at-FABCON-SQLCON-2027-in-Atlanta-and-save/ba-p/5400304"
+  },
+  {
    "id": "75a1a791ab34",
    "titel": "Kiro laat AI-bots continu autonoom software bouwen",
    "categorie": "AI",
@@ -129,6 +159,36 @@
    "datum": "2026-11-06",
    "samenvatting": "Kiro lanceert een nieuwe generatie AI-bots. Ze zijn ontworpen om doorlopende softwareontwikkeltaken uit te voeren met minder menselijke tussenkomst. De bots zijn nu algemeen beschikbaar in Kiro Crew. Ze kunnen meerdere AI-agents coördineren en projectkennis onderhouden en voeren terugkerende take...",
    "url": "https://www.techzine.nl/nieuws/devops/583705/kiro-laat-ai-bots-continu-autonoom-software-bouwen/"
+  },
+  {
+   "id": "5b0dd4e2bc31",
+   "titel": "Kabinet wil ai-ontwikkeling meer sturen",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-06",
+   "samenvatting": "Kabinet wil ai-ontwikkeling meer sturen Het kabinet wil de ontwikkeling van ai niet afwachten, maar er zelf richting aan geven. Gekozen wordt voor een sterke Nederlandse en Europese positie in ai, meer ruimte voor ontwikkeling en toepassing en meer grip op de gevolgen voor mensen en de samenleving.",
+   "url": "https://www.computable.nl/2026/11/06/kabinet-wil-ai-ontwikkeling-meer-sturen/"
+  },
+  {
+   "id": "4258b9752652",
+   "titel": "Kyndryl: AI-ambities lopen voor op IT-modernisering",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-06",
+   "samenvatting": "Ruim de helft van de Nederlandse organisaties loopt achter op de planning voor IT-modernisering, terwijl AI de prioriteiten volledig omgooit. Agentic AI moet de vernieuwing versnellen, maar slechts 5 procent zet de technologie breed in productie in. Dat blijkt uit onderzoek van Kyndryl. De conclu...",
+   "url": "https://www.techzine.nl/nieuws/analytics/583735/kyndryl-ai-ambities-lopen-voor-op-it-modernisering/"
+  },
+  {
+   "id": "24f79650f6ec",
+   "titel": "Brits NCSC waarschuwt: ai legt oude beveiligingsproblemen bloot",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-06",
+   "samenvatting": "Niet de nieuwste aanvalstechniek, maar achterstallig onderhoud vormt de grootste uitdaging voor cyberveiligheid. Met die waarschuwing komt het Britse National Cyber Security Centre (NCSC) in zijn jaaroverzicht 2026, getiteld ‘The State of the Cyber Nation’.",
+   "url": "https://www.computable.nl/2026/11/06/brits-ncsc-waarschuwt-ai-legt-oude-beveiligingsproblemen-bloot/"
   },
   {
    "id": "187d9ded9f08",
@@ -3189,16 +3249,6 @@
    "datum": "2026-09-08",
    "samenvatting": "Is the extra complexity of AI worth adding to a process? Here's how to tell where AI creates value and where it doesn’t, with examples, numbers, and one simple checklist.",
    "url": "https://camunda.com/blog/2026/09/where-ai-really-creates-value-and-where-it-doesnt/"
-  },
-  {
-   "id": "92a3dfbc709b",
-   "titel": "Enhanced Data Model Migration Utility Now Generally Available, with Dynamics 365 Portal Templates Support",
-   "categorie": "Data",
-   "bron": "Microsoft Power Platform Blog (Power Automate)",
-   "taal": "en",
-   "datum": "2026-09-07",
-   "samenvatting": "We’re excited to announce that the Standard Data Model (SDM) to Enhanced Data Model (EDM) migration utility in Microsoft Power Platform CLI is now generally available (GA) and it now also supports four key Dynamics 365 portal templates: New sites using these templates could be provisioned on EDM...",
-   "url": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/enhanced-data-model-migration-utility-now-generally-available-with-dynamics-365-portal-templates-support/"
   }
  ]
 }
