@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-07T10:47:46+00:00",
+ "bijgewerkt": "2026-11-08T10:54:01+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 11,
-   "verouderd": 14,
+   "bewaard": 10,
+   "verouderd": 15,
    "geweigerd": 4
   },
   {
@@ -74,12 +74,22 @@
    "feed": "NOS Tech",
    "status": "OK",
    "items": 20,
-   "bewaard": 4,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 2
   }
  ],
  "items": [
+  {
+   "id": "5b313467ce77",
+   "titel": "In Liechtenstein is de publieke omroep ingeruild voor goedkopere AI-radio",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-11-07",
+   "samenvatting": "Het is bijna als bij zoveel andere radiostations in Europa en in de rest van de wereld: elk uur of halfuur klinkt een deuntje en leest een presentator het radionieuws voor. Zo ook in het kleine Alpenland Liechtenstein. \"Elf uur, met nu: het nieuws\", klinkt het op Radio Vaterland. Maar de eerste z...",
+   "url": "https://nos.nl/l/2638489"
+  },
   {
    "id": "f30b66197ed1",
    "titel": "Kort: EU schakelt Capgemini in voor studie naar ai-cyberrisico’s, VodafoneZiggo groeit weer (en meer)",
@@ -3239,16 +3249,6 @@
    "datum": "2026-09-09",
    "samenvatting": "Drie grote Amerikaanse veiligheidsdiensten beschuldigen Chinese AI-bedrijven van het op grote schaal kopiëren van AI-modellen van Amerikaanse bedrijven. Deze \"agressieve en kwaadaardige\" praktijken vormen volgens de veiligheidsdiensten \"de kern\" van de ontwikkeling van Chinese AI-technologie. De...",
    "url": "https://nos.nl/l/2630302"
-  },
-  {
-   "id": "f7ac26701016",
-   "titel": "Where AI Really Creates Value and Where It Doesn't",
-   "categorie": "AI",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-09-08",
-   "samenvatting": "Is the extra complexity of AI worth adding to a process? Here's how to tell where AI creates value and where it doesn’t, with examples, numbers, and one simple checklist.",
-   "url": "https://camunda.com/blog/2026/09/where-ai-really-creates-value-and-where-it-doesnt/"
   }
  ]
 }
