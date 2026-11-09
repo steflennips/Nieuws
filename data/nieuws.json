@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-08T10:54:01+00:00",
+ "bijgewerkt": "2026-11-09T12:20:54+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 10,
-   "verouderd": 15,
+   "bewaard": 9,
+   "verouderd": 16,
    "geweigerd": 4
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 6,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -80,6 +80,76 @@
   }
  ],
  "items": [
+  {
+   "id": "c4d705383266",
+   "titel": "Linux-ontwikkelaars krijgen meer grip op AI-bugs",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-09",
+   "samenvatting": "Vorige week gaf Linus Torvalds de eerste release candidate vrij van Linux 7.4, met een groot aantal wijzigingen en een lange ontwikkelperiode. Zondag volgde rc2. Hoewel ook die ongewoon veel wijzigingen telt, zijn de meeste aanpassingen volgens Torvalds niet heel ingrijpend. Volgens de Linux-opri...",
+   "url": "https://www.techzine.nl/nieuws/devops/583758/linux-ontwikkelaars-krijgen-meer-grip-op-ai-bugs/"
+  },
+  {
+   "id": "7da655b8e978",
+   "titel": "Nationale database voor dronevluchten",
+   "categorie": "Data",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-09",
+   "samenvatting": "Het kabinet werkt aan een nationale database voor dronevluchten in Nederland. Het initiatief volgt op een reeks incidenten in 2025 met ongeautoriseerde drones bij onder andere Eindhoven Airport en Defensie-vliegbases. Doel is het samenbrengen van nu nog versnipperde data.",
+   "url": "https://www.computable.nl/2026/11/09/nationale-database-voor-dronevluchten/"
+  },
+  {
+   "id": "361edd8beb23",
+   "titel": "‘Ai vormt de grootste bedreiging voor grensbeveiliging’",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-09",
+   "samenvatting": "Artificiële intelligentie vormt de grootste bedreiging voor grensbeveiliging. Dat is de belangrijkste conclusie van de top van de Global Identity Trust Association. Identiteit kan dankzij ai beter vervalst worden, terwijl er aan de grens gemiddeld slechts 12 seconden tijd is voor een controle.",
+   "url": "https://www.computable.nl/2026/11/09/ai-vormt-de-grootste-bedreiging-voor-grensbeveiliging/"
+  },
+  {
+   "id": "25575b30c5ca",
+   "titel": "Hoe Huawei bedrijfsnetwerken laat innoveren met AI",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-09",
+   "samenvatting": "Tijdens Huawei Connect in Florence legde Dennis Tossijn, ICT Network CTO bij Huawei Benelux en Ierland, uit hoe AI zorgt voor veranderingen in netwerktechnologie. Daarbij speelt glasvezel in plaats van koper een steeds grotere rol, maar ook geïntegreerde IoT-oplossingen en quantum-ready encryptie...",
+   "url": "https://www.techzine.nl/blogs/infrastructure/583766/hoe-huawei-bedrijfsnetwerken-laat-innoveren-met-ai/"
+  },
+  {
+   "id": "12f58948ccd9",
+   "titel": "Cybersecurity in transformatie: hoe Nederlandse organisaties zich voorbereiden op AI-gedreven dreigingen",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-09",
+   "samenvatting": "Het cybersecuritylandschap verandert snel. Nederlandse organisaties verschuiven hun prioriteiten onder invloed van twee krachten die elkaar versterken: de opkomst van Frontier AI-modellen die cyberaanvallen versnellen, en de groeiende complexiteit van toeleveringsketens. De grootste uitdaging zit...",
+   "url": "https://www.techzine.nl/experts/security/583777/cybersecurity-in-transformatie-hoe-nederlandse-organisaties-zich-voorbereiden-op-ai-gedreven-dreigingen/"
+  },
+  {
+   "id": "0eeed598ebea",
+   "titel": "Anthropic koopt voor miljarden gasgeneratoren voor datacenters",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-09",
+   "samenvatting": "Anthropic heeft eind september voor 3,4 miljard dollar aan zware gasgeneratoren gekocht, goed voor 1,7 gigawatt. Het bedrijf nam de Caterpillar-orders over van leverancier OnePWR Solutions. Dat melden bronnen van Financial Times. De deal werd gesloten met OnePWR Solutions, een leverancier van app...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583788/anthropic-koopt-voor-miljarden-gasgeneratoren-voor-datacenters/"
+  },
+  {
+   "id": "9827e456c2b8",
+   "titel": "Send contracts for e-signature from n8n, with TurboDocx, Slack approval and SharePoint filing",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-11-08",
+   "samenvatting": "This Verified Node Spotlight is a guest post written by Nicolas Fry, CEO of TurboDocx. The deal is closed and the contract is ready. It's been sitting in someone's inbox for three days, waiting for an \"OK, send it.\" Once it's finally",
+   "url": "https://blog.n8n.io/spotlight-turbodocx/"
+  },
   {
    "id": "5b313467ce77",
    "titel": "In Liechtenstein is de publieke omroep ingeruild voor goedkopere AI-radio",
@@ -209,6 +279,16 @@
    "datum": "2026-11-06",
    "samenvatting": "Waarschijnlijk krijgen Zwolse ambtenaren nog voor de jaarwisseling een ai-agent als collega. Dat vertelt de gemeente tijdens een Wortell-evenement.",
    "url": "https://www.computable.nl/2026/11/06/zwolse-ambtenaren-krijgen-ai-agent-als-collega/"
+  },
+  {
+   "id": "0c009dade4f4",
+   "titel": "Create and edit non-SPA Power Pages sites with Agentic Coding tools",
+   "categorie": "AI",
+   "bron": "Microsoft Power Platform Blog (Power Automate)",
+   "taal": "en",
+   "datum": "2026-11-06",
+   "samenvatting": "We’re pleased to introduce preview support for Power Pages sites built with web templates and Liquid (non-SPA or traditional portals). With the Power Pages plugin for GitHub Copilot CLI and Claude Code, describe the site you want to create or edit. The plugin helps you build pages, update content...",
+   "url": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/create-and-edit-non-spa-power-pages-sites-with-agentic-coding-tools/"
   },
   {
    "id": "f4966433ed78",
@@ -3229,26 +3309,6 @@
    "datum": "2026-09-10",
    "samenvatting": "In December, we announced the retirement of Power BI Q&A, our legacy natural-language querying experience, with retirement planned for December 2026. To give current Q&A user's additional time to assess their dependencies and transition to newer Copilot-powered solutions, we’re extending the reti...",
    "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Q-A-retirement-reminder-February-2027-timeline-update/ba-p/5365841"
-  },
-  {
-   "id": "e19c28555af6",
-   "titel": "The Data Says It: AI Isn't Failing You. Your Processes Are",
-   "categorie": "Automatisering",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-09-09",
-   "samenvatting": "Legacy business processes are causing AI initiatives to fail at a staggering rate. Let’s talk about process re-engineering.",
-   "url": "https://camunda.com/blog/2026/09/the-data-says-it-ai-isnt-failing-you-your-processes-are/"
-  },
-  {
-   "id": "4210c14c81d7",
-   "titel": "VS beschuldigt Chinese AI-bedrijven van massaal kopiëren van technologie",
-   "categorie": "AI",
-   "bron": "NOS Tech",
-   "taal": "nl",
-   "datum": "2026-09-09",
-   "samenvatting": "Drie grote Amerikaanse veiligheidsdiensten beschuldigen Chinese AI-bedrijven van het op grote schaal kopiëren van AI-modellen van Amerikaanse bedrijven. Deze \"agressieve en kwaadaardige\" praktijken vormen volgens de veiligheidsdiensten \"de kern\" van de ontwikkeling van Chinese AI-technologie. De...",
-   "url": "https://nos.nl/l/2630302"
   }
  ]
 }
