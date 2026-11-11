@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-10T11:56:55+00:00",
+ "bijgewerkt": "2026-11-11T11:35:27+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 7,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -81,6 +81,76 @@
  ],
  "items": [
   {
+   "id": "da019edb85aa",
+   "titel": "Nebul kiest NetApp Novus voor soevereine AI-infrastructuur",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-11",
+   "samenvatting": "NetApp maakt bekend dat Nebul, een Europese AI-native cloudprovider, als eerste neocloud NetApp Novus implementeert. Die architectuur is volgens NetApp ontworpen om hoge opslagprestaties te leveren. Nebul bouwt aan de Intelligent Cloud: een Europees soeverein platform dat versnelde infrastructuur...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583893/nebul-kiest-netapp-novus-voor-soevereine-ai-infrastructuur/"
+  },
+  {
+   "id": "9f54b61df2fa",
+   "titel": "Omzet OpenAI stijgt in kwartaal met bijna 50 procent naar 10 miljard",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-11",
+   "samenvatting": "Volgens bronnen binnen OpenAI kwam de kwartaalomzet van het bedrijf over de maanden juli, augustus en september voor de eerst uit op 10 miljard dollar. De vraag naar de nieuwste AI-software dreef de omzet op. In vergelijking met een kwartaal eerder steeg de omzet met bijna 50%. Ten opzichte van h...",
+   "url": "https://www.techzine.nl/nieuws/applications/583881/omzet-openai-stijgt-in-kwartaal-met-bijna-50-procent-naar-10-miljard/"
+  },
+  {
+   "id": "3b4efe324c6c",
+   "titel": "“Eerst schieten, dan pas vragen stellen”: security in AI-tijdperk",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-11",
+   "samenvatting": "De gemiddelde tijd tussen het eerste contact en de daadwerkelijke breach van een domein is de afgelopen jaren drastisch afgenomen. AI speelt daarin een steeds grotere rol. Jan Bervar, Group Security Architect bij Conscia, stelt dat automatisering binnen MDR de echte versneller is. Wat betekent da...",
+   "url": "https://www.techzine.nl/blogs/security/583870/eerst-schieten-dan-pas-vragen-stellen-security-in-ai-tijdperk/"
+  },
+  {
+   "id": "3006177d41f3",
+   "titel": "Waar je het beste ai, informatica of informatiekunde kunt studeren",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-11",
+   "samenvatting": "Tilburg TiU is in Nederland de koploper bij de universitaire ai-opleidingen. De Tilburgse studie ‘cognitive science and ai’ steekt samen met kunstmatige intelligentie aan Groningen RUG ver boven de rest uit. Bij de ict-studies scoort de Open Universiteit het best.",
+   "url": "https://www.computable.nl/2026/11/11/waar-je-het-beste-ai-informatica-of-informatiekunde-kunt-studeren/"
+  },
+  {
+   "id": "2a56d417d2a6",
+   "titel": "Rabobank: ai verandert het werk ingrijpend, baanverlies onduidelijk",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-11",
+   "samenvatting": "Rabobank experimenteert volop met generatieve ai, ai-agents en eigen taalmodellen. De bank zet ai nu ook in voor klantcontact en softwareontwikkeling en kijkt naar ai-agents. De bank erkent dat ai impact heeft op functies en werk, maar houdt zich op de vlakte over banenverlies door ai.",
+   "url": "https://www.computable.nl/2026/11/11/rabobank-ai-verandert-het-werk-ingrijpend-baanverlies-onduidelijk/"
+  },
+  {
+   "id": "236ceec58264",
+   "titel": "Zen 6 in AMD EPYC Venice: opgewassen tegen agentic AI-vereisten?",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-11",
+   "samenvatting": "De zesde generatie EPYC-processoren voor servers zijn beschikbaar. Onder de codenaam Venice biedt de nieuwe Zen 6-chiparchitectuur een stevige prestatiewinst voor EPYC-chips, met agentic AI-workloads als prioriteit. De processoren zullen snel worden geleverd en onder meer beschikbaar zijn op Micr...",
+   "url": "https://www.techzine.nl/nieuws/devices/583879/zen-6-in-amd-epyc-venice-opgewassen-tegen-agentic-ai-vereisten/"
+  },
+  {
+   "id": "f7e9c401470a",
+   "titel": "Build Safer n8n Agents and Workflows with Google Gemini 4 Carbon",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-11-10",
+   "samenvatting": "Gemini 4 Carbon is out and it's now available in n8n. Google is calling it its strongest model yet, with big gains in coding, long-running agentic work and cybersecurity. In Google's results, it posts a 53.9% on AutomationBench, a benchmark for automation work, topping",
+   "url": "https://blog.n8n.io/build-safer-n8n-agents-and-workflows-with-google-gemini-4-carbon/"
+  },
+  {
    "id": "d19f3cabc657",
    "titel": "Microsoft-medewerkers in opstand tegen ai-beleid",
    "categorie": "AI",
@@ -89,6 +159,26 @@
    "datum": "2026-11-10",
    "samenvatting": "Bij Microsoft groeit het verzet tegen de manier waarop ‘s werelds grootste techbedrijf ai implementeert. Dat blijkt uit een breed circulerende open brief waarin een groep huidige en voormalige medewerkers van Microsoft zijn verontrusting uitspreekt.",
    "url": "https://www.computable.nl/2026/11/10/microsoft-medewerkers-in-opstand-tegen-ai-beleid/"
+  },
+  {
+   "id": "aa9be92d5190",
+   "titel": "Meet Nod: a standalone personal agent from n8n Labs that runs on your computer",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-11-10",
+   "samenvatting": "Nod gets stuff done for you. It works in your apps and on any website, asks before it acts, and uses the AI provider you choose.",
+   "url": "https://blog.n8n.io/meet-nod/"
+  },
+  {
+   "id": "9bb78a477e25",
+   "titel": "Transformeren met ai: techniek is niet de bottleneck",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-10",
+   "samenvatting": "Als digitale transformatie mislukt, is dat zelden het gevolg van techniek. Het gaat meestal mis door het gat tussen 'toegang hebben tot een tool' en 'die tool daadwerkelijk in het businessproces verweven krijgen'. Dat gat staat centraal in een nieuwe publicatie van OpenAI.",
+   "url": "https://www.computable.nl/2026/11/10/transformeren-met-ai-techniek-is-niet-de-bottleneck/"
   },
   {
    "id": "858165873e05",
@@ -121,6 +211,16 @@
    "url": "https://www.techzine.nl/nieuws/applications/583835/meta-komt-met-kleine-claude-haiku-concurrent-muse-ember/"
   },
   {
+   "id": "7473ddefb041",
+   "titel": "Batch processing patterns for workflow automation at scale",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-11-10",
+   "samenvatting": "Learn batch processing patterns for scalable workflows, including chunking, rate limits, retries. Discover the tools that put these patterns into practice.",
+   "url": "https://blog.n8n.io/batch-processing/"
+  },
+  {
    "id": "5a3720d6fbdd",
    "titel": "Anthropic trekt beursdocument na verspreiding in",
    "categorie": "AI",
@@ -131,6 +231,36 @@
    "url": "https://www.techzine.nl/nieuws/privacy-compliance/583853/anthropic-trekt-beursdocument-na-verspreiding-in/"
   },
   {
+   "id": "4f3b871ffec1",
+   "titel": "Microservices best practices every automation engineer should know",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-11-10",
+   "samenvatting": "Discover microservices best practices to build resilient systems. Learn what the best patterns look like and how workflow automation fits into the process.",
+   "url": "https://blog.n8n.io/microservices-best-practices/"
+  },
+  {
+   "id": "4ec9aa517e73",
+   "titel": "Kort: Google lanceert nieuwe ai-chips, Databricks steekt half miljard in Nederland (en meer)",
+   "categorie": "Data",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-10",
+   "samenvatting": "Google lanceert twee nieuwe chips voor ai-taken, Red Hat versterkt de beveiliging van Linux, Databricks investeert fors in de Nederlandse organisatie, Frankrijk ziet Iraanse link in aanval op supermarktkoelingen en Your.Cloud winkelt op de Britse markt.",
+   "url": "https://www.computable.nl/2026/11/10/kort-google-lanceert-nieuwe-ai-chips-databricks-steekt-half-miljard-in-nederland-en-meer/"
+  },
+  {
+   "id": "479076c8335e",
+   "titel": "Databricks investeert ruim 500 miljoen in Nederland",
+   "categorie": "Data",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-10",
+   "samenvatting": "Databricks investeert de komende drie jaar meer dan 500 miljoen dollar in Nederland. Het bedrijf breidt zijn grootste Europese R&D-hub in Amsterdam uit, wil het lokale team verdubbelen en trekt in een nieuw kantoor in The Rock. Daarnaast wil het tot 2030 meer dan 40.000 mensen opleiden in data en...",
+   "url": "https://www.techzine.nl/nieuws/analytics/583863/databricks-investeert-ruim-500-miljoen-in-nederland/"
+  },
+  {
    "id": "2e540a38027a",
    "titel": "Wortell lanceert Maia voor meer grip op ai",
    "categorie": "Automatisering",
@@ -139,6 +269,16 @@
    "datum": "2026-11-10",
    "samenvatting": "Ai-toepassingen schieten binnen organisaties als paddenstoelen uit de grond. Medewerkers bouwen steeds vaker zelf oplossingen om processen te automatiseren of kennis toegankelijk te maken. Hoe houd je overzicht, controle en governance op al die initiatieven? Wortell introduceert Maia",
    "url": "https://www.computable.nl/2026/11/10/wortell-lanceert-maia-voor-meer-grip-op-ai/"
+  },
+  {
+   "id": "0618b0640fe3",
+   "titel": "Commvault Recovery Studio herstelt complete bedrijfsomgeving",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-10",
+   "samenvatting": "Commvault introduceert Recovery Studio, een tool die het herstel van applicaties, identiteiten, configuraties en data automatiseert via runbooks. Het doel is dat organisaties na een storing of cyberaanval niet alleen hun data, maar hun hele bedrijfsvoering terugkrijgen. Een backup terugzetten is...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/583872/commvault-recovery-studio-herstelt-complete-bedrijfsomgeving/"
   },
   {
    "id": "c6d7e860d2ee",
@@ -3389,26 +3529,6 @@
    "datum": "2026-09-13",
    "samenvatting": "De topmannen van grote westerse AI-bedrijven zeggen dat hun sector dusdanig snel groeit dat het lastig wordt om de veiligheid te waarborgen. De ontwikkeling van nieuwe AI-modellen moet vertraagd worden, omdat AI-agents binnen zes tot twaalf maanden het hele internet zouden kunnen overnemen. Met d...",
    "url": "https://nos.nl/l/2630799"
-  },
-  {
-   "id": "a288b4e3c0cf",
-   "titel": "Reflection Pattern: AI Agents Self-Correct in Production",
-   "categorie": "AI",
-   "bron": "n8n Blog (workflow-automatisering)",
-   "taal": "en",
-   "datum": "2026-09-11",
-   "samenvatting": "Reflection pattern for LLMs: a self-critique loop that improves correctness, clarity, and reliability with measurable quality gates, ROI, and safety controls",
-   "url": "https://blog.n8n.io/reflection-pattern-ai-agents-self-correct-in-production/"
-  },
-  {
-   "id": "8b766eb904c5",
-   "titel": "Process Orchestration: Execution Models, Observability, and Production Challenges",
-   "categorie": "Automatisering",
-   "bron": "n8n Blog (workflow-automatisering)",
-   "taal": "en",
-   "datum": "2026-09-11",
-   "samenvatting": "Compare deterministic, dynamic, and agentic process orchestration models to build reliable, scalable workflows with visibility across enterprise systems.",
-   "url": "https://blog.n8n.io/process-orchestration/"
   }
  ]
 }
