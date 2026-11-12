@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-11T11:35:27+00:00",
+ "bijgewerkt": "2026-11-12T11:59:05+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -37,7 +37,7 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 9,
+   "bewaard": 10,
    "verouderd": 16,
    "geweigerd": 4
   },
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 7,
+   "bewaard": 2,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 6,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -81,6 +81,56 @@
  ],
  "items": [
   {
+   "id": "d6f80891784b",
+   "titel": "Google introduceert Gemini Decision 1 voor AI-beslissingen",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-12",
+   "samenvatting": "Google introduceert de Gemini Decisions API. Dit is een nieuwe API-interface voor snelle beslissingen uit een vooraf bepaalde verzameling mogelijkheden. De API wordt aangedreven door het nieuwe Gemini Decision 1-model. De Decisions API biedt speciaal ontwikkelde functies voor afgebakende keuzes,...",
+   "url": "https://www.techzine.nl/nieuws/applications/583938/google-introduceert-gemini-decision-1-voor-ai-beslissingen/"
+  },
+  {
+   "id": "6aafcd0c76ac",
+   "titel": "Kort: AllUnited stroomlijnt aangiftegolf sportclubs, SAP verdubbelt aantal ai-agents naar 400 (en meer)",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-12",
+   "samenvatting": "In dit nieuwsoverzicht: AllUnited neemt meldplicht sportclubs uit handen, Amerikaanse joint venture Also, Cisco scherpt beveiliging aan met Mythos, Stichting IT4Kids start het programma Move to Swim en SAP werkt toe naar netwerk van 400 ai-agents.",
+   "url": "https://www.computable.nl/2026/11/12/kort-allunited-stroomlijnt-aangiftegolf-sportclubs-sap-verdubbelt-aantal-ai-agents-naar-400-en-meer/"
+  },
+  {
+   "id": "419fb97bfa56",
+   "titel": "Databricks Genie op de schop: autonoom, proactief en continu aan",
+   "categorie": "Data",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-12",
+   "samenvatting": "Hoewel Databricks al een product genaamd Genie had, is deze tool dermate vernieuwd dat er een geheel nieuw verhaal bij past. Genie als ‘autonome AI-collega’ staat voortdurend aan om taken automatisch af te ronden, met de mens slechts als controleur. Genie’s betrouwbaarheid is nog steeds afhankeli...",
+   "url": "https://www.techzine.nl/nieuws/data-management/583932/databricks-genie-op-de-schop-autonoom-proactief-en-continu-aan/"
+  },
+  {
+   "id": "23f335facae4",
+   "titel": "The future of work is built by everyone",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-11-12",
+   "samenvatting": "Building automation is getting easier fast. So why keep it locked inside one team? A follow-up on what replaces the central automation team, and what n8n is learning as it opens building up to everyone.",
+   "url": "https://blog.n8n.io/the-future-of-work-is-built-by-everyone/"
+  },
+  {
+   "id": "04a8ece87247",
+   "titel": "Recapping Camunda's Toronto Roadshow: The Case for Process Re-Engineering",
+   "categorie": "Automatisering",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-11-12",
+   "samenvatting": "Enterprise and financial-services leaders met at Camunda's Toronto Agentic Orchestration Xchange to talk through the AI Process Gap, and why real production use cases demand re-engineering processes on open standards, not bolting AI onto what's already broken.",
+   "url": "https://camunda.com/blog/2026/11/toronto-roadshow-recap/"
+  },
+  {
    "id": "da019edb85aa",
    "titel": "Nebul kiest NetApp Novus voor soevereine AI-infrastructuur",
    "categorie": "AI",
@@ -91,6 +141,26 @@
    "url": "https://www.techzine.nl/nieuws/infrastructure/583893/nebul-kiest-netapp-novus-voor-soevereine-ai-infrastructuur/"
   },
   {
+   "id": "b224764d871b",
+   "titel": "Kort: Cloudgebruik groeit sneller dan beveiliging, Anthropic ‘koelt af’ (en meer)",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-11",
+   "samenvatting": "Cloudbeveiliging laat duidelijke kloof tussen gebruik en bescherming zien, GoDutch haalt binnen etmaal vijf miljoen euro op via crowdfunding, SoftwareOne wint aanbesteding softwarelicenties Kansspelautoriteit, en Stippt lijft ESVE Groep in en groeit naar 65 medewerkers.",
+   "url": "https://www.computable.nl/2026/11/11/kort-cloudgebruik-groeit-sneller-dan-beveiliging-anthropic-koelt-af-en-meer/"
+  },
+  {
+   "id": "9faf7642734c",
+   "titel": "Use OneLake as native storage for Azure Databricks (Preview)",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-11",
+   "samenvatting": "Organizations increasingly use Microsoft Fabric and Azure Databricks together so teams can choose the tools that best fit their data engineering, analytics, and AI workloads while working from a common data foundation. OneLake external-location support for Azure Databricks Unity Catalog is now ge...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-OneLake-as-native-storage-for-Azure-Databricks-Preview/ba-p/5377939"
+  },
+  {
    "id": "9f54b61df2fa",
    "titel": "Omzet OpenAI stijgt in kwartaal met bijna 50 procent naar 10 miljard",
    "categorie": "AI",
@@ -99,6 +169,26 @@
    "datum": "2026-11-11",
    "samenvatting": "Volgens bronnen binnen OpenAI kwam de kwartaalomzet van het bedrijf over de maanden juli, augustus en september voor de eerst uit op 10 miljard dollar. De vraag naar de nieuwste AI-software dreef de omzet op. In vergelijking met een kwartaal eerder steeg de omzet met bijna 50%. Ten opzichte van h...",
    "url": "https://www.techzine.nl/nieuws/applications/583881/omzet-openai-stijgt-in-kwartaal-met-bijna-50-procent-naar-10-miljard/"
+  },
+  {
+   "id": "9d75db3e383d",
+   "titel": "The next chapter for CI/CD in Fabric Warehouse (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-11",
+   "samenvatting": "Building and operating a data warehouse is increasingly a software engineering discipline. Teams want to develop warehouse changes in isolation, version them in Git, review them through pull requests, promote them safely across environments, and automate the entire process using their existing CI...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/The-next-chapter-for-CI-CD-in-Fabric-Warehouse-Preview/ba-p/5401222"
+  },
+  {
+   "id": "82c012523b6c",
+   "titel": "Aanvallers zetten AI-pentesttool AntiFox in tegen AWS-omgevingen",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-11",
+   "samenvatting": "Arctic Wolf ziet aanvallers het open-source agentic pentestplatform AntiFox inzetten vanaf Alibaba Cloud. Daarmee braken ze in op IIS-webservers, testten ze AWS-credentials en enumereerden ze tientallen clouddiensten. In één geval lukte het om een productiesecret uit Secrets Manager te lezen. Ant...",
+   "url": "https://www.techzine.nl/nieuws/security/583917/aanvallers-zetten-ai-pentesttool-antifox-in-tegen-aws-omgevingen/"
   },
   {
    "id": "3b4efe324c6c",
