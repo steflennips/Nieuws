@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-12T11:59:05+00:00",
+ "bijgewerkt": "2026-11-13T11:43:54+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -38,7 +38,7 @@
    "status": "OK",
    "items": 50,
    "bewaard": 10,
-   "verouderd": 16,
+   "verouderd": 15,
    "geweigerd": 4
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 2,
+   "bewaard": 1,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 6,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -74,12 +74,72 @@
    "feed": "NOS Tech",
    "status": "OK",
    "items": 20,
-   "bewaard": 6,
+   "bewaard": 5,
    "verouderd": 0,
-   "geweigerd": 2
+   "geweigerd": 1
   }
  ],
  "items": [
+  {
+   "id": "cda7bcc43fbc",
+   "titel": "New in n8n: Public API rate limits that keep every team on your instance running",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-11-13",
+   "samenvatting": "Cap public API requests per API key in n8n, with 429 headers that tell clients when to retry and idempotency keys for safe retries.",
+   "url": "https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/"
+  },
+  {
+   "id": "7a5707196999",
+   "titel": "Use OneLake as native storage for Azure Databricks",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-13",
+   "samenvatting": "Organizations increasingly use Microsoft Fabric and Azure Databricks together so teams can choose the tools that best fit their data engineering, analytics, and AI workloads while working from a common data foundation. OneLake external-location support for Azure Databricks Unity Catalog is now ge...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-OneLake-as-native-storage-for-Azure-Databricks/ba-p/5377939"
+  },
+  {
+   "id": "5636345ced7b",
+   "titel": "Cisco profiteert van AI-‘supercyclus’ met voorspelde omzet van 75 miljard",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-13",
+   "samenvatting": "Cisco-aandelen stegen donderdag, nadat de fabrikant van netwerkapparatuur resultaten over het eerste kwartaal van het boekjaar rapporteerde die beter waren dan verwacht. Het bedrijf verhoogde de omzetprognose en gaat uit van een aanhoudend sterke vraag van bedrijven die hun AI-infrastructuur uitb...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/584006/cisco-profiteert-van-ai-supercyclus-met-voorspelde-omzet-van-75-miljard/"
+  },
+  {
+   "id": "51de8b3645e8",
+   "titel": "Hyperscalers kunnen Nvidia-chaos benutten, maar Anthropic zit op de pijnbank",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-13",
+   "samenvatting": "Big Tech was nog maar net begonnen met verhuizen uit het huis dat Nvidia bouwde. Onder leiding van Jensen Huang veroverde de GPU-gigant de datacentermarkt en schoot het in een duizelingwekkende opmars naar een piekwaardering van zo’n 5,7 biljoen dollar. Nu staan de hyperscalers klaar om te profit...",
+   "url": "https://www.techzine.nl/blogs/infrastructure/584003/hypersclaers-kunnen-nvidia-chaos-benutten-maar-anthropic-zit-op-de-pijnbank/"
+  },
+  {
+   "id": "4d33be75a265",
+   "titel": "Gemini 4 Hydrogen brengt Google terug in de race om betaalbare AI",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-13",
+   "samenvatting": "Google introduceert Gemini 4 Hydrogen. Dit is een nieuw model voor softwareontwikkeling en agentic workflows. Hydrogen combineert geavanceerd redeneervermogen met een lagere latentie en lagere kosten. Volgens Google kan het model veel ontwikkeltaken sneller uitvoeren dan zijn voorganger, Gemini 3...",
+   "url": "https://www.techzine.nl/nieuws/applications/583989/gemini-4-hydrogen-brengt-google-terug-in-de-race-om-betaalbare-ai/"
+  },
+  {
+   "id": "e76813d40ce7",
+   "titel": "Hoe de waarde van werk door AI verandert",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-12",
+   "samenvatting": "In de aanloop naar het Dell Technologies Forum in NBC Nieuwegein op 8 december schenken we aandacht aan verschillende aspecten van het evenement die de revue passeren. AI-spreker Jarno Duursma zal een keynote doen over het waarde van werk in het AI-tijdperk. Hoe kunnen organisaties omgaan met de...",
+   "url": "https://www.techzine.nl/blogs/applications/583318/hoe-de-waarde-van-werk-door-ai-verandert/"
+  },
   {
    "id": "d6f80891784b",
    "titel": "Google introduceert Gemini Decision 1 voor AI-beslissingen",
@@ -89,6 +149,16 @@
    "datum": "2026-11-12",
    "samenvatting": "Google introduceert de Gemini Decisions API. Dit is een nieuwe API-interface voor snelle beslissingen uit een vooraf bepaalde verzameling mogelijkheden. De API wordt aangedreven door het nieuwe Gemini Decision 1-model. De Decisions API biedt speciaal ontwikkelde functies voor afgebakende keuzes,...",
    "url": "https://www.techzine.nl/nieuws/applications/583938/google-introduceert-gemini-decision-1-voor-ai-beslissingen/"
+  },
+  {
+   "id": "ac41fbafc966",
+   "titel": "Fivetran: AI-budget verdwijnt in herstel van dataproblemen",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-12",
+   "samenvatting": "Bijna vier op de tien bedrijven besteden minstens een kwart van hun AI-budget aan het oplossen van dataproblemen. Maatwerkintegraties drijven de kosten verder op. Dat blijkt uit onderzoek van Fivetran. Het spreekt hierbij over de ‘AI tax’: de verborgen kosten die ontstaan wanneer AI niet goed op...",
+   "url": "https://www.techzine.nl/nieuws/analytics/583842/fivetran-ai-budget-verdwijnt-in-herstel-van-dataproblemen/"
   },
   {
    "id": "6aafcd0c76ac",
@@ -119,6 +189,16 @@
    "datum": "2026-11-12",
    "samenvatting": "Building automation is getting easier fast. So why keep it locked inside one team? A follow-up on what replaces the central automation team, and what n8n is learning as it opens building up to everyone.",
    "url": "https://blog.n8n.io/the-future-of-work-is-built-by-everyone/"
+  },
+  {
+   "id": "179bf6be47b5",
+   "titel": "ServiceNow wil CRM-migraties met AI terugbrengen naar weken",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-12",
+   "samenvatting": "ServiceNow introduceert Autonomous CRM Engine, een AI-native oplossing die organisaties helpt over te stappen van legacy CRM-platformen. Zulke migraties duren normaal maanden tot jaren. ServiceNow belooft een overstap in enkele weken. Na de livegang bewaakt de engine de omgeving op configuratiefo...",
+   "url": "https://www.techzine.nl/nieuws/applications/583973/servicenow-wil-crm-migraties-met-ai-terugbrengen-naar-weken/"
   },
   {
    "id": "04a8ece87247",
@@ -3609,16 +3689,6 @@
    "datum": "2026-09-14",
    "samenvatting": "Een kwart van de ingediende documenten met Kamervragen is in ieder geval deels geschreven door AI. Dat blijkt uit onderzoek van de NOS naar 2500 documenten met daarin ruim 28.000 individuele Kamervragen. Dat betekent dat de teksten zijn geschreven door een AI-tool als ChatGPT of Claude. De inzet...",
    "url": "https://nos.nl/l/2630963"
-  },
-  {
-   "id": "66c97aa28a4d",
-   "titel": "AI-topmannen waarschuwen: AI dreigt ons de baas te worden",
-   "categorie": "AI",
-   "bron": "NOS Tech",
-   "taal": "nl",
-   "datum": "2026-09-13",
-   "samenvatting": "De topmannen van grote westerse AI-bedrijven zeggen dat hun sector dusdanig snel groeit dat het lastig wordt om de veiligheid te waarborgen. De ontwikkeling van nieuwe AI-modellen moet vertraagd worden, omdat AI-agents binnen zes tot twaalf maanden het hele internet zouden kunnen overnemen. Met d...",
-   "url": "https://nos.nl/l/2630799"
   }
  ]
 }
