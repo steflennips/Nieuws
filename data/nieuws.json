@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-13T11:43:54+00:00",
+ "bijgewerkt": "2026-11-14T11:05:23+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -22,7 +22,7 @@
    "status": "OK",
    "items": 30,
    "bewaard": 4,
-   "verouderd": 22,
+   "verouderd": 21,
    "geweigerd": 0
   },
   {
@@ -31,14 +31,14 @@
    "items": 10,
    "bewaard": 5,
    "verouderd": 0,
-   "geweigerd": 1
+   "geweigerd": 0
   },
   {
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 10,
-   "verouderd": 15,
+   "bewaard": 11,
+   "verouderd": 14,
    "geweigerd": 4
   },
   {
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 6,
+   "bewaard": 4,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -74,12 +74,22 @@
    "feed": "NOS Tech",
    "status": "OK",
    "items": 20,
-   "bewaard": 5,
+   "bewaard": 4,
    "verouderd": 0,
    "geweigerd": 1
   }
  ],
  "items": [
+  {
+   "id": "d118b6601804",
+   "titel": "Migrating From Pega to Camunda: Where AI Helps and Where it Doesn’t",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-11-13",
+   "samenvatting": "A claims team stuck on Pega isn’t just facing a platform problem, it’s facing a speed problem customers can feel. Here’s where AI genuinely speeds up a Pega-to-Camunda migration, where it quietly introduces risk, and why the two conversion errors one test caught never would have shown up in a dep...",
+   "url": "https://camunda.com/blog/2026/11/migrating-from-pega-to-camunda-where-ai-helps-and-where-it-doesnt/"
+  },
   {
    "id": "cda7bcc43fbc",
    "titel": "New in n8n: Public API rate limits that keep every team on your instance running",
@@ -3649,46 +3659,6 @@
    "datum": "2026-09-15",
    "samenvatting": "If your Fabric workspace connects to an ODBC driver, and you haven’t already moved to the ADBC driver, you’re on the ODBC → ADBC migration path. The migration window is already open — the sooner you start, the more room you have to validate.What’s happening Power Query is transitioning from legac...",
    "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Moving-off-ODBC-A-self-serve-scanner-for-your-ADBC-migration/ba-p/5365622"
-  },
-  {
-   "id": "d2072226347f",
-   "titel": "From Business Events, Fabric Events, and Azure Events to Real-Time Hub",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-09-14",
-   "samenvatting": "Welcome to the eighth and final post in our Business Events, Fabric Events, and Azure Events series for Microsoft Fabric. This series takes you from foundational event-driven concepts to practical implementation patterns that help teams turn meaningful business moments into trusted signals, decis...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-Business-Events-Fabric-Events-and-Azure-Events-to-Real-Time/ba-p/5365864"
-  },
-  {
-   "id": "b191d37dcc93",
-   "titel": "Designing scalable Business Events in Microsoft Fabric",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-09-14",
-   "samenvatting": "Welcome to the seventh post in our Business Events, Fabric Events, and Azure Events series for Microsoft Fabric. This series takes you from foundational event-driven concepts to practical implementation patterns that help teams turn meaningful business moments into trusted signals, decisions, and...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Designing-scalable-Business-Events-in-Microsoft-Fabric/ba-p/5365863"
-  },
-  {
-   "id": "753021598549",
-   "titel": "Diagnose Fabric Data Warehouse workloads with the SQL DW operations skill (Generally Available)",
-   "categorie": "Data",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-09-14",
-   "samenvatting": "When a warehouse slows down, the investigation usually starts with more questions than answers. Was there a capacity spike? Did a specific query suddenly become expensive? Are requests failing, being canceled, or simply taking longer than usual? Answering those questions often requires switching...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Diagnose-Fabric-Data-Warehouse-workloads-with-the-SQL-DW/ba-p/5366102"
-  },
-  {
-   "id": "0f0a8ac9bed0",
-   "titel": "Kwart Kamervragen met behulp van AI geschreven, aantal neemt toe",
-   "categorie": "AI",
-   "bron": "NOS Tech",
-   "taal": "nl",
-   "datum": "2026-09-14",
-   "samenvatting": "Een kwart van de ingediende documenten met Kamervragen is in ieder geval deels geschreven door AI. Dat blijkt uit onderzoek van de NOS naar 2500 documenten met daarin ruim 28.000 individuele Kamervragen. Dat betekent dat de teksten zijn geschreven door een AI-tool als ChatGPT of Claude. De inzet...",
-   "url": "https://nos.nl/l/2630963"
   }
  ]
 }
