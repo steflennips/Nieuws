@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-14T11:05:23+00:00",
+ "bijgewerkt": "2026-11-15T11:39:49+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 1,
+   "bewaard": 0,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -3649,16 +3649,6 @@
    "datum": "2026-09-16",
    "samenvatting": "Enterprise leaders met at Camunda’s NYC Roadshow to discuss the AI Process Gap—and why real transformation requires re-engineering processes from the ground up on open standards.",
    "url": "https://camunda.com/blog/2026/09/why-bolting-ai-onto-legacy-workflows-fails-and-what-nyc-enterprise-leaders-are-doing-about-it/"
-  },
-  {
-   "id": "d5059d4ded2e",
-   "titel": "Moving off ODBC — A self-serve scanner for your ADBC migration",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-09-15",
-   "samenvatting": "If your Fabric workspace connects to an ODBC driver, and you haven’t already moved to the ADBC driver, you’re on the ODBC → ADBC migration path. The migration window is already open — the sooner you start, the more room you have to validate.What’s happening Power Query is transitioning from legac...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Moving-off-ODBC-A-self-serve-scanner-for-your-ADBC-migration/ba-p/5365622"
   }
  ]
 }
