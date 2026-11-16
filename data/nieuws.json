@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-15T11:39:49+00:00",
+ "bijgewerkt": "2026-11-16T12:17:08+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 11,
-   "verouderd": 14,
+   "bewaard": 10,
+   "verouderd": 15,
    "geweigerd": 4
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 0,
+   "bewaard": 2,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 4,
+   "bewaard": 3,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -80,6 +80,76 @@
   }
  ],
  "items": [
+  {
+   "id": "e24ed39a1ce9",
+   "titel": "Spionage, smokkel en ontslag: de driedubbele crisis bij ai-gigant Nvidia",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-16",
+   "samenvatting": "De affaire rond Nvidia-topman Jensen Huang die afgelopen donderdag werd ontslagen wegens een liefdesrelatie met een vermeende Chinese spionne, kan voor Nvidia verstrekkende gevolgen hebben.",
+   "url": "https://www.computable.nl/2026/11/16/spionage-smokkel-en-ontslag-de-driedubbele-crisis-bij-ai-gigant-nvidia/"
+  },
+  {
+   "id": "de8248c1a2a2",
+   "titel": "AI made integrations the vendor’s problem",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-11-16",
+   "samenvatting": "In the second iteration of the AI Agent Development Tools report, I replaced the integrability axis with enterprise-readiness. I wanted this to signify the departure from 2020-style IPaaS. With MCP getting traction to the point where every vendor offers an MCP server, I said the integration burde...",
+   "url": "https://blog.n8n.io/ai-made-integrations-the-vendors-problem/"
+  },
+  {
+   "id": "902a9962e194",
+   "titel": "ING laat automatisch sparen meebewegen met inkomen",
+   "categorie": "Automatisering",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-16",
+   "samenvatting": "ING introduceert vandaag nieuwe spaarfuncties in zijn mobiele bankapp. Met Inkomen Sparen kunnen klanten automatisch een percentage van binnenkomende bedragen opzijzetten. Daarmee wil de bank het opbouwen van een financiële buffer makkelijker maken, ook voor mensen met wisselende inkomsten.",
+   "url": "https://www.computable.nl/2026/11/16/ing-laat-automatisch-sparen-meebewegen-met-inkomen/"
+  },
+  {
+   "id": "876a69d85af3",
+   "titel": "Datalek bij AI-leverancier leidt tot malware bij Cursor",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-16",
+   "samenvatting": "Door een beveiligingsincident bij AI-infrastructuurprovider Fireworks AI hebben aanvallers toegang gekregen tot interne systemen van Cursor. Met buitgemaakte inloggegevens konden zij vervolgens kwaadaardige versies van de ‘Claude Code’-extensie van Anthropic verspreiden. Volgens een beveiligingsu...",
+   "url": "https://www.techzine.nl/nieuws/security/584031/datalek-bij-ai-leverancier-leidt-tot-malware-bij-cursor/"
+  },
+  {
+   "id": "0ad732b94b87",
+   "titel": "Zonder realtime controle over autonome AI-agents is effectieve AI-governance onmogelijk",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-16",
+   "samenvatting": "Het klinkt als iets uit een film: AI-agents die uit hun testomgeving ontsnappen en zelfstandig doorgaan om een zo hoog mogelijke score te behalen. Toch gebeurde dit in juli 2026 bij Hugging Face, een open platform voor AI-ontwikkelaars. Een groep autonome AI-agents sloeg op hol en het incident kr...",
+   "url": "https://www.techzine.nl/experts/analytics/584034/zonder-realtime-controle-over-autonome-ai-agents-is-effectieve-ai-governance-onmogelijk/"
+  },
+  {
+   "id": "a66f2def54f9",
+   "titel": "Fabric Influencers Spotlight: October 2026",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-15",
+   "samenvatting": "The October Fabric Influencers Spotlight brings together 46 posts, videos and tutorials from Microsoft MVPs, Fabric Super Users and community contributors, many of them inspired by the announcements at FabCon Barcelona. This month opens with a special look at Fabric Apps and Fabric IQ. You'll fin...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Influencers-Spotlight-October-2026/ba-p/5420043"
+  },
+  {
+   "id": "95fa3d9b76c0",
+   "titel": "15/11 in Nieuwsuur: Nog geen uitkomst crisisoverleg • Vliegtuigen raken gps-signaal kwijt • Anthropic naar de beurs • Hoe leer je het vak als thuiswerker?",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-11-15",
+   "samenvatting": "Nog geen uitkomst crisisoverleg D66, VVD en CDA zijn er nog niet uit en gaan morgen verder praten op het Catshuis. Dat laat de Rijksvoorlichtingsdienst weten. Het waren intensieve maar goede gesprekken, zo luidt de mededeling. We bespreken het laatste nieuws met politiek verslaggever Arjan Noorla...",
+   "url": "https://nos.nl/l/2639606"
+  },
   {
    "id": "d118b6601804",
    "titel": "Migrating From Pega to Camunda: Where AI Helps and Where it Doesn’t",
@@ -3619,36 +3689,6 @@
    "datum": "2026-09-17",
    "samenvatting": "Beginning October 30, 2026, users will no longer be able to add new legacy Teams or legacy Outlook activities to pipelines. These legacy activities will no longer appear as options when users add new activities to a pipeline. Existing legacy activity instances can still be edited and used in exis...",
    "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Upcoming-changes-to-legacy-Teams-and-Outlook-activities-in/ba-p/5314499"
-  },
-  {
-   "id": "daeecff65d6f",
-   "titel": "Kritiek op AI-bedrijven die oproepen tot vertraging vanwege gevaar: 'Doe het dan'",
-   "categorie": "AI",
-   "bron": "NOS Tech",
-   "taal": "nl",
-   "datum": "2026-09-16",
-   "samenvatting": "De oproep van de topman van AI-bedrijf Anthropic om op een lager tempo nieuwe krachtige AI-modellen uit te brengen, leidt tot kritiek van binnen en buiten de AI-sector. Als je het echt zo belangrijk vindt om te vertragen, dóe het dan, zegt onder meer een invloedrijke adviseur van de Amerikaanse p...",
-   "url": "https://nos.nl/l/2631270"
-  },
-  {
-   "id": "d7c16defa7f7",
-   "titel": "Try new models and services, skip the account setup",
-   "categorie": "Automatisering",
-   "bron": "n8n Blog (workflow-automatisering)",
-   "taal": "en",
-   "datum": "2026-09-16",
-   "samenvatting": "Starting with n8n v2.36, you can now use supported AI models and tool services on select n8n Cloud plans without creating a provider account or generating an API key. Choose Gateway credits instead of adding a credential. Six model providers and five tool services work right out of the box.",
-   "url": "https://blog.n8n.io/gateway-credits/"
-  },
-  {
-   "id": "6ef8f601434c",
-   "titel": "Why Bolting AI Onto Legacy Workflows Fails (and What NYC Enterprise Leaders Are Doing About It)",
-   "categorie": "AI",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-09-16",
-   "samenvatting": "Enterprise leaders met at Camunda’s NYC Roadshow to discuss the AI Process Gap—and why real transformation requires re-engineering processes from the ground up on open standards.",
-   "url": "https://camunda.com/blog/2026/09/why-bolting-ai-onto-legacy-workflows-fails-and-what-nyc-enterprise-leaders-are-doing-about-it/"
   }
  ]
 }
