@@ -1,12 +1,12 @@
 {
- "bijgewerkt": "2026-11-16T12:17:08+00:00",
+ "bijgewerkt": "2026-11-17T12:38:45+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
    "status": "OK",
    "items": 20,
-   "bewaard": 8,
-   "verouderd": 11,
+   "bewaard": 7,
+   "verouderd": 12,
    "geweigerd": 0
   },
   {
@@ -38,7 +38,7 @@
    "status": "OK",
    "items": 50,
    "bewaard": 10,
-   "verouderd": 15,
+   "verouderd": 14,
    "geweigerd": 4
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 2,
+   "bewaard": 4,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 3,
+   "bewaard": 6,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -80,6 +80,66 @@
   }
  ],
  "items": [
+  {
+   "id": "fb30e7605fb6",
+   "titel": "Snowflake brengt bedrijfs- en productbeveiliging onder één dak",
+   "categorie": "Data",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-17",
+   "samenvatting": "Snowflake heeft de beveiliging van het eigen bedrijf en die van zijn platform onder één verantwoordelijke gebracht. Die rol ligt sinds januari bij Mayank Upadhyay, chief security and trust officer. Hij sprak met Computable tijdens zijn bezoek aan Rotterdam.",
+   "url": "https://www.computable.nl/2026/11/17/snowflake-brengt-bedrijfs-en-productbeveiliging-onder-een-dak/"
+  },
+  {
+   "id": "e927a33667df",
+   "titel": "AI-agents kloppen aan bij API’s: is governance er klaar voor?",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-17",
+   "samenvatting": "De vraag is niet langer hoe we AI-agents verbinden met enterprise-systemen, maar hoe we controle houden zodra ze daarin zelfstandig acties uitvoeren. Hans Bot, enterprise architect bij Yenlo, waarschuwt dat IT-governance fundamenteel op de schop moet. Hij pleit voor een eigen identiteit en wallet...",
+   "url": "https://www.techzine.nl/blogs/devops/584073/ai-agents-kloppen-aan-bij-apis-is-governance-er-klaar-voor/"
+  },
+  {
+   "id": "cb8bea1fd9df",
+   "titel": "Vertrek Jensen Huang bij Nvidia brengt AI-industrie aan het wankelen",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-17",
+   "samenvatting": "Het vertrek van Jensen Huang bij Nvidia is meer dan een persoonlijk schandaal. Onder Huang creëerde Nvidia een vliegwiel van circulaire financiering dat de hele AI-industrie aanjoeg. Met zijn vertrek komt dat vliegwiel waarschijnlijk tot stilstand, en dat raakt iedereen die van Nvidia afhankelijk...",
+   "url": "https://www.techzine.nl/blogs/infrastructure/584102/vertrek-jensen-huang-bij-nvidia-brengt-ai-industrie-aan-het-wankelen/"
+  },
+  {
+   "id": "b0902be7e4cb",
+   "titel": "UvA-onderzoekers kritisch op EU-voorstel digitale autonomie",
+   "categorie": "Data",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-17",
+   "samenvatting": "Het Europese voorstel voor een Cloud and AI Development Act (Cada) is niet ambitieus genoeg om de digitale autonomie van Europa te vergroten. De onderzoekers van het Instituut voor Informatierecht (IViR) van de Universiteit van Amsterdam stellen dat na een analyse van de Cada.",
+   "url": "https://www.computable.nl/2026/11/17/uva-onderzoekers-kritisch-op-eu-voorstel-digitale-autonomie/"
+  },
+  {
+   "id": "74e86eef631b",
+   "titel": "Russen breken met human-in-the-loop voor volledig autonome cyberaanval",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-17",
+   "samenvatting": "Google Threat Intelligence Group stuitte op een volledig geautomatiseerde cyberaanval waarbij Franse websites het doelwit waren. Alles van het ontdekken van kwetsbaarheden tot de exploitatie ervan en installatie van webshells was AI-gedreven. Het is de voorhoede van een reeks cyberaanvallen die d...",
+   "url": "https://www.techzine.nl/nieuws/security/584088/russen-breken-met-human-in-the-loop-voor-volledig-autonome-cyberaanval/"
+  },
+  {
+   "id": "1dd9d820d3ce",
+   "titel": "Google brengt Gemini naar soevereine Google Cloud Dedicated",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-17",
+   "samenvatting": "Google Cloud brengt Gemini-modellen naar Google Cloud Dedicated, de cloud die lokale partners beheren. Ook komen er nieuwe functies voor sleutelbeheer en compliance. Daarnaast start een accelerator voor Europese startups. Dat maakt Google Cloud bekend op de Sovereign AI Summit in Brussel. Op Goog...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/584105/google-brengt-gemini-naar-soevereine-google-cloud-dedicated/"
+  },
   {
    "id": "e24ed39a1ce9",
    "titel": "Spionage, smokkel en ontslag: de driedubbele crisis bij ai-gigant Nvidia",
@@ -119,6 +179,26 @@
    "datum": "2026-11-16",
    "samenvatting": "Door een beveiligingsincident bij AI-infrastructuurprovider Fireworks AI hebben aanvallers toegang gekregen tot interne systemen van Cursor. Met buitgemaakte inloggegevens konden zij vervolgens kwaadaardige versies van de ‘Claude Code’-extensie van Anthropic verspreiden. Volgens een beveiligingsu...",
    "url": "https://www.techzine.nl/nieuws/security/584031/datalek-bij-ai-leverancier-leidt-tot-malware-bij-cursor/"
+  },
+  {
+   "id": "5eb5c361174f",
+   "titel": "AI-inferencing is inefficiënt en sleept bagage van AI-training mee",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-16",
+   "samenvatting": "AI-inferencing zou 3,7 keer meer output per GPU kunnen leveren. Dat stelt WEKA op basis van een benchmark met AI-cloud Nebius. De verklaring voor die geclaimde winst is te vinden in de veranderende aard van AI-workloads. Hoe komt die winst tot stand, en waarom laat de gangbare opzet zoveel liggen...",
+   "url": "https://www.techzine.nl/blogs/infrastructure/584032/ai-inferencing-is-inefficient-en-sleept-bagage-van-ai-training-mee/"
+  },
+  {
+   "id": "106be77303ae",
+   "titel": "99 procent vindt AI-agents waar ze niet verwacht worden",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-16",
+   "samenvatting": "Bedrijven vinden agents waar ze helemaal niet hoorden te zitten. Dat viel ook te verwachten, want agentic AI is over de gehele development-pipeline geadopteerd. Uit het State of Cloud Security Report 2026 van Palo Alto Networks blijkt dat 73 procent onder ondervraagden gerust agents code laten he...",
+   "url": "https://www.techzine.nl/nieuws/security/584064/99-procent-vindt-ai-agents-waar-ze-niet-verwacht-worden/"
   },
   {
    "id": "0ad732b94b87",
@@ -3649,46 +3729,6 @@
    "datum": "2026-09-18",
    "samenvatting": "Server Logic enables makers and developers to execute business logic securely on the server. However, connected business applications often need website experiences to participate in processes that extend beyond the site. We are introducing support for invoking Power Automate cloud flows from Ser...",
    "url": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/extend-server-logic-with-power-automate-cloud-flows-in-power-pages/"
-  },
-  {
-   "id": "f214740198d9",
-   "titel": "Mirroring for Google BigQuery in Microsoft Fabric (Generally Available)",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-09-17",
-   "samenvatting": "Mirroring for Google BigQuery in Microsoft Fabric is now generally available. For organizations running critical workloads on BigQuery, this means a simpler, faster, and lower-cost path to bringing your data into the rest of your analytics estate — with production support, an enterprise SLA, and...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Mirroring-for-Google-BigQuery-in-Microsoft-Fabric-Generally/ba-p/5364851"
-  },
-  {
-   "id": "bd2bb5525ad4",
-   "titel": "Soft delete for On-premises data gateways in Microsoft Fabric (Preview)",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-09-17",
-   "samenvatting": "Deleting a gateway is currently permanent, so administrators must recreate it if it is removed accidentally. With soft delete, supported gateways are retained for 30 days after deletion, giving authorized administrators time to restore them before permanent deletion. Soft delete feature currently...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Soft-delete-for-On-premises-data-gateways-in-Microsoft-Fabric/ba-p/5365712"
-  },
-  {
-   "id": "604150cc8b51",
-   "titel": "Manage semantic model settings in context with the default settings pane (Preview)",
-   "categorie": "BI",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-09-17",
-   "samenvatting": "The semantic model settings pane is becoming the default way to configure semantic models in the Power BI service. The pane opens alongside your workspace, so you can review and change settings without leaving the current page. It provides the same settings as the full semantic model settings pag...",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Manage-semantic-model-settings-in-context-with-the-default/ba-p/5366792"
-  },
-  {
-   "id": "089089781a94",
-   "titel": "Upcoming changes to legacy Teams and Outlook activities in Fabric Data Factory pipelines",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-09-17",
-   "samenvatting": "Beginning October 30, 2026, users will no longer be able to add new legacy Teams or legacy Outlook activities to pipelines. These legacy activities will no longer appear as options when users add new activities to a pipeline. Existing legacy activity instances can still be edited and used in exis...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Upcoming-changes-to-legacy-Teams-and-Outlook-activities-in/ba-p/5314499"
   }
  ]
 }
