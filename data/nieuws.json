@@ -1,19 +1,19 @@
 {
- "bijgewerkt": "2026-11-17T12:38:45+00:00",
+ "bijgewerkt": "2026-11-18T12:29:18+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
    "status": "OK",
    "items": 20,
-   "bewaard": 7,
-   "verouderd": 12,
+   "bewaard": 9,
+   "verouderd": 10,
    "geweigerd": 0
   },
   {
    "feed": "Microsoft Fabric Blog",
    "status": "OK",
    "items": 20,
-   "bewaard": 19,
+   "bewaard": 20,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -38,7 +38,7 @@
    "status": "OK",
    "items": 50,
    "bewaard": 10,
-   "verouderd": 14,
+   "verouderd": 13,
    "geweigerd": 4
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 4,
+   "bewaard": 3,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 6,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -80,6 +80,36 @@
   }
  ],
  "items": [
+  {
+   "id": "38123d1470dc",
+   "titel": "Een dieselauto met een accu: waarom AI blijft steken na de pilot",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-18",
+   "samenvatting": "Wie de afgelopen jaren een AI-pilot draaide, kent het patroon: de demo overtuigt, het evaluatierapport is positief en daarna blijft het stil. Volgens bestuurders, IT-leiders en securityspecialisten ligt dat zelden aan het model, maar aan wat eronder zit: data, eigenaarschap, ethiek, security en d...",
+   "url": "https://www.techzine.nl/experts/analytics/584142/een-dieselauto-met-een-accu-waarom-ai-blijft-steken-na-de-pilot/"
+  },
+  {
+   "id": "2b6ac5a064d6",
+   "titel": "Infor koppelt ERP voor maakindustrie aan Claude van Anthropic",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-18",
+   "samenvatting": "Infor en Anthropic gaan samenwerken. Met Infor Industry AI for Claude kunnen productieplanners, inkopers en klantenservicemedewerkers vanuit Claude data uit Infor-systemen opvragen en acties uitvoeren. Claude wordt ook de voorkeursassistent en het voorkeursmodel voor de Industry AI-oplossingen va...",
+   "url": "https://www.techzine.nl/nieuws/applications/584154/infor-koppelt-erp-voor-maakindustrie-aan-claude-van-anthropic/"
+  },
+  {
+   "id": "feb579d43b95",
+   "titel": "Power BI November 2026 Feature Summary",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-11-17",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________________ Welcome to the November 2026 Power BI feature summary! We're sharing this mo...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287"
+  },
   {
    "id": "fb30e7605fb6",
    "titel": "Snowflake brengt bedrijfs- en productbeveiliging onder één dak",
@@ -99,6 +129,26 @@
    "datum": "2026-11-17",
    "samenvatting": "De vraag is niet langer hoe we AI-agents verbinden met enterprise-systemen, maar hoe we controle houden zodra ze daarin zelfstandig acties uitvoeren. Hans Bot, enterprise architect bij Yenlo, waarschuwt dat IT-governance fundamenteel op de schop moet. Hij pleit voor een eigen identiteit en wallet...",
    "url": "https://www.techzine.nl/blogs/devops/584073/ai-agents-kloppen-aan-bij-apis-is-governance-er-klaar-voor/"
+  },
+  {
+   "id": "e8a6016d3f88",
+   "titel": "De onmisbare schakel voor AI: Waarom data-integratie het verschil maakt",
+   "categorie": "Data",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-17",
+   "samenvatting": "In dit whitepaper ontdek je waarom veel AI-projecten stranden en hoe je dit in jouw organisatie voorkomt. Vaak werken AI-tools niet zoals gehoopt omdat ze onvoldoende toegang krijgen tot bruikbare data. Dit probleem ontstaat doordat informatie vaak versnipperd is over legacy-systemen, SaaS-oploss...",
+   "url": "https://www.techzine.nl/whitepapers/devops/584119/de-onmisbare-schakel-voor-ai-waarom-data-integratie-het-verschil-maakt/"
+  },
+  {
+   "id": "cf5b81cc0604",
+   "titel": "Fabric November 2026 Feature Summary",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-17",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________ Welcome to the November 2026 Microsoft Fabric feature summary! This month’s updates...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-November-2026-Feature-Summary/ba-p/5414311"
   },
   {
    "id": "cb8bea1fd9df",
@@ -121,6 +171,66 @@
    "url": "https://www.computable.nl/2026/11/17/uva-onderzoekers-kritisch-op-eu-voorstel-digitale-autonomie/"
   },
   {
+   "id": "acf5175b9d2e",
+   "titel": "Microsoft Fabric is Fueling Frontier Transformation",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-17",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. I am elated to be stepping into an expanded role leading Microsoft Fabric at an important moment for our cust...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Microsoft-Fabric-is-Fueling-Frontier-Transformation/ba-p/5422989"
+  },
+  {
+   "id": "a6578f5019b9",
+   "titel": "Kaseya zet MCP-deur open voor LLM’s naar Autotask en Datto RMM",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-17",
+   "samenvatting": "Kaseya brengt eigen MCP-servers uit voor Autotask, Datto RMM en IT Glue. Daarmee kunnen AI-tools zoals Claude, waar de nadruk bij de aankondiging op ligt, direct bij klant-, ticket- en apparaatdata van MSP’s. Andere uitbreidingen zijn Kaseya Insights, dat in alpha verschijnt, en een snellere remo...",
+   "url": "https://www.techzine.nl/nieuws/applications/584115/kaseya-zet-mcp-deur-open-voor-llms-naar-autotask-en-datto-rmm/"
+  },
+  {
+   "id": "9f74702ac72e",
+   "titel": "OneLake: The unified foundation for data, context, governance, and AI",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-17",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Most organizations' data is scattered across dozens of applications, clouds and services. Now that agents nee...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-The-unified-foundation-for-data-context-governance-and/ba-p/5423035"
+  },
+  {
+   "id": "946675224205",
+   "titel": "Power BI at Ignite: Building on the momentum",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-11-17",
+   "samenvatting": "If you haven't already, read Bogdan Crivat's Microsoft Fabric Ignite blog post for a complete look at our Ignite announcements across Microsoft Fabric. Coming out of FabCon/SQLCon in Barcelona and the Power Platform Community Conference, I'm more excited than ever about what's ahead for Power BI....",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-at-Ignite-Building-on-the-momentum/ba-p/5422974"
+  },
+  {
+   "id": "7b83a11c2578",
+   "titel": "Hammerspace Data System gebruikt Open Flash Platform om AI-storage te versimpelen",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-17",
+   "samenvatting": "Zonder data is er geen AI. Toch is data/storage lange tijd een wat ondergeschoven kindje geweest in AI, omdat met name compute maar ook networking meer aandacht kregen. Dat is aan het veranderen. Hammerspace komt tijdens Supercomputing deze week met het eigen Hammerspace Data System, een enkel da...",
+   "url": "https://www.techzine.nl/blogs/infrastructure/584118/hammerspace-data-system-gebruikt-open-flash-platform-om-ai-storage-te-versimpelen/"
+  },
+  {
+   "id": "756bde0d41fc",
+   "titel": "Zebra Technologies zet ai aan de frontlinie van de logistiek",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-17",
+   "samenvatting": "De logistieke sector staat aan de vooravond van een nieuwe fase. Kleine taalmodellen, visuele ai en slimme mobiele apparaten ondersteunen magazijnmedewerkers bij voorraadbeheer, goederenontvangst en kwaliteitscontroles. Dat is de overtuiging van Zebra Technologies.",
+   "url": "https://www.computable.nl/2026/11/17/zebra-technologies-zet-ai-aan-de-frontlinie-van-de-logistiek/"
+  },
+  {
    "id": "74e86eef631b",
    "titel": "Russen breken met human-in-the-loop voor volledig autonome cyberaanval",
    "categorie": "Automatisering",
@@ -129,6 +239,56 @@
    "datum": "2026-11-17",
    "samenvatting": "Google Threat Intelligence Group stuitte op een volledig geautomatiseerde cyberaanval waarbij Franse websites het doelwit waren. Alles van het ontdekken van kwetsbaarheden tot de exploitatie ervan en installatie van webshells was AI-gedreven. Het is de voorhoede van een reeks cyberaanvallen die d...",
    "url": "https://www.techzine.nl/nieuws/security/584088/russen-breken-met-human-in-the-loop-voor-volledig-autonome-cyberaanval/"
+  },
+  {
+   "id": "6e9f6b2b720f",
+   "titel": "Run proactive operations with Real-Time Intelligence in Microsoft Fabric",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-17",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. AI is changing how every organization works. For most teams, the hard question isn't whether to use AI. It's...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Run-proactive-operations-with-Real-Time-Intelligence-in/ba-p/5414256"
+  },
+  {
+   "id": "5f15667c2d3b",
+   "titel": "Build and operate intelligent apps with Microsoft Fabric: New capabilities at Ignite 2026",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-17",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. AI-powered development tools are making it faster than ever to build applications. But moving from prototype...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-and-operate-intelligent-apps-with-Microsoft-Fabric-New/ba-p/5423020"
+  },
+  {
+   "id": "54c0b3160fc0",
+   "titel": "Build governed data apps with Microsoft Fabric Apps (Generally Available)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-17",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. AI has made it much faster to create an initial version of an app. Ask a coding agent to turn the spreadsheet...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-governed-data-apps-with-Microsoft-Fabric-Apps-Generally/ba-p/5423011"
+  },
+  {
+   "id": "3c6506d1a8d8",
+   "titel": "Bringing trusted Fabric IQ context to wherever people and agents work",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-17",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Over the past year, AI has moved from answering questions to doing the work. As the 2026 Microsoft Work Trend...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-trusted-Fabric-IQ-context-to-wherever-people-and-agents/ba-p/5423049"
+  },
+  {
+   "id": "2c7d21a8b083",
+   "titel": "Fabric Data Warehouse at Ignite: Built for AI-era analytics",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-17",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Our telemetry shows that agentic analytics has arrived. Agents query, investigate, iterate, test, and drill d...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Warehouse-at-Ignite-Built-for-AI-era-analytics/ba-p/5414274"
   },
   {
    "id": "1dd9d820d3ce",
@@ -3719,16 +3879,6 @@
    "datum": "2026-09-19",
    "samenvatting": "Learn how to reduce AI workflow latency with production patterns for latency optimization: model routing, caching, parallel execution, timeouts, and budgets.",
    "url": "https://blog.n8n.io/reducing-ai-workflow-latency/"
-  },
-  {
-   "id": "c28cbe2e76d3",
-   "titel": "Extend Server Logic with Power Automate Cloud Flows in Power Pages",
-   "categorie": "Automatisering",
-   "bron": "Microsoft Power Platform Blog (Power Automate)",
-   "taal": "en",
-   "datum": "2026-09-18",
-   "samenvatting": "Server Logic enables makers and developers to execute business logic securely on the server. However, connected business applications often need website experiences to participate in processes that extend beyond the site. We are introducing support for invoking Power Automate cloud flows from Ser...",
-   "url": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/extend-server-logic-with-power-automate-cloud-flows-in-power-pages/"
   }
  ]
 }
