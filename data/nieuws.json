@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-18T12:29:18+00:00",
+ "bijgewerkt": "2026-11-19T12:20:06+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 3,
+   "bewaard": 2,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -76,10 +76,110 @@
    "items": 20,
    "bewaard": 4,
    "verouderd": 0,
-   "geweigerd": 1
+   "geweigerd": 0
   }
  ],
  "items": [
+  {
+   "id": "f56e923c1285",
+   "titel": "SASE staat voor nieuwe uitdaging door opmars van AI-agents",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-19",
+   "samenvatting": "AI heeft een flinke impact op zakelijke IT. Organisaties staan voor de uitdaging om nieuwe applicaties, identiteiten en toegangsmethoden te ondersteunen en willen niet de complexiteit vergroten met opnieuw een laag losstaande beveiligingstools. Er zijn drie ontwikkelingen die bepalend zijn voor d...",
+   "url": "https://www.techzine.nl/experts/security/584174/sase-staat-voor-nieuwe-uitdaging-door-opmars-van-ai-agents/"
+  },
+  {
+   "id": "ca9df54ac5bc",
+   "titel": "MongoDB neemt Firebolt over voor real-time analytics",
+   "categorie": "Data",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-19",
+   "samenvatting": "MongoDB heeft Firebolt overgenomen, de maker van een high-performance analytics-engine. De engine gaat naast de operationele database draaien en blijft automatisch gesynchroniseerd. Zo moeten applicaties en AI-agents analyses op live data uitvoeren zonder aparte datapijplijn. Wie analyses wil dra...",
+   "url": "https://www.techzine.nl/nieuws/analytics/584185/mongodb-neemt-firebolt-over-voor-real-time-analytics/"
+  },
+  {
+   "id": "a6b3f971235c",
+   "titel": "Atlassian: AI maakt code goedkoper, knelpunt verschuift",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-19",
+   "samenvatting": "In oktober daalden de AI-kosten per eenheid output voor het eerst in zes maanden, met bijna 28 procent. Ook blijft meer AI-code behouden. Toch verschuift het knelpunt naar review, planning en documentatie. Dat blijkt uit data van Atlassian. Van april tot en met september 2026 stegen de AI-uitgave...",
+   "url": "https://www.techzine.nl/nieuws/devops/584172/atlassian-ai-maakt-code-goedkoper-knelpunt-verschuift/"
+  },
+  {
+   "id": "81b5092009b0",
+   "titel": "Anthropic officieel grootste beursgang: haalt 81,3 miljard op",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-19",
+   "samenvatting": "Anthropic haalt 81,3 miljard dollar op met zijn beursgang, de grootste ooit. De maker van Claude prijst zijn aandelen op 83 dollar per stuk en komt daarmee uit op een waardering van ongeveer 1,5 biljoen dollar. Vanaf donderdag wordt het aandeel op de Amerikaanse Nasdaq-beurs verhandeld. Anthropic...",
+   "url": "https://www.techzine.nl/nieuws/analytics/584167/anthropic-officieel-grootste-beursgang-haalt-813-miljard-op/"
+  },
+  {
+   "id": "6e4c3a5e4eb3",
+   "titel": "Autoriteit Persoonsgegevens: 'AI-camerabrillen brengen veiligheid in gevaar'",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-11-19",
+   "samenvatting": "AI-camerabrillen brengen de veiligheid van gebruikers en omstanders in gevaar. Dat concludeert de Autoriteit Persoonsgegevens (AP) na onderzoek. De privacywaakhond raadt de aankoop van AI-brillen af. De AP waarschuwde eerder al dat het filmen van omstanders vrijwel altijd verboden is, maar nu bli...",
+   "url": "https://nos.nl/l/2640119"
+  },
+  {
+   "id": "3c333deb4ac9",
+   "titel": "Fellowmind helpt maakindustrie kansen van AI benutten",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-19",
+   "samenvatting": "Kunstmatige intelligentie biedt de Nederlandse maakindustrie volop ruimte om slimmer, efficiënter en innovatiever te werken. Toch staat de toepassing ervan bij veel bedrijven nog in de kinderschoenen. Volgens Fellowmind is dit een goed moment om daar verandering in te brengen.",
+   "url": "https://www.computable.nl/2026/11/19/fellowmind-helpt-maakindustrie-kansen-van-ai-benutten/"
+  },
+  {
+   "id": "feb579d43b95",
+   "titel": "Power BI November 2026 Feature Summary",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-11-18",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________________ Welcome to the November 2026 Power BI feature summary! We're sharing this mo...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287"
+  },
+  {
+   "id": "cf5b81cc0604",
+   "titel": "Fabric November 2026 Feature Summary",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-18",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________ Welcome to the November 2026 Microsoft Fabric feature summary! This month’s updates...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-November-2026-Feature-Summary/ba-p/5414311"
+  },
+  {
+   "id": "6e9f6b2b720f",
+   "titel": "Run proactive operations with Real-Time Intelligence in Microsoft Fabric",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-18",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. AI is changing how every organization works. For most teams, the hard question isn't whether to use AI. It's...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Run-proactive-operations-with-Real-Time-Intelligence-in/ba-p/5414256"
+  },
+  {
+   "id": "3c6506d1a8d8",
+   "titel": "Bringing trusted Fabric IQ context to wherever people and agents work",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-18",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Over the past year, AI has moved from answering questions to doing the work. As the 2026 Microsoft Work Trend...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-trusted-Fabric-IQ-context-to-wherever-people-and-agents/ba-p/5423049"
+  },
   {
    "id": "38123d1470dc",
    "titel": "Een dieselauto met een accu: waarom AI blijft steken na de pilot",
@@ -89,6 +189,16 @@
    "datum": "2026-11-18",
    "samenvatting": "Wie de afgelopen jaren een AI-pilot draaide, kent het patroon: de demo overtuigt, het evaluatierapport is positief en daarna blijft het stil. Volgens bestuurders, IT-leiders en securityspecialisten ligt dat zelden aan het model, maar aan wat eronder zit: data, eigenaarschap, ethiek, security en d...",
    "url": "https://www.techzine.nl/experts/analytics/584142/een-dieselauto-met-een-accu-waarom-ai-blijft-steken-na-de-pilot/"
+  },
+  {
+   "id": "2c7d21a8b083",
+   "titel": "Fabric Data Warehouse at Ignite: Built for AI-era analytics",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-18",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Our telemetry shows that agentic analytics has arrived. Agents query, investigate, iterate, test, and drill d...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Warehouse-at-Ignite-Built-for-AI-era-analytics/ba-p/5414274"
   },
   {
    "id": "2b6ac5a064d6",
@@ -101,14 +211,14 @@
    "url": "https://www.techzine.nl/nieuws/applications/584154/infor-koppelt-erp-voor-maakindustrie-aan-claude-van-anthropic/"
   },
   {
-   "id": "feb579d43b95",
-   "titel": "Power BI November 2026 Feature Summary",
-   "categorie": "BI",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-11-17",
-   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________________ Welcome to the November 2026 Power BI feature summary! We're sharing this mo...",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287"
+   "id": "04a4db4aac48",
+   "titel": "Beurs waardeert Anthropic op 1,5 biljoen dollar",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-18",
+   "samenvatting": "De beursgang van Anthropic, de eerste grote aandelenuitgifte van een ai-modellenbouwer, trekt sterke belangstelling. Het toonaangevende ai-bedrijf gaat voor 83 dollar per aandeel naar de beurs. Dat ligt aan de bovenkant van de verwachtingen.",
+   "url": "https://www.computable.nl/2026/11/19/beurs-waardeert-anthropic-op-15-biljoen-dollar/"
   },
   {
    "id": "fb30e7605fb6",
@@ -139,16 +249,6 @@
    "datum": "2026-11-17",
    "samenvatting": "In dit whitepaper ontdek je waarom veel AI-projecten stranden en hoe je dit in jouw organisatie voorkomt. Vaak werken AI-tools niet zoals gehoopt omdat ze onvoldoende toegang krijgen tot bruikbare data. Dit probleem ontstaat doordat informatie vaak versnipperd is over legacy-systemen, SaaS-oploss...",
    "url": "https://www.techzine.nl/whitepapers/devops/584119/de-onmisbare-schakel-voor-ai-waarom-data-integratie-het-verschil-maakt/"
-  },
-  {
-   "id": "cf5b81cc0604",
-   "titel": "Fabric November 2026 Feature Summary",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-11-17",
-   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________ Welcome to the November 2026 Microsoft Fabric feature summary! This month’s updates...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-November-2026-Feature-Summary/ba-p/5414311"
   },
   {
    "id": "cb8bea1fd9df",
@@ -241,16 +341,6 @@
    "url": "https://www.techzine.nl/nieuws/security/584088/russen-breken-met-human-in-the-loop-voor-volledig-autonome-cyberaanval/"
   },
   {
-   "id": "6e9f6b2b720f",
-   "titel": "Run proactive operations with Real-Time Intelligence in Microsoft Fabric",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-11-17",
-   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. AI is changing how every organization works. For most teams, the hard question isn't whether to use AI. It's...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Run-proactive-operations-with-Real-Time-Intelligence-in/ba-p/5414256"
-  },
-  {
    "id": "5f15667c2d3b",
    "titel": "Build and operate intelligent apps with Microsoft Fabric: New capabilities at Ignite 2026",
    "categorie": "BI",
@@ -269,26 +359,6 @@
    "datum": "2026-11-17",
    "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. AI has made it much faster to create an initial version of an app. Ask a coding agent to turn the spreadsheet...",
    "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-governed-data-apps-with-Microsoft-Fabric-Apps-Generally/ba-p/5423011"
-  },
-  {
-   "id": "3c6506d1a8d8",
-   "titel": "Bringing trusted Fabric IQ context to wherever people and agents work",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-11-17",
-   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Over the past year, AI has moved from answering questions to doing the work. As the 2026 Microsoft Work Trend...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-trusted-Fabric-IQ-context-to-wherever-people-and-agents/ba-p/5423049"
-  },
-  {
-   "id": "2c7d21a8b083",
-   "titel": "Fabric Data Warehouse at Ignite: Built for AI-era analytics",
-   "categorie": "Data",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-11-17",
-   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Our telemetry shows that agentic analytics has arrived. Agents query, investigate, iterate, test, and drill d...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Warehouse-at-Ignite-Built-for-AI-era-analytics/ba-p/5414274"
   },
   {
    "id": "1dd9d820d3ce",
@@ -3869,16 +3939,6 @@
    "datum": "2026-09-21",
    "samenvatting": "Still guessing if your prompts work? Learn how to build a systematic prompt testing framework that catches regressions before they reach production.",
    "url": "https://blog.n8n.io/prompt-testing-frameworks/"
-  },
-  {
-   "id": "46e387671e19",
-   "titel": "Reducing AI Workflow Latency: Patterns That Actually Work",
-   "categorie": "AI",
-   "bron": "n8n Blog (workflow-automatisering)",
-   "taal": "en",
-   "datum": "2026-09-19",
-   "samenvatting": "Learn how to reduce AI workflow latency with production patterns for latency optimization: model routing, caching, parallel execution, timeouts, and budgets.",
-   "url": "https://blog.n8n.io/reducing-ai-workflow-latency/"
   }
  ]
 }
