@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-19T12:20:06+00:00",
+ "bijgewerkt": "2026-11-20T12:20:38+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 10,
-   "verouderd": 13,
+   "bewaard": 12,
+   "verouderd": 11,
    "geweigerd": 4
   },
   {
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 6,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -74,12 +74,72 @@
    "feed": "NOS Tech",
    "status": "OK",
    "items": 20,
-   "bewaard": 4,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   }
  ],
  "items": [
+  {
+   "id": "7690963a6138",
+   "titel": "Cybersecurity wordt een strijd tussen autonome systemen",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-20",
+   "samenvatting": "Dat AI nieuwe mogelijkheden biedt voor cybercriminelen, is inmiddels bekend. Aanvallers kunnen bestaande aanvalstechnieken sneller uitvoeren, cyberaanvallen automatiseren en hebben dankzij AI minder technische kennis nodig. Tegelijkertijd speelt AI ook een steeds grotere rol aan de verdedigende k...",
+   "url": "https://www.techzine.nl/experts/security/584227/cybersecurity-wordt-een-strijd-tussen-autonome-systemen/"
+  },
+  {
+   "id": "6ba50e757dba",
+   "titel": "Google stuurt AI-systemen de ruimte in met Blue Origin",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-20",
+   "samenvatting": "Google heeft Blue Origin gekozen voor de eerste heavy-lift lancering van Project Suncatcher. De New Glenn-raket moet in het eerste kwartaal van 2029 satellieten met TPU’s in een zonsynchrone baan brengen. Elke satelliet krijgt ongeveer de rekenkracht van een datacenterrack. De twee bedrijven hebb...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/584215/google-stuurt-ai-systemen-de-ruimte-in-met-blue-origin/"
+  },
+  {
+   "id": "6344c0c2f39d",
+   "titel": "Kort: AP waarschuwt voor ai-bril, Defensie en Iceye intensiveren ‘space-samenwerking’ (en meer)",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-20",
+   "samenvatting": "AP waarschuwt voor privacy- en veiligheidsrisico’s ai-camerabrillen, Iceye investeert in Nederlandse productie van satelliettechnologie, Duitse cybersecurityleverancier Igel bereikt unicorn-status, Goldman Sachs waardeert fintechbedrijf Payhawk op twee miljard dollar, en promoties in de techsector.",
+   "url": "https://www.computable.nl/2026/11/20/kort-ap-waarschuwt-voor-ai-bril-defensie-en-iceye-intensiveren-space-samenwerking-en-meer/"
+  },
+  {
+   "id": "491119b47d5d",
+   "titel": "The Orchestrators: Inside the Build with Peter Bojtos",
+   "categorie": "Automatisering",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-11-20",
+   "samenvatting": "Every Camundi has a before and an after with AI. Discover how Peter rebuilt Camunda's migration tooling by letting BPMN orchestrate AI agents.",
+   "url": "https://camunda.com/blog/2026/11/the-orchestrators-inside-the-build-with-peter-bojtos/"
+  },
+  {
+   "id": "2c7d21a8b083",
+   "titel": "Fabric Data Warehouse at Ignite: Built for AI-era analytics",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-20",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Our telemetry shows that agentic analytics has arrived. Agents query, investigate, iterate, test, and drill d...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Warehouse-at-Ignite-Built-for-AI-era-analytics/ba-p/5414274"
+  },
+  {
+   "id": "04e1d2d606f5",
+   "titel": "Deutsche Telekom jaagt soevereine AI aan met 100 miljoen voor Mistral",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-20",
+   "samenvatting": "Deutsche Telekom (DT) steekt via zijn investeringstak T.Capital Tech Fund 100 miljoen euro in het Franse Mistral AI. Het Duitse telecombedrijf noemt het de eerste stap richting een strategisch partnerschap, waarbij het dezelfde bewoording kiest als grootschalig investeerder ASML. Samen met Mistra...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/584232/deutsche-telekom-jaagt-soevereine-ai-aan-met-100-miljoen-voor-mistral/"
+  },
   {
    "id": "f56e923c1285",
    "titel": "SASE staat voor nieuwe uitdaging door opmars van AI-agents",
@@ -89,6 +149,16 @@
    "datum": "2026-11-19",
    "samenvatting": "AI heeft een flinke impact op zakelijke IT. Organisaties staan voor de uitdaging om nieuwe applicaties, identiteiten en toegangsmethoden te ondersteunen en willen niet de complexiteit vergroten met opnieuw een laag losstaande beveiligingstools. Er zijn drie ontwikkelingen die bepalend zijn voor d...",
    "url": "https://www.techzine.nl/experts/security/584174/sase-staat-voor-nieuwe-uitdaging-door-opmars-van-ai-agents/"
+  },
+  {
+   "id": "ec9dba1ce026",
+   "titel": "Recordbeursgang voor AI-bedrijf Anthropic, koers stijgt meteen met een derde",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-11-19",
+   "samenvatting": "Het aandeel van AI-bedrijf Anthropic is de eerste uren na de beursgang flink in waarde gestegen. De openingskoers van het bedrijf achter AI-model Claude stond rond 17.45 uur Nederlandse tijd op 111 dollar. Dat is ruim een derde hoger dan de introductieprijs. Anthropic haalt met de beursgang 81 mi...",
+   "url": "https://nos.nl/l/2640176"
   },
   {
    "id": "ca9df54ac5bc",
@@ -111,6 +181,26 @@
    "url": "https://www.techzine.nl/nieuws/devops/584172/atlassian-ai-maakt-code-goedkoper-knelpunt-verschuift/"
   },
   {
+   "id": "983209428e7a",
+   "titel": "Fix the process first: lessons from Reuters Momentum AI Finance",
+   "categorie": "AI",
+   "bron": "Camunda Blog (procesautomatisering)",
+   "taal": "en",
+   "datum": "2026-11-19",
+   "samenvatting": "Bank leaders kept reaching the same conclusion: re-engineer the work before agents run it.",
+   "url": "https://camunda.com/blog/2026/11/2026-reuters-momentum-ai-finance/"
+  },
+  {
+   "id": "9266b9793617",
+   "titel": "DDR6 wordt kleiner, kostbaarder en een AI-werkpaard",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-19",
+   "samenvatting": "JEDEC, de organisatie die de open standaarden voor computergeheugen bepaalt, geeft een nieuwe voorproef van DDR6. De transfersnelheid stevent af op 12,8 GT/s, ofwel 12.800 MT/s. Dat is circa drie keer sneller dan de JEDEC-standaard voor DDR5 op 4800 MT/s. Echter is de belangrijkere specificatie v...",
+   "url": "https://www.techzine.nl/nieuws/devices/584194/ddr6-wordt-kleiner-kostbaarder-en-een-ai-werkpaard/"
+  },
+  {
    "id": "81b5092009b0",
    "titel": "Anthropic officieel grootste beursgang: haalt 81,3 miljard op",
    "categorie": "AI",
@@ -121,13 +211,23 @@
    "url": "https://www.techzine.nl/nieuws/analytics/584167/anthropic-officieel-grootste-beursgang-haalt-813-miljard-op/"
   },
   {
+   "id": "6e9f6b2b720f",
+   "titel": "Run proactive operations with Real-Time Intelligence in Microsoft Fabric",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-19",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. AI is changing how every organization works. For most teams, the hard question isn't whether to use AI. It's...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Run-proactive-operations-with-Real-Time-Intelligence-in/ba-p/5414256"
+  },
+  {
    "id": "6e4c3a5e4eb3",
    "titel": "Autoriteit Persoonsgegevens: 'AI-camerabrillen brengen veiligheid in gevaar'",
    "categorie": "AI",
    "bron": "NOS Tech",
    "taal": "nl",
    "datum": "2026-11-19",
-   "samenvatting": "AI-camerabrillen brengen de veiligheid van gebruikers en omstanders in gevaar. Dat concludeert de Autoriteit Persoonsgegevens (AP) na onderzoek. De privacywaakhond raadt de aankoop van AI-brillen af. De AP waarschuwde eerder al dat het filmen van omstanders vrijwel altijd verboden is, maar nu bli...",
+   "samenvatting": "AI-camerabrillen brengen de veiligheid van gebruikers en omstanders in gevaar. Dat concludeert de Autoriteit Persoonsgegevens (AP) na onderzoek. De privacywaakhond raadt de aankoop van AI-brillen af. De AP waarschuwde eerder al dat het filmen van omstanders met zo'n bril vrijwel altijd verboden i...",
    "url": "https://nos.nl/l/2640119"
   },
   {
@@ -139,6 +239,16 @@
    "datum": "2026-11-19",
    "samenvatting": "Kunstmatige intelligentie biedt de Nederlandse maakindustrie volop ruimte om slimmer, efficiënter en innovatiever te werken. Toch staat de toepassing ervan bij veel bedrijven nog in de kinderschoenen. Volgens Fellowmind is dit een goed moment om daar verandering in te brengen.",
    "url": "https://www.computable.nl/2026/11/19/fellowmind-helpt-maakindustrie-kansen-van-ai-benutten/"
+  },
+  {
+   "id": "30a2c9c9884f",
+   "titel": "Anthropic is nu beursgenoteerd en de AI-hype krijgt een stresstest",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-19",
+   "samenvatting": "In januari 2021 begonnen zeven voormalige OpenAI-medewerkers met een nieuw AI-bedrijf: Anthropic. Een kleine zes jaar later weet de maker van het alomtegenwoordige Claude eerder de Nasdaq te bereiken dan OpenAI. Belangrijker is het traject dat de waarde van het AI-bedrijf nu neemt na een afgezwak...",
+   "url": "https://www.techzine.nl/blogs/applications/584200/anthropic-is-nu-beursgenoteerd-en-de-ai-hype-krijgt-een-stresstest/"
   },
   {
    "id": "feb579d43b95",
@@ -161,14 +271,14 @@
    "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-November-2026-Feature-Summary/ba-p/5414311"
   },
   {
-   "id": "6e9f6b2b720f",
-   "titel": "Run proactive operations with Real-Time Intelligence in Microsoft Fabric",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
+   "id": "ac9779d43ab3",
+   "titel": "Turn AI ambition into real business value with Power Platform",
+   "categorie": "AI",
+   "bron": "Microsoft Power Platform Blog (Power Automate)",
    "taal": "en",
    "datum": "2026-11-18",
-   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. AI is changing how every organization works. For most teams, the hard question isn't whether to use AI. It's...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Run-proactive-operations-with-Real-Time-Intelligence-in/ba-p/5414256"
+   "samenvatting": "At Microsoft Ignite 2026, see how Power Platform helps you put AI to work without starting over. The post Turn AI ambition into real business value with Power Platform appeared first on Microsoft Power Platform Blog.",
+   "url": "https://www.microsoft.com/en-us/power-platform/blog/2026/11/18/turn-ai-ambition-into-real-business-value-with-power-platform/"
   },
   {
    "id": "3c6506d1a8d8",
@@ -189,16 +299,6 @@
    "datum": "2026-11-18",
    "samenvatting": "Wie de afgelopen jaren een AI-pilot draaide, kent het patroon: de demo overtuigt, het evaluatierapport is positief en daarna blijft het stil. Volgens bestuurders, IT-leiders en securityspecialisten ligt dat zelden aan het model, maar aan wat eronder zit: data, eigenaarschap, ethiek, security en d...",
    "url": "https://www.techzine.nl/experts/analytics/584142/een-dieselauto-met-een-accu-waarom-ai-blijft-steken-na-de-pilot/"
-  },
-  {
-   "id": "2c7d21a8b083",
-   "titel": "Fabric Data Warehouse at Ignite: Built for AI-era analytics",
-   "categorie": "Data",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-11-18",
-   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. Our telemetry shows that agentic analytics has arrived. Agents query, investigate, iterate, test, and drill d...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Warehouse-at-Ignite-Built-for-AI-era-analytics/ba-p/5414274"
   },
   {
    "id": "2b6ac5a064d6",
