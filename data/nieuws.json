@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-20T12:20:38+00:00",
+ "bijgewerkt": "2026-11-21T11:54:29+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -31,7 +31,7 @@
    "items": 10,
    "bewaard": 5,
    "verouderd": 0,
-   "geweigerd": 0
+   "geweigerd": 1
   },
   {
    "feed": "Camunda Blog (procesautomatisering)",
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 6,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -74,12 +74,22 @@
    "feed": "NOS Tech",
    "status": "OK",
    "items": 20,
-   "bewaard": 5,
+   "bewaard": 4,
    "verouderd": 0,
    "geweigerd": 0
   }
  ],
  "items": [
+  {
+   "id": "bfd1a8f9e9fd",
+   "titel": "Voor Red Bull is compute ook een tco-race",
+   "categorie": "Data",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-20",
+   "samenvatting": "De Formule 1 staat bekend als een technologische speeltuin waar teams voortdurend investeren in software, simulaties en data-analyse. Toch vormt niet de technologie niet de grootste uitdaging maar kostenbeheersing, aldus Martin Galpin, hoofd van de divisie Software Engineering Oracle Red Bull.",
+   "url": "https://www.computable.nl/2026/11/20/voor-red-bull-is-compute-ook-een-tco-race/"
+  },
   {
    "id": "7690963a6138",
    "titel": "Cybersecurity wordt een strijd tussen autonome systemen",
@@ -111,6 +121,26 @@
    "url": "https://www.computable.nl/2026/11/20/kort-ap-waarschuwt-voor-ai-bril-defensie-en-iceye-intensiveren-space-samenwerking-en-meer/"
   },
   {
+   "id": "5e6f37b3af0d",
+   "titel": "JFrog bouwt drie lagen vertrouwen in Software Supply Chain",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-20",
+   "samenvatting": "Om AI-agents in de Software Supply Chain (SSC) onder controle te houden, bouwt JFrog drie lagen in zijn platform. Het gaat om afscherming van wat agents binnenhalen (Immunize), automatische remediatie van wat agents releasen (Remediate) en wat agents verschepen (Control). JFrog ziet dat vertrouwe...",
+   "url": "https://www.techzine.nl/blogs/devops/584239/jfrog-bouwt-drie-lagen-vertrouwen-in-software-supply-chain/"
+  },
+  {
+   "id": "55f41f0fb982",
+   "titel": "Cursor overweegt Chinese AI-modellen uit te faseren",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-20",
+   "samenvatting": "Hoe goed de open-weight modellen van Chinese AI-bedrijven ook zijn, Cursor wil van ze af. Het dochterbedrijf van SpaceX ziet geopolitieke risico’s als een belangrijke motivatie om van de afhankelijkheid af te komen. Dit terwijl het eigen Composer 2 zelf niet mogelijk was geweest zonder foundation...",
+   "url": "https://www.techzine.nl/nieuws/devops/584237/cursor-overweegt-chinese-ai-modellen-uit-te-faseren/"
+  },
+  {
    "id": "491119b47d5d",
    "titel": "The Orchestrators: Inside the Build with Peter Bojtos",
    "categorie": "Automatisering",
@@ -119,6 +149,16 @@
    "datum": "2026-11-20",
    "samenvatting": "Every Camundi has a before and an after with AI. Discover how Peter rebuilt Camunda's migration tooling by letting BPMN orchestrate AI agents.",
    "url": "https://camunda.com/blog/2026/11/the-orchestrators-inside-the-build-with-peter-bojtos/"
+  },
+  {
+   "id": "3bfe4bed38ab",
+   "titel": "On-premises data gateway November 2026 release",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-20",
+   "samenvatting": "The November 2026 release of the on-premises data gateway (version 3000.342) continues our commitment to secure, reliable and accessible connectivity between on-premises data sources and Microsoft Fabric services. This release focuses on strengthening gateway security, improving performance and r...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-November-2026-release/ba-p/5430005"
   },
   {
    "id": "2c7d21a8b083",
@@ -4029,16 +4069,6 @@
    "datum": "2026-09-22",
    "samenvatting": "The time has come: in 2026, using AI to write DAX has started to be effective. Let me recap what has changed between 2023 and 2026, and what we are doing with our three new courses to best assist you…",
    "url": "https://www.sqlbi.com/blog/marco/2026/09/22/where-we-stand-on-ai-and-dax-in-2026/"
-  },
-  {
-   "id": "257f8621f3cc",
-   "titel": "Prompt Testing Frameworks for Production AI Workflows",
-   "categorie": "AI",
-   "bron": "n8n Blog (workflow-automatisering)",
-   "taal": "en",
-   "datum": "2026-09-21",
-   "samenvatting": "Still guessing if your prompts work? Learn how to build a systematic prompt testing framework that catches regressions before they reach production.",
-   "url": "https://blog.n8n.io/prompt-testing-frameworks/"
   }
  ]
 }
