@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-21T11:54:29+00:00",
+ "bijgewerkt": "2026-11-22T12:09:01+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -21,8 +21,8 @@
    "feed": "SQLBI",
    "status": "OK",
    "items": 30,
-   "bewaard": 4,
-   "verouderd": 21,
+   "bewaard": 3,
+   "verouderd": 22,
    "geweigerd": 0
   },
   {
@@ -4059,16 +4059,6 @@
    "datum": "2026-09-23",
    "samenvatting": "Every Camundi has a before and an after with AI. Discover how Joyce Johnson uses AI-first ways of working to build richer demos, streamline technical storytelling, and work faster at Camunda.",
    "url": "https://camunda.com/blog/2026/09/the-orchestrators-inside-the-build-with-joyce-johnson/"
-  },
-  {
-   "id": "be7478f941e6",
-   "titel": "Where we stand on AI and DAX in 2026",
-   "categorie": "BI",
-   "bron": "SQLBI",
-   "taal": "en",
-   "datum": "2026-09-22",
-   "samenvatting": "The time has come: in 2026, using AI to write DAX has started to be effective. Let me recap what has changed between 2023 and 2026, and what we are doing with our three new courses to best assist you…",
-   "url": "https://www.sqlbi.com/blog/marco/2026/09/22/where-we-stand-on-ai-and-dax-in-2026/"
   }
  ]
 }
