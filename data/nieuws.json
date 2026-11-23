@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-22T12:09:01+00:00",
+ "bijgewerkt": "2026-11-23T13:52:31+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 12,
-   "verouderd": 11,
+   "bewaard": 11,
+   "verouderd": 12,
    "geweigerd": 4
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 2,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -80,6 +80,66 @@
   }
  ],
  "items": [
+  {
+   "id": "bd4bdc2508e7",
+   "titel": "Oracle stelt financiering voor OpenAI-datacenters veilig",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-23",
+   "samenvatting": "Oracle heeft de financiering veilig weten te stellen die nodig is voor de eerder gesloten infrastructuurovereenkomst met OpenAI. De aankondiging volgt op zorgen onder beleggers over de kosten voor de bouw van grootschalige AI-datacenters. Ook de financiële blootstelling van Oracle aan OpenAI maak...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/584290/oracle-stelt-financiering-voor-openai-datacenters-veilig/"
+  },
+  {
+   "id": "91f8bf1ea462",
+   "titel": "Bedrijven massaal aan ai, maar baanbrekende innovatie blijft achter",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-23",
+   "samenvatting": "Bijna negen op de tien Nederlandse bedrijven gebruikt ai, maar de technologie leidt nog nauwelijks tot fundamenteel nieuwe producten en diensten. Dat blijkt uit de 'Nederlandse Innovatie Monitor 2026'.",
+   "url": "https://www.computable.nl/2026/11/23/bedrijven-massaal-aan-ai-maar-baanbrekende-innovatie-blijft-achter/"
+  },
+  {
+   "id": "86bcab725a4c",
+   "titel": "‘Ai-agents laten opvallend veel sporen na bij cyberaanval’",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-23",
+   "samenvatting": "Cybercriminelen zetten ai steeds vaker in om aanvallen te versnellen en op te schalen. Toch blijken diezelfde ai-systemen soms meer sporen achter te laten dan traditionele aanvallers doen.",
+   "url": "https://www.computable.nl/2026/11/23/ai-agents-laten-opvallend-veel-sporen-na-bij-cyberaanval/"
+  },
+  {
+   "id": "782048698cc4",
+   "titel": "AI beveiligen? Kijk niet alleen naar wat het mag, maar vooral naar wat het doet",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-23",
+   "samenvatting": "AI is in steeds meer organisaties onderdeel van de dagelijkse praktijk; medewerkers gebruiken generatieve AI om informatie te verwerken en processen te versnellen, terwijl AI-agents steeds vaker zelfstandig taken uitvoeren. Maar hoe houd je grip op technologie die niet altijd voorspelbaar handelt...",
+   "url": "https://www.techzine.nl/experts/security/584285/ai-beveiligen-kijk-niet-alleen-naar-wat-het-mag-maar-vooral-naar-wat-het-doet/"
+  },
+  {
+   "id": "1873ce5b1e77",
+   "titel": "Inkling 2 Mini: wat Claude Opus vorig jaar kon, kan lokale AI nu",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-23",
+   "samenvatting": "Medio 2025 was Claude Opus 4.1 zo ongeveer het beste AI-model voor elke taak. Anthropic borduurde voort op dit succes met nieuwe LLM’s die achter gesloten muren bleven. Lokale, open AI heeft nu dezelfde prestaties als deze state-of-the-art anderhalf jaar geleden in de vorm van Inkling 2 Mini. Mak...",
+   "url": "https://www.techzine.nl/nieuws/applications/584254/inkling-2-mini-wat-claude-opus-vorig-jaar-kon-kan-lokale-ai-nu/"
+  },
+  {
+   "id": "0883d93329e9",
+   "titel": "Kort: Ai-tokens zetten ict onder druk, kritieke lekken in F5 Big-IP en meer",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-23",
+   "samenvatting": "In het nieuwsoverzicht van Computable: explosieve groei ai-tokens legt druk op opslag- en infrastructuursystemen, 5 kritieke kwetsbaarheden in F5 BIG-IP, een nieuwe beheerlaag van voor Claude binnen AWS, startkapitaal voor ai-platform cannabisinformatie Toke en Northwave wint innovatieprijs.",
+   "url": "https://www.computable.nl/2026/11/23/kort-ai-tokens-zetten-ict-onder-druk-kritieke-lekken-in-f5-big-ip-en-meer/"
+  },
   {
    "id": "bfd1a8f9e9fd",
    "titel": "Voor Red Bull is compute ook een tco-race",
@@ -4039,26 +4099,6 @@
    "datum": "2026-09-24",
    "samenvatting": "Bij de top vandaag in Washington tussen de Chinese president Xi Jiping en zijn Amerikaanse gastheer Trump zal ook de ontwikkeling van AI ter tafel komen. Zowel China als de VS is er veel aan gelegen de onbetwiste leider te worden in het toepassen van kunstmatige intelligentie. Een dergelijke posi...",
    "url": "https://nos.nl/l/2632294"
-  },
-  {
-   "id": "88cdeae290e7",
-   "titel": "Modern List in Power Pages is now generally available",
-   "categorie": "Automatisering",
-   "bron": "Microsoft Power Platform Blog (Power Automate)",
-   "taal": "en",
-   "datum": "2026-09-23",
-   "samenvatting": "Today, we’re announcing the general availability of Modern List in Power Pages, a refreshed data presentation experience that helps makers showcase Dataverse data with modern Fluent UI components, seamless infinite scrolling, inline filtering, shimmer loading, flexible low-code customization and...",
-   "url": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/modern-list-in-power-pages-is-now-generally-available/"
-  },
-  {
-   "id": "3f9d6de4fb36",
-   "titel": "The Orchestrators: Inside the Build with Joyce Johnson",
-   "categorie": "Automatisering",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-09-23",
-   "samenvatting": "Every Camundi has a before and an after with AI. Discover how Joyce Johnson uses AI-first ways of working to build richer demos, streamline technical storytelling, and work faster at Camunda.",
-   "url": "https://camunda.com/blog/2026/09/the-orchestrators-inside-the-build-with-joyce-johnson/"
   }
  ]
 }
