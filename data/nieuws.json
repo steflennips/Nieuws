@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-23T13:52:31+00:00",
+ "bijgewerkt": "2026-11-24T14:25:28+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 4,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,9 +66,9 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 5,
+   "bewaard": 4,
    "verouderd": 0,
-   "geweigerd": 0
+   "geweigerd": 1
   },
   {
    "feed": "NOS Tech",
@@ -80,6 +80,116 @@
   }
  ],
  "items": [
+  {
+   "id": "c31a61d7386c",
+   "titel": "Data en ai maken duurzame keuzes aantrekkelijker voor consumenten en bedrijven",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-24",
+   "samenvatting": "Bedrijven kunnen geld verdienen en toch iets goeds doen voor de samenleving. Zeker als ze slim gebruik maken van data kan winstgevendheid samen gaan met maatschappelijk verantwoord ondernemen.",
+   "url": "https://www.computable.nl/2026/11/24/data-en-ai-maken-duurzame-keuzes-aantrekkelijker-voor-consumenten-en-bedrijven/"
+  },
+  {
+   "id": "a65f7da2e3fd",
+   "titel": "OutSystems lanceert beheerde European Sovereign Cloud op STACKIT",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-24",
+   "samenvatting": "OutSystems maakt per direct een volledig beheerde European Sovereign Cloud beschikbaar. Het platform draait op de infrastructuur van STACKIT en wordt samen met valantic aangeboden. De nieuwe omgeving combineert het OutSystems-platform met de soevereine cloud van STACKIT. Data blijft binnen Europa...",
+   "url": "https://www.techzine.nl/nieuws/devops/584342/outsystems-lanceert-beheerde-european-sovereign-cloud-op-stackit/"
+  },
+  {
+   "id": "956bad50000d",
+   "titel": "Security in het tijdperk van AI-agents: vier principes",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-24",
+   "samenvatting": "Bestaande security-oplossingen stammen uit een tijd waarin technologie alleen deed wat mensen ze opdroegen. Maar de opkomst van autonome AI-agents maakt die aanpak onhoudbaar. Dreigingen opsporen alleen is niet langer genoeg. Vier principes voorkomen dat dreigingen escaleren: handel op AI-snelhei...",
+   "url": "https://www.techzine.nl/experts/security/584350/security-in-het-tijdperk-van-ai-agents-vier-principes/"
+  },
+  {
+   "id": "8e89097d9390",
+   "titel": "Amazon neemt AI-optimalisatietechnologie van Decart over",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-24",
+   "samenvatting": "Amazon maakt bekend dat het een overeenkomst heeft getekend voor de overname van de technologie achter de ‘Decart Optimization Stack’ (DOS). De medeoprichters van Decart, Dean Leitersdorf, Moshe Shalev en Orian Leitersdorf, maken samen met hun team van AI-onderzoekers en ingenieurs de overstap na...",
+   "url": "https://www.techzine.nl/nieuws/infrastructure/584348/amazon-neemt-ai-optimalisatietechnologie-van-decart-over/"
+  },
+  {
+   "id": "56a6498bd96d",
+   "titel": "Kort: Zuid-Holland deelt digitale monitor, BumaStemra dreigt met rechtszaak tegen ai-muziek (en meer)",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-24",
+   "samenvatting": "Zuid-Holland deelt openbare monitor digitalisering, Verzekeraar QBE ziet forse stijging ransomware-slachtoffers, veel softwareontwikkelaars keuren ai-gegenereerde code goed zonder die te begrijpen, Workday ziet groei van ai-agents en Europese klanten, BumaStemra dreigt met rechstzaak tegen ai",
+   "url": "https://www.computable.nl/2026/11/24/kort-zuid-holland-deelt-digitale-monitor-bumastemra-dreigt-met-rechtszaak-tegen-ai-muziek-en-meer/"
+  },
+  {
+   "id": "00273609447a",
+   "titel": "Shirudo-runtime van Cisco en OpenAI beschermt Linux zonder downtime",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-24",
+   "samenvatting": "Patchen blijft nodig, maar dat hoeft niet een herstart te betekenen. De eBPF-gebaseerde Shirudo-runtime van OpenAI en Cisco houdt Linux-systemen veilig terwijl patches worden uitgerold. Omdat een legitiem verzoek en een exploitatie van een kwetsbaarheid zeer vergelijkbaar ogen, is het een risico...",
+   "url": "https://www.techzine.nl/nieuws/security/584357/shirudo-runtime-van-cisco-en-openai-beschermt-linux-zonder-downtime/"
+  },
+  {
+   "id": "feb579d43b95",
+   "titel": "Power BI November 2026 Feature Summary",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-11-23",
+   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________________ Welcome to the November 2026 Power BI feature summary! We're sharing this mo...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287"
+  },
+  {
+   "id": "f6a28382bfa7",
+   "titel": "Enable Azure Blob Storage Events Without Compromising Your Tenant Private Links Policy",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-23",
+   "samenvatting": "Learn how to keep Microsoft Fabric tenant private links enabled while allowing approved Azure Blob Storage events through workspace Resource Instance Rules.",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Enable-Azure-Blob-Storage-Events-Without-Compromising-Your/ba-p/5408564"
+  },
+  {
+   "id": "f47446a0e3a7",
+   "titel": "Scalar User-defined functions (UDFs) in Microsoft Fabric Data Warehouse (Generally Available)",
+   "categorie": "Data",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-23",
+   "samenvatting": "T-SQL scalar user-defined functions (UDFs) are now generally available in Microsoft Fabric Data Warehouse and the SQL analytics endpoint. During preview, scalar UDFs gained support for procedural T-SQL and additional query shapes through Expression Block inlining, a technology built to run proced...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Scalar-User-defined-functions-UDFs-in-Microsoft-Fabric-Data/ba-p/5399753"
+  },
+  {
+   "id": "eec7bb2b69dd",
+   "titel": "The Monday morning incident: your “Lead Routing” workflow stopped routing",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-11-23",
+   "samenvatting": "This post covers an incident with a lead routing workflow and how n8n’s access controls help: projects and roles, SSO, and 2FA enforcement. Each one stops the incident at a different point.",
+   "url": "https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/"
+  },
+  {
+   "id": "e40aa52b994f",
+   "titel": "Fabric on-demand billing and Zero-provisioned (F0) Capacity (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-23",
+   "samenvatting": "Microsoft is introducing a new way to consume Fabric called on-demand billing. This includes a new F0 SKU, enabling customers to get started with zero upfront commitment, as well as a hybrid option that pairs any traditional F SKU with the flexibility of on-demand billing. In addition to the trad...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-on-demand-billing-and-Zero-provisioned-F0-Capacity/ba-p/5377585"
+  },
   {
    "id": "bd4bdc2508e7",
    "titel": "Oracle stelt financiering voor OpenAI-datacenters veilig",
@@ -121,6 +231,26 @@
    "url": "https://www.techzine.nl/experts/security/584285/ai-beveiligen-kijk-niet-alleen-naar-wat-het-mag-maar-vooral-naar-wat-het-doet/"
   },
   {
+   "id": "611d70231e8b",
+   "titel": "Tune the performance of your medallion pipeline in Fabric Data Warehouse",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-23",
+   "samenvatting": "Coauthor - Artur Vieira Part 5 of a series on medallion architecture with Fabric Data Warehouse Measure first, then tune the layer that is actually slow The first four posts covered how to choose a pattern, build the Bronze, Silver, and Gold layers, establish operating rules, and secure each laye...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Tune-the-performance-of-your-medallion-pipeline-in-Fabric-Data/ba-p/5377545"
+  },
+  {
+   "id": "5f36a6178a47",
+   "titel": "On-demand billing for Fabric Data Warehouse (Preview)",
+   "categorie": "BI",
+   "bron": "Microsoft Fabric Blog",
+   "taal": "en",
+   "datum": "2026-11-23",
+   "samenvatting": "Only pay for what you consume Many warehouse workloads are highly variable. In some cases, a few peak periods demand significant compute, while the rest of the month usage is much lower. Shared capacity is a great fit for steady, predictable workloads, while workloads with variable or intermitten...",
+   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-demand-billing-for-Fabric-Data-Warehouse-Preview/ba-p/5376329"
+  },
+  {
    "id": "1873ce5b1e77",
    "titel": "Inkling 2 Mini: wat Claude Opus vorig jaar kon, kan lokale AI nu",
    "categorie": "AI",
@@ -137,7 +267,7 @@
    "bron": "Computable",
    "taal": "nl",
    "datum": "2026-11-23",
-   "samenvatting": "In het nieuwsoverzicht van Computable: explosieve groei ai-tokens legt druk op opslag- en infrastructuursystemen, 5 kritieke kwetsbaarheden in F5 BIG-IP, een nieuwe beheerlaag van voor Claude binnen AWS, startkapitaal voor ai-platform cannabisinformatie Toke en Northwave wint innovatieprijs.",
+   "samenvatting": "In het nieuwsoverzicht: explosieve groei ai-tokens legt druk op opslag- en infrastructuursystemen, 5 kritieke kwetsbaarheden in F5 BIG-IP, een nieuwe beheerlaag van voor Claude binnen AWS, startkapitaal voor ai-platform cannabisinformatie Toke en Northwave wint innovatieprijs.",
    "url": "https://www.computable.nl/2026/11/23/kort-ai-tokens-zetten-ict-onder-druk-kritieke-lekken-in-f5-big-ip-en-meer/"
   },
   {
@@ -349,16 +479,6 @@
    "datum": "2026-11-19",
    "samenvatting": "In januari 2021 begonnen zeven voormalige OpenAI-medewerkers met een nieuw AI-bedrijf: Anthropic. Een kleine zes jaar later weet de maker van het alomtegenwoordige Claude eerder de Nasdaq te bereiken dan OpenAI. Belangrijker is het traject dat de waarde van het AI-bedrijf nu neemt na een afgezwak...",
    "url": "https://www.techzine.nl/blogs/applications/584200/anthropic-is-nu-beursgenoteerd-en-de-ai-hype-krijgt-een-stresstest/"
-  },
-  {
-   "id": "feb579d43b95",
-   "titel": "Power BI November 2026 Feature Summary",
-   "categorie": "BI",
-   "bron": "Power BI Blog (Microsoft)",
-   "taal": "en",
-   "datum": "2026-11-18",
-   "samenvatting": "If you haven’t already, read Arun Ulag’s Ignite blog post to learn how Microsoft is bringing together databases, analytics, and intelligent applications across Azure and Microsoft Fabric. ________________________________ Welcome to the November 2026 Power BI feature summary! We're sharing this mo...",
-   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287"
   },
   {
    "id": "cf5b81cc0604",
@@ -4089,16 +4209,6 @@
    "datum": "2026-09-25",
    "samenvatting": "n8n now has a new type of Agent. Describe what an agent should do, choose a model, the tools and workflows it can use, and it's ready to go!",
    "url": "https://blog.n8n.io/introducing-n8n-agents/"
-  },
-  {
-   "id": "d7592511b946",
-   "titel": "China en VS beide op zoek naar de heilige graal van AI-heerschappij",
-   "categorie": "AI",
-   "bron": "NOS Tech",
-   "taal": "nl",
-   "datum": "2026-09-24",
-   "samenvatting": "Bij de top vandaag in Washington tussen de Chinese president Xi Jiping en zijn Amerikaanse gastheer Trump zal ook de ontwikkeling van AI ter tafel komen. Zowel China als de VS is er veel aan gelegen de onbetwiste leider te worden in het toepassen van kunstmatige intelligentie. Een dergelijke posi...",
-   "url": "https://nos.nl/l/2632294"
   }
  ]
 }
