@@ -1,12 +1,12 @@
 {
- "bijgewerkt": "2026-11-24T14:25:28+00:00",
+ "bijgewerkt": "2026-11-25T13:44:11+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
    "status": "OK",
    "items": 20,
-   "bewaard": 9,
-   "verouderd": 10,
+   "bewaard": 11,
+   "verouderd": 8,
    "geweigerd": 0
   },
   {
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 4,
+   "bewaard": 3,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,20 +66,50 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 4,
+   "bewaard": 1,
    "verouderd": 0,
-   "geweigerd": 1
+   "geweigerd": 0
   },
   {
    "feed": "NOS Tech",
    "status": "OK",
    "items": 20,
-   "bewaard": 4,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   }
  ],
  "items": [
+  {
+   "id": "aa6baa363ac7",
+   "titel": "Nederlandse hackersgroep zelf gehackt, 'door autonome AI-agents'",
+   "categorie": "AI",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-11-25",
+   "samenvatting": "Aanvallers hebben met behulp van AI ingebroken bij DIVD, een Nederlands verband van ethische hackers. De aanvallers lieten AI-programma's waarschijnlijk autonoom inbreken op de systemen, die daardoor veel sneller konden werken dan mensen, stellen externe onderzoekers. Het in 2019 opgerichte DIVD...",
+   "url": "https://nos.nl/l/2640968"
+  },
+  {
+   "id": "d2bf5900cc6e",
+   "titel": "Paginated reports in Power BI support outbound access protection (Preview)",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-11-24",
+   "samenvatting": "Paginated reports can combine data from Power BI semantic models and other data sources with external resources such as maps and images. Workspace admins can control which destinations the Power BI service can reach when it renders these reports. Paginated reports now support workspace outbound a...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Paginated-reports-in-Power-BI-support-outbound-access-protection/ba-p/5435045"
+  },
+  {
+   "id": "c6e3b67831d0",
+   "titel": "Optimisme na terugkeer Nvidia-CEO ebt weg, Anthropic zakt onder IPO-prijs",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-24",
+   "samenvatting": "Anthropic betrad de beurs in turbulente tijden. Na het vertrek en de plotselinge terugkeer van Jensen Huang als Nvidia-CEO is die turbulentie alleen maar toegenomen. Hoewel de cijfers voor vrijwel alle AI-gerelateerde aandelen groen waren gisteren, is de maker van Claude nu onder de eigen introdu...",
+   "url": "https://www.techzine.nl/nieuws/applications/584362/optimisme-na-terugkeer-nvidia-ceo-ebt-weg-anthropic-zakt-onder-ipo-prijs/"
+  },
   {
    "id": "c31a61d7386c",
    "titel": "Data en ai maken duurzame keuzes aantrekkelijker voor consumenten en bedrijven",
@@ -121,6 +151,16 @@
    "url": "https://www.techzine.nl/nieuws/infrastructure/584348/amazon-neemt-ai-optimalisatietechnologie-van-decart-over/"
   },
   {
+   "id": "79b56d3f1c9f",
+   "titel": "Production AI Playbook: Audit & trace for AI agents",
+   "categorie": "AI",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-11-24",
+   "samenvatting": "Reconstruct an AI decision, and retain the records needed to explain it later. Five hands-on n8n exercises: reading saved executions, tagging decisions for search, tracing tool calls with OpenTelemetry, and proving which workflow version ran.",
+   "url": "https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/"
+  },
+  {
    "id": "56a6498bd96d",
    "titel": "Kort: Zuid-Holland deelt digitale monitor, BumaStemra dreigt met rechtszaak tegen ai-muziek (en meer)",
    "categorie": "AI",
@@ -129,6 +169,26 @@
    "datum": "2026-11-24",
    "samenvatting": "Zuid-Holland deelt openbare monitor digitalisering, Verzekeraar QBE ziet forse stijging ransomware-slachtoffers, veel softwareontwikkelaars keuren ai-gegenereerde code goed zonder die te begrijpen, Workday ziet groei van ai-agents en Europese klanten, BumaStemra dreigt met rechstzaak tegen ai",
    "url": "https://www.computable.nl/2026/11/24/kort-zuid-holland-deelt-digitale-monitor-bumastemra-dreigt-met-rechtszaak-tegen-ai-muziek-en-meer/"
+  },
+  {
+   "id": "51173a235a2f",
+   "titel": "Ai geeft logistiek duwtje in de rug en laat it-sector groeien",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-24",
+   "samenvatting": "Kunstmatige intelligentie (ai) wint snel terrein in de transport- en logistieke sector. Nederlandse bedrijven behoren daarbij tot de Europese kopgroep. Dat stelt ABN Amro na onderzoek. De bank bracht ook een sectorprognose voor de tech- en mediasector uit.",
+   "url": "https://www.computable.nl/2026/11/24/ai-geeft-logistiek-duwtje-in-de-rug-en-laat-it-sector-groeien/"
+  },
+  {
+   "id": "3d06b5adf666",
+   "titel": "Workspace outbound access protection for Power BI semantic models and interactive reports (Generally Available)",
+   "categorie": "BI",
+   "bron": "Power BI Blog (Microsoft)",
+   "taal": "en",
+   "datum": "2026-11-24",
+   "samenvatting": "Workspace outbound access protection (OAP) is generally available for Power BI semantic models and interactive Power BI reports in Microsoft Fabric workspaces. With OAP, workspace admins can limit which data sources semantic models reach. They can also limit which semantic models in other workspa...",
+   "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-semantic/ba-p/5435053"
   },
   {
    "id": "00273609447a",
@@ -4189,26 +4249,6 @@
    "datum": "2026-09-27",
    "samenvatting": "Het Amerikaanse bedrijf OpenAI heeft de training van zijn AI-modellen tijdelijk stopgezet. Aanleiding zijn de aanvallen van Open AI-agents afgelopen zomer op websites van onder meer de Amerikaanse overheid. AI-agents zijn AI-programma's die bepaalde opdrachten kunnen uitvoeren. De agents van Open...",
    "url": "https://nos.nl/l/2632698"
-  },
-  {
-   "id": "7ad81d4b4a34",
-   "titel": "On-premises data gateway September 2026 release",
-   "categorie": "BI",
-   "bron": "Microsoft Fabric Blog",
-   "taal": "en",
-   "datum": "2026-09-25",
-   "samenvatting": "The September 2026 release of the on-premises data gateway (version 3000.334) continues our commitment to delivering secure, reliable, and manageable connectivity between on-premises data sources and Microsoft Fabric services. This release includes improvements focused on gateway manageability, o...",
-   "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-September-2026-release/ba-p/5368525"
-  },
-  {
-   "id": "32d3b4c11c1c",
-   "titel": "Introducing n8n Agents",
-   "categorie": "Automatisering",
-   "bron": "n8n Blog (workflow-automatisering)",
-   "taal": "en",
-   "datum": "2026-09-25",
-   "samenvatting": "n8n now has a new type of Agent. Describe what an agent should do, choose a model, the tools and workflows it can use, and it's ready to go!",
-   "url": "https://blog.n8n.io/introducing-n8n-agents/"
   }
  ]
 }
