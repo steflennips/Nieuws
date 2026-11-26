@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-25T13:44:11+00:00",
+ "bijgewerkt": "2026-11-26T13:22:01+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 3,
+   "bewaard": 4,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -66,7 +66,7 @@
    "feed": "Techzine",
    "status": "OK",
    "items": 10,
-   "bewaard": 1,
+   "bewaard": 5,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -81,14 +81,114 @@
  ],
  "items": [
   {
+   "id": "bcd20212c16b",
+   "titel": "Cloudflare maakt websites doorzoekbaar voor AI-agents",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-26",
+   "samenvatting": "Cloudflare introduceert Search for Agents. Met één schakelaar in het dashboard maakt het bedrijf een AI Search-index van een website aan en zet het een zoekendpoint op het eigen domein. AI-agents hoeven pagina’s daardoor niet meer één voor één te crawlen. Cloudflares dienst AI Search kon websites...",
+   "url": "https://www.techzine.nl/nieuws/applications/584425/cloudflare-maakt-websites-doorzoekbaar-voor-ai-agents/"
+  },
+  {
+   "id": "61f6447af3b7",
+   "titel": "AI-gebruik door bedrijven verdubbeld, inhaalslag bij mkb'ers",
+   "categorie": "Data",
+   "bron": "NOS Tech",
+   "taal": "nl",
+   "datum": "2026-11-26",
+   "samenvatting": "Het aantal bedrijven dat gebruikmaakt van kunstmatige intelligentie, oftewel AI, is in een jaar meer dan verdubbeld. 41 procent van de bedrijven maakt daar gebruik van. Een jaar eerder was dat nog 18 procent, meldt het Centraal Bureau voor de Statistiek (CBS). Bij de grotere bedrijven is het gebr...",
+   "url": "https://nos.nl/l/2641047"
+  },
+  {
+   "id": "4f866b93af03",
+   "titel": "Kort: Ai-gebruik onder NL-bedrijven verdubbelt, Nederland hekkensluiter ai-verzekering (en meer)",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-26",
+   "samenvatting": "In dit nieuwsoverzicht: AI-gebruik bedrijven ruim verdubbeld, NDI en Overhoff fuseren, Breda in teken van technologie en cultuur, QSBN neemt data & ai-specialist Wave5 over en slechts kwart Nederlandse bedrijven verzekerd voor ai-incidenten.",
+   "url": "https://www.computable.nl/2026/11/26/kort-ai-gebruik-onder-nl-bedrijven-verdubbelt-nederland-hekkensluiter-ai-verzekering-en-meer/"
+  },
+  {
+   "id": "33ec35005b5a",
+   "titel": "DIVD-hack toont hoe snel ai-agent netwerk overneemt (1,3 seconde!)",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-26",
+   "samenvatting": "Het Dutch Institute for Vulnerability Disclosure is in september aangevallen met behulp van een ai-agent. Binnen 1,3 seconde nam de aanvaller een beheerderssessie over. In de daaropvolgende 26 uur werden bijna duizend scripts gegenereerd en kreeg de aanvaller vergaande toegang tot de systemen.",
+   "url": "https://www.computable.nl/2026/11/26/divd-hack-toont-hoe-snel-ai-agent-netwerk-overneemt-13-seconde/"
+  },
+  {
+   "id": "2e8e8cf9c02c",
+   "titel": "Europese ai-opensource-modellen nog vaak strijdig met publieke waarden",
+   "categorie": "AI",
+   "bron": "Computable",
+   "taal": "nl",
+   "datum": "2026-11-26",
+   "samenvatting": "Ai-modellen van Europese bodem zijn vooralsnog niet zo geschikt voor de overheid. Ze houden zich relatief slecht aan de Nederlandse publieke waarden zoals het niet-selecteren van mensen op basis van hun afkomst. Dit blijkt uit onderzoek dat is uitgevoerd door UTF.ai, een ai-bedrijf uit Tilburg.",
+   "url": "https://www.computable.nl/2026/11/26/europese-ai-opensource-modellen-nog-vaak-strijdig-met-publieke-waarden/"
+  },
+  {
+   "id": "1e45fa732e92",
+   "titel": "Open-sourcecode vertekent mogelijk AI-benchmarks",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-26",
+   "samenvatting": "AI-agents presteren beter bij het werken met publiek beschikbare code dan met niet-openbare code. Dit blijkt uit onderzoek van JetBrains. De bevindingen roepen vragen op over de betrouwbaarheid van AI-codingbenchmarks. JetBrains heeft zijn Kotlin Benchmark herzien. Dit gebeurde nadat het aanwijzi...",
+   "url": "https://www.techzine.nl/nieuws/devops/584441/open-sourcecode-vertekent-mogelijk-ai-benchmarks/"
+  },
+  {
    "id": "aa6baa363ac7",
    "titel": "Nederlandse hackersgroep zelf gehackt, 'door autonome AI-agents'",
    "categorie": "AI",
    "bron": "NOS Tech",
    "taal": "nl",
    "datum": "2026-11-25",
-   "samenvatting": "Aanvallers hebben met behulp van AI ingebroken bij DIVD, een Nederlands verband van ethische hackers. De aanvallers lieten AI-programma's waarschijnlijk autonoom inbreken op de systemen, die daardoor veel sneller konden werken dan mensen, stellen externe onderzoekers. Het in 2019 opgerichte DIVD...",
+   "samenvatting": "Aanvallers hebben met behulp van AI ingebroken bij DIVD, een Nederlands verband van ethische hackers. De aanvallers lieten AI-programma's waarschijnlijk autonoom inbreken op de systemen, die daardoor veel sneller konden werken dan mensen, stellen externe onderzoekers in een vandaag verschenen rap...",
    "url": "https://nos.nl/l/2640968"
+  },
+  {
+   "id": "88fc2bfdc696",
+   "titel": "LLM’s omzeilen sandbox om met elkaar te communiceren",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-25",
+   "samenvatting": "Een opmerkelijke bevinding van onderzoekers: twee agents in sandboxed omgevingen kunnen via side channels met elkaar communiceren, zolang ze op dezelfde inference-server draaien. Het subtiel beïnvloeden van de berekeningen van een ander model blijft mogelijk, ondanks gebruikelijke technieken die...",
+   "url": "https://www.techzine.nl/nieuws/security/584412/llms-omzeilen-sandbox-om-met-elkaar-te-communiceren/"
+  },
+  {
+   "id": "77ac5e11cda2",
+   "titel": "DIVD-hackers gehackt door AI-agent",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-25",
+   "samenvatting": "Het Dutch Institute for Vulnerability Disclosure (DIVD) is in september gehackt via twee zero-days in helpdesksoftware Zammad. Volgens het onderzoeksrapport gebruikte de aanvaller vermoedelijk het agentic AI-framework ARTEX. Ruim 4.000 e-mailadressen werden gelekt, waarvan 207 van DIVD-leden. Het...",
+   "url": "https://www.techzine.nl/nieuws/security/584415/divd-hackers-gehackt-door-ai-agent/"
+  },
+  {
+   "id": "73cd093205ba",
+   "titel": "XPENG zet vol in op gedeelde AI-chips voor auto’s en humanoïde robot IRON",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-25",
+   "samenvatting": "Tijdens XPENG AI Day in Guangzhou presenteerde de Chinese fabrikant de derde generatie van zijn humanoïde robot IRON, met een concreet tijdpad richting massaproductie in januari 2027. Opvallender dan de podiumdemonstratie zelf is de onderliggende architectuurkeuze. XPENG gebruikt exact dezelfde z...",
+   "url": "https://www.techzine.nl/blogs/privacy-compliance/584402/xpeng-zet-vol-in-op-gedeelde-ai-chips-voor-autos-en-humanoide-robot-iron/"
+  },
+  {
+   "id": "ea2474b852ec",
+   "titel": "Now available: Cross-region Link to Fabric and Update connection",
+   "categorie": "BI",
+   "bron": "Microsoft Power Platform Blog (Power Automate)",
+   "taal": "en",
+   "datum": "2026-11-24",
+   "samenvatting": "Link to Fabric helps customers bring Microsoft Dataverse data into Fabric without building and maintaining complex data pipelines. Today, we are announcing two updates that make creating and managing these links simpler and more resilient: • Cross-region Link to Fabric: Connect any Dataverse regi...",
+   "url": "https://www.microsoft.com/en-us/power-platform/blog/2026/11/24/now-available-cross-region-link-to-fabric-and-update-connection/"
   },
   {
    "id": "d2bf5900cc6e",
