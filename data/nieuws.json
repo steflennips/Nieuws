@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-26T13:22:01+00:00",
+ "bijgewerkt": "2026-11-27T13:19:35+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -53,7 +53,7 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 4,
+   "bewaard": 3,
    "verouderd": 0,
    "geweigerd": 0
   },
@@ -81,6 +81,46 @@
  ],
  "items": [
   {
+   "id": "b4c0cbab60b6",
+   "titel": "ARTEX: een AI-droom voor cyberaanvallers, maar eigenlijk doodgewoon",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-27",
+   "samenvatting": "Toen de ethische hackers van DIVD zelf getroffen waren door een hack, zaten ze in hetzelfde schuitje als de CIA en de Europese Commissie. In alle drie de gevallen wijst het spoor naar ARTEX, een securityframework voor pentesting dat sinds de zomer van dit jaar beschikbaar is. Geen van de individu...",
+   "url": "https://www.techzine.nl/blogs/security/584468/artex-een-ai-droom-voor-cyberaanvallers-maar-eigenlijk-doodgewoon/"
+  },
+  {
+   "id": "9bd4954a9e4e",
+   "titel": "Microsoft geeft AI-agents meer autonomie in VS Code",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-27",
+   "samenvatting": "Microsoft geeft AI-agents in Visual Studio Code meer vrijheid om zelfstandig programmeertaken uit te voeren. Met versie 1.148 kunnen agents blijven werken nadat ontwikkelaars het venster hebben gesloten. Ook breidt Microsoft de mogelijkheden voor geïsoleerde ontwikkelomgevingen uit en verbetert h...",
+   "url": "https://www.techzine.nl/nieuws/devops/584481/microsoft-geeft-ai-agents-meer-autonomie-in-vs-code/"
+  },
+  {
+   "id": "563c387d2fcb",
+   "titel": "Hoe ServiceNow AI-agents veilig en beheersbaar wil houden",
+   "categorie": "Automatisering",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-27",
+   "samenvatting": "Organisaties zetten steeds vaker AI-agents in, maar in de praktijk blijkt het lastig om ze tegelijkertijd zelfstandig, rendabel en veilig te laten werken. Zonder duidelijke grenzen lopen de kosten op en ontstaan er nieuwe securityrisico’s. ServiceNow speelt in op dat knelpunt met striktere contro...",
+   "url": "https://www.techzine.nl/blogs/applications/584486/hoe-servicenow-ai-agents-veilig-en-beheersbaar-wil-houden/"
+  },
+  {
+   "id": "4753ae01545c",
+   "titel": "SAP wil ten minste 10.000 banen schrappen in AI-transitie",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-27",
+   "samenvatting": "SAP SE bereidt een plan voor om ten minste 10.000 arbeidsplaatsen te schrappen. Hiermee wil het softwarebedrijf zijn organisatie transformeren voor het tijdperk van AI, zo melden ingewijden. Definitief is het plan nog niet. Een formeel besluit wordt pas begin 2027 verwacht. Traditioneel kondigt S...",
+   "url": "https://www.techzine.nl/nieuws/applications/584469/sap-wil-ten-minste-10000-banen-schrappen-in-ai-transitie/"
+  },
+  {
    "id": "bcd20212c16b",
    "titel": "Cloudflare maakt websites doorzoekbaar voor AI-agents",
    "categorie": "AI",
@@ -91,6 +131,16 @@
    "url": "https://www.techzine.nl/nieuws/applications/584425/cloudflare-maakt-websites-doorzoekbaar-voor-ai-agents/"
   },
   {
+   "id": "91cfc95fcfd5",
+   "titel": "Wie is er aansprakelijk als een AI-agent bedrijfsgeheimen lekt?",
+   "categorie": "AI",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-26",
+   "samenvatting": "Wie bijna dertig jaar lang aan het front staat van digitale beveiliging, ziet de geschiedenis zich herhalen, maar het tempo juist drastisch versnellen. Bryan Palma begon in de jaren negentig bij de Amerikaanse Secret Service met de bestrijding van cybercriminaliteit en staat nu aan het roer van w...",
+   "url": "https://www.techzine.nl/blogs/security/584201/wie-is-er-aansprakelijk-als-een-ai-agent-bedrijfsgeheimen-lekt/"
+  },
+  {
    "id": "61f6447af3b7",
    "titel": "AI-gebruik door bedrijven verdubbeld, inhaalslag bij mkb'ers",
    "categorie": "Data",
@@ -99,6 +149,16 @@
    "datum": "2026-11-26",
    "samenvatting": "Het aantal bedrijven dat gebruikmaakt van kunstmatige intelligentie, oftewel AI, is in een jaar meer dan verdubbeld. 41 procent van de bedrijven maakt daar gebruik van. Een jaar eerder was dat nog 18 procent, meldt het Centraal Bureau voor de Statistiek (CBS). Bij de grotere bedrijven is het gebr...",
    "url": "https://nos.nl/l/2641047"
+  },
+  {
+   "id": "564d9346ab0a",
+   "titel": "AI Test Case Generation for Production QA Pipelines",
+   "categorie": "Automatisering",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-11-26",
+   "samenvatting": "Learn how AI test case generation improves test coverage and speeds testing across systems. Discover how orchestration enhances QA processes.",
+   "url": "https://blog.n8n.io/ai-test-case-generation/"
   },
   {
    "id": "4f866b93af03",
@@ -4339,16 +4399,6 @@
    "datum": "2026-09-28",
    "samenvatting": "Explain any AI agent's decision without stitching logs. Camunda 8.10 shows agent state, reasoning, and tool calls in Operate, for every agent.",
    "url": "https://camunda.com/blog/2026/09/stop-stitching-logs-to-explain-an-ai-agents-decision/"
-  },
-  {
-   "id": "ac9819999974",
-   "titel": "OpenAI pauzeert training modellen na aanval op overheidswebsites",
-   "categorie": "AI",
-   "bron": "NOS Tech",
-   "taal": "nl",
-   "datum": "2026-09-27",
-   "samenvatting": "Het Amerikaanse bedrijf OpenAI heeft de training van zijn AI-modellen tijdelijk stopgezet. Aanleiding zijn de aanvallen van Open AI-agents afgelopen zomer op websites van onder meer de Amerikaanse overheid. AI-agents zijn AI-programma's die bepaalde opdrachten kunnen uitvoeren. De agents van Open...",
-   "url": "https://nos.nl/l/2632698"
   }
  ]
 }
