@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-27T13:19:35+00:00",
+ "bijgewerkt": "2026-11-28T12:35:03+00:00",
  "feeds": [
   {
    "feed": "Power BI Blog (Microsoft)",
@@ -37,8 +37,8 @@
    "feed": "Camunda Blog (procesautomatisering)",
    "status": "OK",
    "items": 50,
-   "bewaard": 11,
-   "verouderd": 12,
+   "bewaard": 10,
+   "verouderd": 13,
    "geweigerd": 4
   },
   {
@@ -53,9 +53,9 @@
    "feed": "Computable",
    "status": "OK",
    "items": 10,
-   "bewaard": 3,
+   "bewaard": 1,
    "verouderd": 0,
-   "geweigerd": 0
+   "geweigerd": 1
   },
   {
    "feed": "Emerce",
@@ -81,6 +81,16 @@
  ],
  "items": [
   {
+   "id": "efa000962777",
+   "titel": "Architectural Patterns for Deterministic AI Pipelines",
+   "categorie": "AI",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-11-27",
+   "samenvatting": "Learn what deterministic AI is, how it differs from non-deterministic AI, and which architectural patterns make AI pipelines reliable and auditable.",
+   "url": "https://blog.n8n.io/deterministic-ai/"
+  },
+  {
    "id": "b4c0cbab60b6",
    "titel": "ARTEX: een AI-droom voor cyberaanvallers, maar eigenlijk doodgewoon",
    "categorie": "AI",
@@ -101,6 +111,16 @@
    "url": "https://www.techzine.nl/nieuws/devops/584481/microsoft-geeft-ai-agents-meer-autonomie-in-vs-code/"
   },
   {
+   "id": "664f33b87337",
+   "titel": "How Fault Tolerance Supports Reliable AI Workflows",
+   "categorie": "AI",
+   "bron": "n8n Blog (workflow-automatisering)",
+   "taal": "en",
+   "datum": "2026-11-27",
+   "samenvatting": "Fault tolerance can keep a failed API call from derailing an AI workflow. Learn how to plan recovery without repeating actions that already succeeded.",
+   "url": "https://blog.n8n.io/fault-tolerance/"
+  },
+  {
    "id": "563c387d2fcb",
    "titel": "Hoe ServiceNow AI-agents veilig en beheersbaar wil houden",
    "categorie": "Automatisering",
@@ -119,6 +139,16 @@
    "datum": "2026-11-27",
    "samenvatting": "SAP SE bereidt een plan voor om ten minste 10.000 arbeidsplaatsen te schrappen. Hiermee wil het softwarebedrijf zijn organisatie transformeren voor het tijdperk van AI, zo melden ingewijden. Definitief is het plan nog niet. Een formeel besluit wordt pas begin 2027 verwacht. Traditioneel kondigt S...",
    "url": "https://www.techzine.nl/nieuws/applications/584469/sap-wil-ten-minste-10000-banen-schrappen-in-ai-transitie/"
+  },
+  {
+   "id": "167890274db9",
+   "titel": "Oracle wil niet je primaire cloud zijn, wel je AI-cloud",
+   "categorie": "Data",
+   "bron": "Techzine",
+   "taal": "nl",
+   "datum": "2026-11-27",
+   "samenvatting": "Oracle had lock-in tot een kunstvorm verheven, maar dat is verleden tijd. Het heeft de strijd opgegeven om je primaire cloudleverancier te zijn. Je data en databases mogen overal staan, zolang de AI-workloads maar bij Oracle draaien. Tijdens Oracle AI World werd duidelijk hoe ver Oracle daarin ga...",
+   "url": "https://www.techzine.nl/blogs/infrastructure/584326/oracle-wil-niet-je-primaire-cloud-zijn-wel-je-ai-cloud/"
   },
   {
    "id": "bcd20212c16b",
@@ -4389,16 +4419,6 @@
    "datum": "2026-09-29",
    "samenvatting": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. AI is changing what organizations need from their databases. Th...",
    "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Connecting-apps-databases-and-AI-on-one-foundation-new/ba-p/5369538"
-  },
-  {
-   "id": "76fe4526c657",
-   "titel": "Increase AI Agent Trust: Stop Stitching Logs to Explain an AI Agent's Decision",
-   "categorie": "AI",
-   "bron": "Camunda Blog (procesautomatisering)",
-   "taal": "en",
-   "datum": "2026-09-28",
-   "samenvatting": "Explain any AI agent's decision without stitching logs. Camunda 8.10 shows agent state, reasoning, and tool calls in Operate, for every agent.",
-   "url": "https://camunda.com/blog/2026/09/stop-stitching-logs-to-explain-an-ai-agents-decision/"
   }
  ]
 }
